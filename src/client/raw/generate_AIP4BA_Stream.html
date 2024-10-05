@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Simple random stream</title>
+    <style>
+      .output {
+        float: left;
+        width: 50%;
+      }
+
+      hr {
+        clear: both;
+      }
+
+      button {
+        display: block;
+      }
+    </style>
+  </head>
+  <body>
+    <label for="name">Prompt:</label>
+    <input type="text" id="prompt" name="name" size="100" />
+
+    <button>run</button>
+
+    <hr />
+
+    <h2>Answer:</h2>
+
+    <p id="out"></p>
+
+    <script>
+      const url =
+        "http://localhost:8000/generate?limit=2&stream=True&model=llama3%2E1";
+      const paraOut = document.getElementById("out");
+      const promptContent = document.getElementById("prompt").value;
+      const button = document.querySelector("button");
+
+      let result = "";
+
+      async function readStream() {
+        const response = await fetch(url, {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json; charset=utf-8",
+          },
+          body: JSON.stringify({
+            prompt: promptContent,
+          }),
+        });
+
+        const decodedStream = response.body.pipeThrough(
+          new TextDecoderStream()
+        );
+
+        for await (const chunk of decodedStream) {
+          try {
+            ollamaResponseObjects = [JSON.parse(chunk)];
+          } catch {
+            // ollama sometimes stack json-like string together, which create JSON unparsable string
+            const chunks = chunk.split("\n").slice(0, -1);
+            ollamaResponseObjects = chunks.map((c) => {
+              return JSON.parse(c);
+            });
+          }
+          for (const ollamaResponseObject of ollamaResponseObjects) {
+            if (ollamaResponseObject.done) {
+              break;
+            }
+            result += ollamaResponseObject.response;
+            paraOut.textContent = result;
+          }
+        }
+      }
+
+      button.addEventListener("click", async function () {
+        await readStream();
+      });
+    </script>
+  </body>
+</html>
