@@ -2,6 +2,9 @@
   import BotA from "./BotA.svelte";
   import UserQ from "./UserQ.svelte";
 
+  const url =
+    "http://localhost:8000/generate?limit=2&stream=True&model=llama3%2E1";
+
   $: prompt = "";
   $: answer = "";
   $: awaitingAnswer = false;
@@ -17,9 +20,8 @@
       return;
     }
     console.log(`from ChatDialog; run with prompt: ${prompt}`);
-    const stream = new ReadableStream(new TimestampSource());
     awaitingAnswer = true;
-    await asyncIteration(stream);
+    await readOllamaAnswerStream();
     chatBubbles = [
       ...chatBubbles,
       { id: numOfchatBubbles + 1, role: "user", text: prompt },
@@ -30,36 +32,41 @@
     awaitingAnswer = false;
   }
 
-  class TimestampSource {
-    interval: any;
+  async function readOllamaAnswerStream(): Promise<void> {
+    const response = await fetch(url, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+      },
+      body: JSON.stringify({
+        prompt: prompt,
+      }),
+    });
 
-    start(controller: any) {
-      this.interval = setInterval(() => {
-        const str = new Date().toLocaleTimeString();
+    if (response && response.body) {
+      const decodedStream = response.body.pipeThrough(new TextDecoderStream());
 
-        controller.enqueue(str);
-        console.log(`Enqueued ${str}`);
-      }, 1_000);
-
-      setInterval(() => {
-        clearInterval(this.interval);
-        controller.close();
-      }, 10_000);
+      for await (const chunk of decodedStream) {
+        let ollamaResponseObjects = [];
+        try {
+          ollamaResponseObjects = [JSON.parse(chunk)];
+        } catch {
+          // ollama sometimes stack json-like string together, which create JSON unparsable string
+          const chunks = chunk.split("\n").slice(0, -1);
+          ollamaResponseObjects = chunks.map((c) => {
+            return JSON.parse(c);
+          });
+        }
+        for (const ollamaResponseObject of ollamaResponseObjects) {
+          if (ollamaResponseObject.done) {
+            break;
+          }
+          answer += ollamaResponseObject.response;
+        }
+      }
+    } else {
+      answer = "Invalid answer";
     }
-
-    cancel() {
-      console.log(`\n !!! Stream done !!! \n`);
-    }
-  }
-
-  async function asyncIteration(stream: any) {
-    for await (const chunk of stream) {
-      console.log(chunk);
-      console.log();
-
-      answer += chunk;
-    }
-    return answer;
   }
 </script>
 
