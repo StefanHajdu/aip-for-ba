@@ -2,8 +2,11 @@
   import BotA from "./BotA.svelte";
   import UserQ from "./UserQ.svelte";
 
-  const url =
-    "http://localhost:8000/generate?limit=2&stream=True&model=llama3%2E1";
+  const urlStream =
+    "https://aip-api.shs-net.org/generate?limit=2&stream=True&model=llama3%2E1";
+
+  const urlGenerate =
+    "https://aip-api.shs-net.org/generate?limit=2&stream=False&model=llama3%2E1";
 
   $: prompt = "";
   $: answer = "";
@@ -21,7 +24,8 @@
     }
     console.log(`from ChatDialog; run with prompt: ${prompt}`);
     awaitingAnswer = true;
-    await readOllamaAnswerStream();
+    // choose answer output method
+    await readOllamaAnswerGenerate();
     chatBubbles = [
       ...chatBubbles,
       { id: numOfchatBubbles + 1, role: "user", text: prompt },
@@ -33,7 +37,7 @@
   }
 
   async function readOllamaAnswerStream(): Promise<void> {
-    const response = await fetch(url, {
+    const response = await fetch(urlStream, {
       method: "POST",
       headers: {
         "Content-Type": "application/json; charset=utf-8",
@@ -54,6 +58,7 @@
           // ollama sometimes stack json-like string together, which create JSON unparsable string
           const chunks = chunk.split("\n").slice(0, -1);
           ollamaResponseObjects = chunks.map((c) => {
+            console.log(JSON.parse(c));
             return JSON.parse(c);
           });
         }
@@ -64,6 +69,25 @@
           answer += ollamaResponseObject.response;
         }
       }
+    } else {
+      answer = "Invalid answer";
+    }
+  }
+
+  async function readOllamaAnswerGenerate(): Promise<void> {
+    const response = await fetch(urlGenerate, {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json; charset=utf-8",
+      },
+      body: JSON.stringify({
+        prompt: prompt,
+      }),
+    });
+
+    if (response && response.body) {
+      const responseJSON = await response.json();
+      answer = responseJSON.llm_answer + responseJSON.sources.toString();
     } else {
       answer = "Invalid answer";
     }
