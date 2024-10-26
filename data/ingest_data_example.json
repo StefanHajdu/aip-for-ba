@@ -2,7 +2,8 @@
     {
         "title": "Národnostné zloženie obyvateľstva",
         "paragraph": "Podľa sčítania v roku 2021 malo slovenskú národnosť 89,8%, maďarskú 2,4%, českú 1,1% a nemeckú 0,2% obyvateľov. Bratislava bola v minulosti mnohonárodnostným mestom, ktoré prešlo značnými zmenami v etnickom zložení obyvateľstva. Po mongolskom vpáde do Uhorska nastal v oblasti Bratislavy demografický pokles a vyľudnenie niektorých oblastí. To viedlo k novej prisťahovaleckej vlne, ktorá Bratislavu a blízke okolie výrazne ponemčila. V roku 1880 tvorili Nemci viac ako 60 % obyvateľstva (Nemci: 63,41 %, Slováci: 15,15 %, Maďari: 15,14 %). V nasledujúcich desaťročiach rýchlo rástol podiel maďarského obyvateľstva (1880: 15,14 %, 1890: 19,91 %, 1900: 30,52 %, 1910: 40,53 %) a to najmä na úkor Nemcov, ktorí stratili absolútnu väčšinu až v roku 1910.",
-        "sources": ["https://sk.wikipedia.org/wiki/Bratislava#Hospod%C3%A1rstvo_a_ekonomika"]
+        "sources": ["https://sk.wikipedia.org/wiki/Bratislava#Hospod%C3%A1rstvo_a_ekonomika"],
+        "csv_path": "path"
     },
     {
         "title": "Národnostné zloženie obyvateľstva",

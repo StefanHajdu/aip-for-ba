@@ -1,1 +1,1 @@
-collection_name = "bratislava_articles_example"
+collection_name = "bratislava_data_010"

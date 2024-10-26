@@ -4,6 +4,7 @@ import json
 from fastapi import FastAPI, status, HTTPException
 from fastapi.responses import StreamingResponse
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.httpsredirect import HTTPSRedirectMiddleware
 from contextlib import asynccontextmanager
 from pydantic import BaseModel
 from ollama import AsyncClient
@@ -33,17 +34,21 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+# app.add_middleware(HTTPSRedirectMiddleware)
 
 
 class _RAGBody(BaseModel):
     prompt: str
 
+class _OllamaBody(BaseModel):
+    prompt_user: str
+    prompt_system: str
 
 class _WeaviateObjectsResponseBody(BaseModel):
     title: str
-    paragraph: str
-    sources: list[str]
-
+    description: str
+    source: str
+    table: str
 
 class _RAGResponseBody(BaseModel):
     llm_answer: str
@@ -68,29 +73,32 @@ async def post_near_text(
         )
 
     collection_ba = weaviate_async_client.collections.get(weaviate_collection)
-    response = await collection_ba.query.hybrid(query=prompt, limit=limit)
+    response = await collection_ba.query.hybrid(query=prompt, max_vector_distance=0.25, limit=limit)
 
     return [
         _WeaviateObjectsResponseBody(
-            title=obj.properties["title"],
-            paragraph=obj.properties["paragraph"],
-            sources=obj.properties["sources"],
+            title=title if (title := obj.properties["title"]) else "no title",
+            description=description if (description := obj.properties["description"]) else "no description",
+            source=source if (source := obj.properties["sources"]) else "no source",
+            table=table if (table := obj.properties["table"]) else "no table",
         )
         for obj in response.objects
     ]
 
 
-@app.post("/generate/", status_code=status.HTTP_200_OK)
+@app.post("/generate-rag/", status_code=status.HTTP_200_OK)
 async def post_generate_answer(
     body: _RAGBody, limit: int = 2, stream: bool = True, model: str = "llama3.1"
-): 
+):
     if not await weaviate_async_client.is_ready():
         raise HTTPException(
             status_code=status.HTTP_503_SERVICE_UNAVAILABLE,
             detail="Weaviate is not ready",
         )
 
-    rag_objects: list[_WeaviateObjectsResponseBody] = await post_near_text(body, limit=limit)
+    rag_objects: list[_WeaviateObjectsResponseBody] = await post_near_text(
+        body, limit=limit
+    )
 
     rag_content = "\n".join([rag_obj.paragraph for rag_obj in rag_objects])
     rag_sources = list(chain(*[rag_obj.sources for rag_obj in rag_objects]))
@@ -98,13 +106,17 @@ async def post_generate_answer(
     prompt = f"You are given this query: {body.model_dump().get("prompt")}. Additional information that you must use to answer the query are provided here: {rag_content}"
 
     if not stream:
-        llm_response = await ollama_async_client.generate(model=model, prompt=prompt, stream=stream)
+        print("non-stream")
+        llm_response = await ollama_async_client.generate(
+            model=model, prompt=prompt, stream=stream
+        )
         return _RAGResponseBody(
-            llm_answer=llm_response["response"],
-            sources=list(set(rag_sources))
+            llm_answer=llm_response["response"], sources=list(set(rag_sources))
         )
     else:
-        llm_response_stream = await ollama_async_client.generate(model=model, prompt=prompt, stream=stream)
+        llm_response_stream = await ollama_async_client.generate(
+            model=model, prompt=prompt, stream=stream
+        )
 
         async def encode_response():
             async for item in llm_response_stream:
@@ -113,3 +125,27 @@ async def post_generate_answer(
                 yield json.dumps(item)
 
         return StreamingResponse(encode_response())
+
+
+
+@app.post("/generate/", status_code=status.HTTP_200_OK)
+async def post_generate_answer(
+    body: _OllamaBody, model: str = "llama3.1"
+):
+    prompt = body.model_dump()
+    prompt_user = prompt.get("prompt_user")
+    prompt_system = prompt.get("prompt_system")
+
+    print(prompt)
+
+    llm_response = await ollama_async_client.generate(
+        model=model, prompt=prompt_user, system=prompt_system, stream=False
+    )
+    return _RAGResponseBody(
+        llm_answer=llm_response["response"], sources=[]
+    )
+    
+
+@app.get("/")
+async def root():
+    return {"message": "Hello World"}

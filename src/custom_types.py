@@ -3,5 +3,6 @@ from typing import TypedDict
 
 class DataObj(TypedDict):
     title: str
-    paragraph: str
-    sources: list[str]
+    description: str
+    sources: str
+    table: str
