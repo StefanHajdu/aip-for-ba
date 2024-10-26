@@ -1,0 +1,610 @@
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 1}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 2}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": null, "ObjectId": 3}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": null, "ObjectId": 4}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "24", "ObjectId": 5}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "17", "ObjectId": 6}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "22", "ObjectId": 7}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "27", "ObjectId": 8}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "26", "ObjectId": 9}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "19", "ObjectId": 10}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "28", "ObjectId": 11}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "15", "ObjectId": 12}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "452", "ObjectId": 13}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "487", "ObjectId": 14}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "439", "ObjectId": 15}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "457", "ObjectId": 16}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "787", "ObjectId": 17}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "758", "ObjectId": 18}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "872", "ObjectId": 19}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "785", "ObjectId": 20}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "574", "ObjectId": 21}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "625", "ObjectId": 22}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "567", "ObjectId": 23}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "557", "ObjectId": 24}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "392", "ObjectId": 25}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "401", "ObjectId": 26}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "426", "ObjectId": 27}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "460", "ObjectId": 28}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "255", "ObjectId": 29}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "241", "ObjectId": 30}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "290", "ObjectId": 31}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "275", "ObjectId": 32}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "290", "ObjectId": 33}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "288", "ObjectId": 34}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "275", "ObjectId": 35}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "306", "ObjectId": 36}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "408", "ObjectId": 37}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "503", "ObjectId": 38}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "528", "ObjectId": 39}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "514", "ObjectId": 40}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "1212", "ObjectId": 41}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "1146", "ObjectId": 42}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "1149", "ObjectId": 43}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "1189", "ObjectId": 44}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "327", "ObjectId": 45}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "309", "ObjectId": 46}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "343", "ObjectId": 47}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "305", "ObjectId": 48}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "688", "ObjectId": 49}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "696", "ObjectId": 50}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2013", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "105", "ObjectId": 51}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2014", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "106", "ObjectId": 52}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2015", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "111", "ObjectId": 53}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2016", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "103", "ObjectId": 54}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2013", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "31", "ObjectId": 55}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2014", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "33", "ObjectId": 56}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2015", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "38", "ObjectId": 57}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2016", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "38", "ObjectId": 58}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2013", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "51", "ObjectId": 59}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2014", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "52", "ObjectId": 60}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2015", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "37", "ObjectId": 61}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2016", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "45", "ObjectId": 62}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2013", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "72", "ObjectId": 63}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2014", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "61", "ObjectId": 64}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2015", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "78", "ObjectId": 65}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2016", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "81", "ObjectId": 66}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety v Bratislave (VšZaSP)", "Rok": "2013", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 67}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety v Bratislave (VšZaSP)", "Rok": "2014", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 68}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety v Bratislave (VšZaSP)", "Rok": "2015", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 69}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety v Bratislave (VšZaSP)", "Rok": "2016", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 70}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety v Bratislave (VšZaSP)", "Rok": "2013", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "473", "ObjectId": 71}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety v Bratislave (VšZaSP)", "Rok": "2014", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "803", "ObjectId": 72}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety v Bratislave (VšZaSP)", "Rok": "2015", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "740", "ObjectId": 73}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety v Bratislave (VšZaSP)", "Rok": "2016", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "725", "ObjectId": 74}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2013", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "57", "ObjectId": 75}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2014", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "51", "ObjectId": 76}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2015", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "6", "Počet_absolventov_denného_štúdi": "42", "ObjectId": 77}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2016", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "6", "Počet_absolventov_denného_štúdi": "49", "ObjectId": 78}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2013", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "229", "ObjectId": 79}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2014", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "266", "ObjectId": 80}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2015", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "244", "ObjectId": 81}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2016", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "296", "ObjectId": 82}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2013", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "482", "ObjectId": 83}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2014", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "405", "ObjectId": 84}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2015", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "377", "ObjectId": 85}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2016", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "374", "ObjectId": 86}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2013", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "982", "ObjectId": 87}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2014", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "938", "ObjectId": 88}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2015", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "906", "ObjectId": 89}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2016", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "813", "ObjectId": 90}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2013", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "1019", "ObjectId": 91}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2014", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "983", "ObjectId": 92}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2015", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "996", "ObjectId": 93}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2016", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "851", "ObjectId": 94}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2013", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "628", "ObjectId": 95}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2014", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "548", "ObjectId": 96}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2015", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "600", "ObjectId": 97}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2016", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "556", "ObjectId": 98}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2013", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "342", "ObjectId": 99}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2014", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "372", "ObjectId": 100}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "518", "ObjectId": 101}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "470", "ObjectId": 102}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "512", "ObjectId": 103}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "485", "ObjectId": 104}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "1083", "ObjectId": 105}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "1039", "ObjectId": 106}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "978", "ObjectId": 107}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "911", "ObjectId": 108}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "806", "ObjectId": 109}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta filozofická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "804", "ObjectId": 110}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "252", "ObjectId": 111}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "241", "ObjectId": 112}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "210", "ObjectId": 113}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "179", "ObjectId": 114}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "185", "ObjectId": 115}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta sociálnych a ekonomických vied (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "193", "ObjectId": 116}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "866", "ObjectId": 117}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "625", "ObjectId": 118}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "632", "ObjectId": 119}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "563", "ObjectId": 120}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "621", "ObjectId": 121}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "534", "ObjectId": 122}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "271", "ObjectId": 123}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "228", "ObjectId": 124}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "245", "ObjectId": 125}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "300", "ObjectId": 126}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "277", "ObjectId": 127}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "274", "ObjectId": 128}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2017", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 129}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2018", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 130}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2019", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 131}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2020", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 132}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2021", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 133}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2022", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 134}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2017", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 135}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2018", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 136}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2019", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 137}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2020", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 138}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2021", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 139}
+{"Vysoká_škola": "Akadémia médií  (AMB)", "Rok": "2022", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 140}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2017", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 141}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2018", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 142}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2019", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 143}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2020", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 144}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2021", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 145}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2022", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "0", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 146}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2017", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "10", "ObjectId": 147}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2018", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "12", "ObjectId": 148}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2019", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "8", "ObjectId": 149}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2020", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "13", "ObjectId": 150}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "623", "ObjectId": 151}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta pedagogická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "708", "ObjectId": 152}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2013", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "221", "ObjectId": 153}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2014", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "244", "ObjectId": 154}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2015", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "259", "ObjectId": 155}
+{"Vysoká_škola": "Univerzita Komenského v Bratislave (UK)", "Rok": "2016", "Fakulta": "Fakulta telesnej výchovy a športu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "217", "ObjectId": 156}
+{"Vysoká_škola": "Akadémia médií v Bratislave (AMB)", "Rok": "2013", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 157}
+{"Vysoká_škola": "Akadémia médií v Bratislave (AMB)", "Rok": "2014", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 158}
+{"Vysoká_škola": "Akadémia médií v Bratislave (AMB)", "Rok": "2015", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 159}
+{"Vysoká_škola": "Akadémia médií v Bratislave (AMB)", "Rok": "2016", "Fakulta": "Rektorát (AMB)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 160}
+{"Vysoká_škola": "Akadémia médií v Bratislave (AMB)", "Rok": "2013", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 161}
+{"Vysoká_škola": "Akadémia médií v Bratislave (AMB)", "Rok": "2014", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "14", "ObjectId": 162}
+{"Vysoká_škola": "Akadémia médií v Bratislave (AMB)", "Rok": "2015", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "45", "ObjectId": 163}
+{"Vysoká_škola": "Akadémia médií v Bratislave (AMB)", "Rok": "2016", "Fakulta": "Fakulta médií (AMB)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "54", "ObjectId": 164}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2013", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 165}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2014", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 166}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2015", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 167}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2016", "Fakulta": "Rektorát (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 168}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2013", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "19", "ObjectId": 169}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2014", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "9", "ObjectId": 170}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2015", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "7", "ObjectId": 171}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2016", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "20", "ObjectId": 172}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2013", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "5", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 173}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2014", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "5", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 174}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2015", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": null, "ObjectId": 175}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2016", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": null, "ObjectId": 176}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2013", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "19", "ObjectId": 177}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2014", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "6", "ObjectId": 178}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2015", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "18", "ObjectId": 179}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2016", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "18", "ObjectId": 180}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2013", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "153", "ObjectId": 181}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2014", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "128", "ObjectId": 182}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2015", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "128", "ObjectId": 183}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2016", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "100", "ObjectId": 184}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2013", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "471", "ObjectId": 185}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2014", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "491", "ObjectId": 186}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2015", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "467", "ObjectId": 187}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2016", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "270", "ObjectId": 188}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2013", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "170", "ObjectId": 189}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2014", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "163", "ObjectId": 190}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2015", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "143", "ObjectId": 191}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2016", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "154", "ObjectId": 192}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2013", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 193}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2014", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "28", "ObjectId": 194}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2015", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "42", "ObjectId": 195}
+{"Vysoká_škola": "Paneurópska vysoká škola v Bratislave (PEVŠ)", "Rok": "2016", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "63", "ObjectId": 196}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2013", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 197}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2014", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 198}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2015", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": null, "ObjectId": 199}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita v Bratislave (SZU)", "Rok": "2016", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": null, "ObjectId": 200}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2015", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "487", "ObjectId": 201}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2016", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "529", "ObjectId": 202}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2013", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "355", "ObjectId": 203}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2014", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "379", "ObjectId": 204}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2015", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "340", "ObjectId": 205}
+{"Vysoká_škola": "Slovenská technická univerzita v Bratislave (STU)", "Rok": "2016", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "292", "ObjectId": 206}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2013", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "68", "ObjectId": 207}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2014", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "61", "ObjectId": 208}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2015", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "46", "ObjectId": 209}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2016", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": null, "ObjectId": 210}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2013", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "657", "ObjectId": 211}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2014", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "557", "ObjectId": 212}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2015", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "502", "ObjectId": 213}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2016", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "411", "ObjectId": 214}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2013", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "612", "ObjectId": 215}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2014", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "589", "ObjectId": 216}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2015", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "508", "ObjectId": 217}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2016", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "515", "ObjectId": 218}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2013", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "527", "ObjectId": 219}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2014", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "525", "ObjectId": 220}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2015", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "439", "ObjectId": 221}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2016", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "434", "ObjectId": 222}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2013", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "369", "ObjectId": 223}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2014", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "343", "ObjectId": 224}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2015", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "296", "ObjectId": 225}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2016", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "287", "ObjectId": 226}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2013", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "636", "ObjectId": 227}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2014", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "574", "ObjectId": 228}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2015", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "538", "ObjectId": 229}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2016", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "519", "ObjectId": 230}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2013", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "206", "ObjectId": 231}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2014", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "172", "ObjectId": 232}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2015", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "195", "ObjectId": 233}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2016", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "193", "ObjectId": 234}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2013", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "32", "ObjectId": 235}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2014", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "57", "ObjectId": 236}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2015", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "88", "ObjectId": 237}
+{"Vysoká_škola": "Ekonomická univerzita v Bratislave (EUBA)", "Rok": "2016", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "101", "ObjectId": 238}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2013", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 239}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2014", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 240}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2015", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": null, "ObjectId": 241}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2016", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": null, "ObjectId": 242}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2013", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 243}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2014", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 244}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2015", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": null, "ObjectId": 245}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2016", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": null, "ObjectId": 246}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2013", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 247}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2014", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 248}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2015", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 249}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2016", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": null, "ObjectId": 250}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2013", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 251}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2014", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 252}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2015", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 253}
+{"Vysoká_škola": "VŠ Goethe Uni v Bratislave (VšGU)", "Rok": "2016", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": null, "ObjectId": 254}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy v Bratislave (VšEaMVS)", "Rok": "2013", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 255}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy v Bratislave (VšEaMVS)", "Rok": "2014", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 256}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy v Bratislave (VšEaMVS)", "Rok": "2015", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 257}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy v Bratislave (VšEaMVS)", "Rok": "2016", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 258}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy v Bratislave (VšEaMVS)", "Rok": "2013", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "205", "ObjectId": 259}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy v Bratislave (VšEaMVS)", "Rok": "2014", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "280", "ObjectId": 260}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy v Bratislave (VšEaMVS)", "Rok": "2015", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "260", "ObjectId": 261}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy v Bratislave (VšEaMVS)", "Rok": "2016", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "238", "ObjectId": 262}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2013", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 263}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2014", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 264}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2015", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": null, "ObjectId": 265}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2016", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": null, "ObjectId": 266}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2013", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "126", "ObjectId": 267}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2014", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "105", "ObjectId": 268}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2015", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "107", "ObjectId": 269}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2016", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "113", "ObjectId": 270}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2013", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "96", "ObjectId": 271}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2014", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "99", "ObjectId": 272}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2015", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "86", "ObjectId": 273}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2016", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "78", "ObjectId": 274}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2013", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "139", "ObjectId": 275}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2014", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "127", "ObjectId": 276}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2015", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "140", "ObjectId": 277}
+{"Vysoká_škola": "Vysoká škola múzických umení v Bratislave (VšMU)", "Rok": "2016", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "148", "ObjectId": 278}
+{"Vysoká_škola": "Vysoká škola výtvarných umení v Bratislave (VšVU)", "Rok": "2013", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 279}
+{"Vysoká_škola": "Vysoká škola výtvarných umení v Bratislave (VšVU)", "Rok": "2014", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 280}
+{"Vysoká_škola": "Vysoká škola výtvarných umení v Bratislave (VšVU)", "Rok": "2015", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 281}
+{"Vysoká_škola": "Vysoká škola výtvarných umení v Bratislave (VšVU)", "Rok": "2016", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 282}
+{"Vysoká_škola": "Vysoká škola výtvarných umení v Bratislave (VšVU)", "Rok": "2013", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "175", "ObjectId": 283}
+{"Vysoká_škola": "Vysoká škola výtvarných umení v Bratislave (VšVU)", "Rok": "2014", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "158", "ObjectId": 284}
+{"Vysoká_škola": "Vysoká škola výtvarných umení v Bratislave (VšVU)", "Rok": "2015", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "177", "ObjectId": 285}
+{"Vysoká_škola": "Vysoká škola výtvarných umení v Bratislave (VšVU)", "Rok": "2016", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "159", "ObjectId": 286}
+{"Vysoká_škola": "Akadémia policajného zboru v Bratislave (APZ)", "Rok": "2013", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 287}
+{"Vysoká_škola": "Akadémia policajného zboru v Bratislave (APZ)", "Rok": "2014", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 288}
+{"Vysoká_škola": "Akadémia policajného zboru v Bratislave (APZ)", "Rok": "2015", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 289}
+{"Vysoká_škola": "Akadémia policajného zboru v Bratislave (APZ)", "Rok": "2016", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 290}
+{"Vysoká_škola": "Akadémia policajného zboru v Bratislave (APZ)", "Rok": "2013", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "276", "ObjectId": 291}
+{"Vysoká_škola": "Akadémia policajného zboru v Bratislave (APZ)", "Rok": "2014", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "230", "ObjectId": 292}
+{"Vysoká_škola": "Akadémia policajného zboru v Bratislave (APZ)", "Rok": "2015", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "242", "ObjectId": 293}
+{"Vysoká_škola": "Akadémia policajného zboru v Bratislave (APZ)", "Rok": "2016", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "216", "ObjectId": 294}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 295}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 296}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 297}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 298}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 299}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Rektorát (UK)", "Počet_fakúlt": "13", "Počet_absolventov_denného_štúdi": null, "ObjectId": 300}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "40", "ObjectId": 301}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "22", "ObjectId": 302}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "22", "ObjectId": 303}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "16", "ObjectId": 304}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "12", "ObjectId": 305}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta rímskokatolícka cyr.-metod. bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "15", "ObjectId": 306}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "30", "ObjectId": 307}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "16", "ObjectId": 308}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "13", "ObjectId": 309}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "15", "ObjectId": 310}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "3", "ObjectId": 311}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta evanjelická bohoslovecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "4", "ObjectId": 312}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "462", "ObjectId": 313}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "424", "ObjectId": 314}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "397", "ObjectId": 315}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "371", "ObjectId": 316}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "301", "ObjectId": 317}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta matematiky, fyziky a informatiky (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "289", "ObjectId": 318}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "873", "ObjectId": 319}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "752", "ObjectId": 320}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "689", "ObjectId": 321}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "611", "ObjectId": 322}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "545", "ObjectId": 323}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta prírodovedecká (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "494", "ObjectId": 324}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "887", "ObjectId": 325}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "512", "ObjectId": 326}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "461", "ObjectId": 327}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "399", "ObjectId": 328}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "396", "ObjectId": 329}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta manažmentu (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "357", "ObjectId": 330}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "468", "ObjectId": 331}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "428", "ObjectId": 332}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "422", "ObjectId": 333}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "470", "ObjectId": 334}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "338", "ObjectId": 335}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "330", "ObjectId": 336}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "297", "ObjectId": 337}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "340", "ObjectId": 338}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "265", "ObjectId": 339}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "273", "ObjectId": 340}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "137", "ObjectId": 341}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta Jesseniova lekárska (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "160", "ObjectId": 342}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "267", "ObjectId": 343}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "219", "ObjectId": 344}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2019", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "170", "ObjectId": 345}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2020", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "190", "ObjectId": 346}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2021", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "161", "ObjectId": 347}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2022", "Fakulta": "Fakulta farmaceutická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "169", "ObjectId": 348}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2017", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "624", "ObjectId": 349}
+{"Vysoká_škola": "Univerzita Komenského  (UK)", "Rok": "2018", "Fakulta": "Fakulta právnická (UK)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "499", "ObjectId": 350}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2021", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 351}
+{"Vysoká_škola": "Bratislavská medzinárodná škola liberálnych štúdií (BISLA)", "Rok": "2022", "Fakulta": "Fakulta liberálnych štúdií (BISLA)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "7", "ObjectId": 352}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2017", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "5", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 353}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2018", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "5", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 354}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2019", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "5", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 355}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2020", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "5", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 356}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2021", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "5", "Počet_absolventov_denného_štúdi": "351", "ObjectId": 357}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2022", "Fakulta": "Rektorát (PEVŠ)", "Počet_fakúlt": "5", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 358}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2017", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "30", "ObjectId": 359}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2018", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "42", "ObjectId": 360}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2019", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "39", "ObjectId": 361}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2020", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "37", "ObjectId": 362}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2021", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "22", "ObjectId": 363}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2022", "Fakulta": "Fakulta informatiky (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "22", "ObjectId": 364}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2017", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "91", "ObjectId": 365}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2018", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "60", "ObjectId": 366}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2019", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "83", "ObjectId": 367}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2020", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "51", "ObjectId": 368}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2021", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "56", "ObjectId": 369}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2022", "Fakulta": "Fakulta ekonómie a podnikania (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "52", "ObjectId": 370}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2017", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "195", "ObjectId": 371}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2018", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "134", "ObjectId": 372}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2019", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "127", "ObjectId": 373}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2020", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "89", "ObjectId": 374}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2021", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "93", "ObjectId": 375}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2022", "Fakulta": "Fakulta práva (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "87", "ObjectId": 376}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2017", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "110", "ObjectId": 377}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2018", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "118", "ObjectId": 378}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2019", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "86", "ObjectId": 379}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2020", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "106", "ObjectId": 380}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2021", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "96", "ObjectId": 381}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2022", "Fakulta": "Fakulta masmédií (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "123", "ObjectId": 382}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2017", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "80", "ObjectId": 383}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2018", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "64", "ObjectId": 384}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2019", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "56", "ObjectId": 385}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2020", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "63", "ObjectId": 386}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2021", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "63", "ObjectId": 387}
+{"Vysoká_škola": "Paneurópska vysoká škola  (PEVŠ)", "Rok": "2022", "Fakulta": "Fakulta psychológie (PEVŠ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "74", "ObjectId": 388}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2017", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 389}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2018", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 390}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2019", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 391}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2020", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 392}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2021", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": null, "ObjectId": 393}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2022", "Fakulta": "Rektorát (SZU)", "Počet_fakúlt": "4", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 394}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2017", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "110", "ObjectId": 395}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2018", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "93", "ObjectId": 396}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2019", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "104", "ObjectId": 397}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2020", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "113", "ObjectId": 398}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2021", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "139", "ObjectId": 399}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2022", "Fakulta": "Fakulta ošetrovateľstva a zdravotíckych odborných štúdií (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "139", "ObjectId": 400}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2021", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "172", "ObjectId": 401}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2022", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "223", "ObjectId": 402}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2017", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "440", "ObjectId": 403}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2017", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "43", "ObjectId": 404}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2018", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "469", "ObjectId": 405}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2019", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "475", "ObjectId": 406}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2020", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "410", "ObjectId": 407}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2021", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "442", "ObjectId": 408}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2022", "Fakulta": "Fakulta národohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "408", "ObjectId": 409}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2017", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "198", "ObjectId": 410}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2018", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "157", "ObjectId": 411}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2019", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "180", "ObjectId": 412}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2020", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "165", "ObjectId": 413}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2018", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "56", "ObjectId": 414}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2021", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "175", "ObjectId": 415}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2019", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "84", "ObjectId": 416}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2022", "Fakulta": "Fakulta medzinárodných vzťahov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "182", "ObjectId": 417}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2017", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "102", "ObjectId": 418}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2020", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "93", "ObjectId": 419}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2018", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "105", "ObjectId": 420}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2021", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "83", "ObjectId": 421}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2019", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "89", "ObjectId": 422}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2022", "Fakulta": "Fakulta lekárska (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "62", "ObjectId": 423}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2020", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "75", "ObjectId": 424}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2017", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "63", "ObjectId": 425}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2021", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "78", "ObjectId": 426}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2022", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "480", "ObjectId": 427}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2022", "Fakulta": "Fakulta aplikovaných jazykov (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "72", "ObjectId": 428}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2017", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 429}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2018", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 430}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2019", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 431}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2020", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 432}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2021", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": null, "ObjectId": 433}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2022", "Fakulta": "Rektorát (VšGU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 434}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2017", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 435}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2018", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 436}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2019", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 437}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2020", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 438}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2021", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 439}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2022", "Fakulta": "Fakulta medzinárodného podnikania (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 440}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2017", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 441}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2018", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 442}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2019", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 443}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2020", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 444}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2021", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 445}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2022", "Fakulta": "Fakulta cestovného ruchu (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 446}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2017", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 447}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2018", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 448}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2019", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 449}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2020", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 450}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2021", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 451}
+{"Vysoká_škola": "VŠ Goethe Uni  (VšGU)", "Rok": "2022", "Fakulta": "Fakulta mediálnych a kultúrnych štúdií (VšGU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 452}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2017", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 453}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2018", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 454}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2019", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 455}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2020", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 456}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2021", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 457}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2022", "Fakulta": "Rektorát (VšEaMVS)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 458}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2017", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "86", "ObjectId": 459}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2018", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "151", "ObjectId": 460}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2019", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "407", "ObjectId": 461}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2018", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "32", "ObjectId": 462}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2017", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "225", "ObjectId": 463}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2019", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "24", "ObjectId": 464}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2018", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "680", "ObjectId": 465}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2019", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "616", "ObjectId": 466}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2020", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "21", "ObjectId": 467}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2020", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "532", "ObjectId": 468}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2021", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "10", "ObjectId": 469}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2021", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "462", "ObjectId": 470}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2022", "Fakulta": "Fakulta verejného zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "19", "ObjectId": 471}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2022", "Fakulta": "Fakulta stavebná (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "455", "ObjectId": 472}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2017", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "90", "ObjectId": 473}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2017", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "562", "ObjectId": 474}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2018", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "73", "ObjectId": 475}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2019", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "76", "ObjectId": 476}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2018", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "609", "ObjectId": 477}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2020", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "96", "ObjectId": 478}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2019", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "511", "ObjectId": 479}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2021", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "102", "ObjectId": 480}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2020", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "539", "ObjectId": 481}
+{"Vysoká_škola": "Slovenská zdravotnícka univerzita  (SZU)", "Rok": "2022", "Fakulta": "Fakulta zdravotníctva (SZU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "115", "ObjectId": 482}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2021", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "589", "ObjectId": 483}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2017", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 484}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2022", "Fakulta": "Fakulta elektrotechniky a informatiky (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "459", "ObjectId": 485}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2018", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 486}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2017", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 487}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2019", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "622", "ObjectId": 488}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2018", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "533", "ObjectId": 489}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2020", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "420", "ObjectId": 490}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2019", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "452", "ObjectId": 491}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2021", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "351", "ObjectId": 492}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2020", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "374", "ObjectId": 493}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2022", "Fakulta": "Rektorát (VšZaSP)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "350", "ObjectId": 494}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2021", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "357", "ObjectId": 495}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2017", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "646", "ObjectId": 496}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2022", "Fakulta": "Fakulta chemickej a potravinárskej technológie (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "294", "ObjectId": 497}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2018", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "518", "ObjectId": 498}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2017", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "288", "ObjectId": 499}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2019", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 500}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2018", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "265", "ObjectId": 501}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2020", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "8", "ObjectId": 502}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2019", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "272", "ObjectId": 503}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2021", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "7", "ObjectId": 504}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2020", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "248", "ObjectId": 505}
+{"Vysoká_škola": "VŠ zdravotníctva a sociálnej práce sv. Alžbety  (VšZaSP)", "Rok": "2022", "Fakulta": "Fakulta zdravotníctva a sociálnej práce (VšZaSP)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "7", "ObjectId": 506}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2021", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "237", "ObjectId": 507}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2017", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 508}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2022", "Fakulta": "Fakulta architektúry (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "231", "ObjectId": 509}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2018", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 510}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2017", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 511}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2018", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 512}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2019", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 513}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2020", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 514}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2021", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": null, "ObjectId": 515}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2022", "Fakulta": "Rektorát (EUBA)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": null, "ObjectId": 516}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2017", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "482", "ObjectId": 517}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2018", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "427", "ObjectId": 518}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2019", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "667", "ObjectId": 519}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2020", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "396", "ObjectId": 520}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2021", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "395", "ObjectId": 521}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2022", "Fakulta": "Fakulta podnikového manažmentu (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "437", "ObjectId": 522}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2017", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "505", "ObjectId": 523}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2018", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "473", "ObjectId": 524}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2019", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "406", "ObjectId": 525}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2020", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "391", "ObjectId": 526}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2021", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "400", "ObjectId": 527}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2022", "Fakulta": "Fakulta obchodná (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "428", "ObjectId": 528}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2017", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "428", "ObjectId": 529}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2018", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "447", "ObjectId": 530}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2019", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "368", "ObjectId": 531}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2020", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "436", "ObjectId": 532}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2021", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "384", "ObjectId": 533}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2022", "Fakulta": "Fakulta hospodárskej informatiky (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "407", "ObjectId": 534}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2017", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "241", "ObjectId": 535}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2018", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "246", "ObjectId": 536}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2019", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "182", "ObjectId": 537}
+{"Vysoká_škola": "Ekonomická univerzita  (EUBA)", "Rok": "2020", "Fakulta": "Fakulta podnikovohospodárska (EUBA)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "210", "ObjectId": 538}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2019", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 539}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2020", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 540}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2021", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "39", "ObjectId": 541}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2022", "Fakulta": "Rektorát (STU)", "Počet_fakúlt": "7", "Počet_absolventov_denného_štúdi": "42", "ObjectId": 542}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2017", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "0", "ObjectId": 543}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2018", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "284", "ObjectId": 544}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2019", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "331", "ObjectId": 545}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2020", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "296", "ObjectId": 546}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2021", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "294", "ObjectId": 547}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2022", "Fakulta": "Fakulta informatiky a informačných technológií (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "301", "ObjectId": 548}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2017", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "359", "ObjectId": 549}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2018", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "295", "ObjectId": 550}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2019", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "245", "ObjectId": 551}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2020", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "247", "ObjectId": 552}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2021", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "197", "ObjectId": 553}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2022", "Fakulta": "Fakulta strojnícka (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "181", "ObjectId": 554}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2017", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "80", "ObjectId": 555}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2018", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "694", "ObjectId": 556}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2019", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "543", "ObjectId": 557}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2020", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "562", "ObjectId": 558}
+{"Vysoká_škola": "Slovenská technická univerzita  (STU)", "Rok": "2021", "Fakulta": "Fakulta materiálovotechnologická (STU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "513", "ObjectId": 559}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2020", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "468", "ObjectId": 560}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2021", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "442", "ObjectId": 561}
+{"Vysoká_škola": "VŠ ekonómie a manažmentu verejnej správy  (VšEaMVS)", "Rok": "2022", "Fakulta": "Fakulta ekonómie a manažmentu verejnej správy (VšEaMVS)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "426", "ObjectId": 562}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2017", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 563}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2018", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 564}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2019", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 565}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2020", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 566}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2021", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": null, "ObjectId": 567}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2022", "Fakulta": "Rektorát (VšMU)", "Počet_fakúlt": "3", "Počet_absolventov_denného_štúdi": null, "ObjectId": 568}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2017", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "98", "ObjectId": 569}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2018", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "106", "ObjectId": 570}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2019", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "93", "ObjectId": 571}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2020", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "78", "ObjectId": 572}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2021", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "104", "ObjectId": 573}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2022", "Fakulta": "Fakulta filmová a televízna (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "98", "ObjectId": 574}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2017", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "89", "ObjectId": 575}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2018", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "99", "ObjectId": 576}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2019", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "89", "ObjectId": 577}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2020", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "96", "ObjectId": 578}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2021", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "86", "ObjectId": 579}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2022", "Fakulta": "Fakulta divadelná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "74", "ObjectId": 580}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2017", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "153", "ObjectId": 581}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2018", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "138", "ObjectId": 582}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2019", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "144", "ObjectId": 583}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2020", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "130", "ObjectId": 584}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2021", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "105", "ObjectId": 585}
+{"Vysoká_škola": "Vysoká škola múzických umení  (VšMU)", "Rok": "2022", "Fakulta": "Fakulta hudobná a tanečná (VšMU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "108", "ObjectId": 586}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2017", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 587}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2018", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 588}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2019", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 589}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2020", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 590}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2021", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 591}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2022", "Fakulta": "Rektorát (VšVU)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 592}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2017", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "202", "ObjectId": 593}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2018", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "170", "ObjectId": 594}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2019", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "309", "ObjectId": 595}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2020", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "178", "ObjectId": 596}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2021", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": null, "ObjectId": 597}
+{"Vysoká_škola": "Vysoká škola výtvarných umení  (VšVU)", "Rok": "2022", "Fakulta": "Fakulta výtvarných umení (VšVU)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "55", "ObjectId": 598}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2017", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 599}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2018", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 600}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2019", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 601}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2020", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 602}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2021", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": "0", "ObjectId": 603}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2022", "Fakulta": "Rektorát (APZ)", "Počet_fakúlt": "1", "Počet_absolventov_denného_štúdi": null, "ObjectId": 604}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2017", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "201", "ObjectId": 605}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2018", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "210", "ObjectId": 606}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2019", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "196", "ObjectId": 607}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2020", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "212", "ObjectId": 608}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2021", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "239", "ObjectId": 609}
+{"Vysoká_škola": "Akadémia policajného zboru  (APZ)", "Rok": "2022", "Fakulta": "Fakulta policajného zboru (APZ)", "Počet_fakúlt": null, "Počet_absolventov_denného_štúdi": "224", "ObjectId": 610}

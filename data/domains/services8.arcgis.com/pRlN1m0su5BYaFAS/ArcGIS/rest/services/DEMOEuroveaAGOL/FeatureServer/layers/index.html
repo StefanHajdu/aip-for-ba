@@ -1,0 +1,1228 @@
+{
+  "layers" : [
+    {
+      "currentVersion" : 11.2, 
+      "id" : 0, 
+      "name" : "DEMOEuroveaAGOL", 
+      "type" : "Feature Layer", 
+      "serviceItemId" : "08d4a0577cd245fcb8c1cae9d1e19a39", 
+      "displayField" : "stanoviste", 
+      "description" : "", 
+      "copyrightText" : "", 
+      "defaultVisibility" : true, 
+      "ownershipBasedAccessControlForFeatures" : {
+        "allowOthersToQuery" : true, 
+        "allowOthersToDelete" : false, 
+        "allowOthersToUpdate" : false, 
+        "allowAnonymousToQuery" : true, 
+        "allowAnonymousToUpdate" : false, 
+        "allowAnonymousToDelete" : false
+      }, 
+      "editFieldsInfo" : {
+        "creationDateField" : "CreationDate", 
+        "creatorField" : "Creator", 
+        "editDateField" : "EditDate", 
+        "editorField" : "Editor"
+      }, 
+      "editingInfo" : {
+        "lastEditDate" : 1628575826615, 
+        "schemaLastEditDate" : 1628575826615, 
+        "dataLastEditDate" : 1628575826615
+      }, 
+      "relationships" : [
+        {
+          "id" : 0, 
+          "name" : "opakujuca_otazka", 
+          "relatedTableId" : 1, 
+          "cardinality" : "esriRelCardinalityOneToMany", 
+          "role" : "esriRelRoleOrigin", 
+          "keyField" : "GlobalID", 
+          "composite" : false
+        }
+      ], 
+      "isDataVersioned" : false, 
+      "hasContingentValuesDefinition" : false, 
+      "supportsAppend" : true, 
+      "supportsCalculate" : true, 
+      "supportsASyncCalculate" : true, 
+      "supportsTruncate" : false, 
+      "supportsAttachmentsByUploadId" : true, 
+      "supportsAttachmentsResizing" : true, 
+      "supportsRollbackOnFailureParameter" : true, 
+      "supportsStatistics" : true, 
+      "supportsExceedsLimitStatistics" : true, 
+      "supportsAdvancedQueries" : true, 
+      "supportsValidateSql" : true, 
+      "supportsCoordinatesQuantization" : true, 
+      "supportsLayerOverrides" : true, 
+      "supportsTilesAndBasicQueriesMode" : true, 
+      "supportsFieldDescriptionProperty" : true, 
+      "supportsQuantizationEditMode" : true, 
+      "supportsApplyEditsWithGlobalIds" : true, 
+      "supportsReturningQueryGeometry" : true, 
+      "supportsOBACForAnonymousUsers" : true, 
+      "advancedQueryCapabilities" : {
+        "supportsPagination" : true, 
+        "supportsQueryAttachmentsCountOnly" : true, 
+        "supportsPaginationOnAggregatedQueries" : true, 
+        "supportsQueryRelatedPagination" : true, 
+        "supportsQueryWithDistance" : true, 
+        "supportsReturningQueryExtent" : true, 
+        "supportsStatistics" : true, 
+        "supportsOrderBy" : true, 
+        "supportsDistinct" : true, 
+        "supportsQueryWithResultType" : true, 
+        "supportsSqlExpression" : true, 
+        "supportsAdvancedQueryRelated" : true, 
+        "supportsCountDistinct" : true, 
+        "supportsPercentileStatistics" : true, 
+        "supportsSpatialAggregationStatistics" : true, 
+        "supportedSpatialAggregationStatistics" : [
+          "EnvelopeAggregate", 
+          "CentroidAggregate", 
+          "ConvexHullAggregate"
+        ], 
+        "supportsLod" : true, 
+        "supportsQueryWithLodSR" : false, 
+        "supportedLodTypes" : [
+          "geohash"
+        ], 
+        "supportsReturningGeometryCentroid" : false, 
+        "supportsReturningGeometryEnvelope" : true, 
+        "supportsQueryWithDatumTransformation" : true, 
+        "supportsCurrentUserQueries" : true, 
+        "supportsHavingClause" : true, 
+        "supportsOutFieldSQLExpression" : true, 
+        "supportsMaxRecordCountFactor" : true, 
+        "supportsTopFeaturesQuery" : true, 
+        "supportsDisjointSpatialRel" : true, 
+        "supportsQueryWithCacheHint" : true, 
+        "supportedOperationsWithCacheHint" : [
+          "query", 
+          "queryTopFilter", 
+          "queryAnalytics", 
+          "queryAttachments", 
+          "queryRelated", 
+          "queryBins"
+        ], 
+        "supportsQueryAnalytic" : true, 
+        "supportsQueryBins" : true, 
+        "supportsDefaultSR" : true, 
+        "supportsFullTextSearch" : true
+      }, 
+      "advancedQueryAnalyticCapabilities" : {
+        "supportsLinearRegression" : true, 
+        "supportsAsync" : true, 
+        "supportsPercentileAnalytic" : true
+      }, 
+      "queryBinsCapabilities" : {
+        "supportsAsync" : true, 
+        "supportsAutoIntervalBin" : true, 
+        "supportsFixedIntervalBin" : true, 
+        "supportsFixedBoundariesBin" : true, 
+        "supportsDateBin" : true, 
+        "supportedStatisticTypes" : [
+          "COUNT", 
+          "SUM", 
+          "AVG", 
+          "VAR", 
+          "STDDEV", 
+          "MIN", 
+          "MAX", 
+          "PERCENTILE_CONT", 
+          "PERCENTILE_DISC", 
+          "CentroidAggregate", 
+          "EnvelopeAggregate", 
+          "ConvexHullAggregate"
+        ]
+      }, 
+      "advancedEditingCapabilities" : {
+        "supportedSqlFormatsInCalculate" : [
+          "standard"
+        ], 
+        "supportsAsyncApplyEdits" : true, 
+        "supportsReturnEditResults" : true, 
+        "supportsApplyEditsbyUploadID" : true, 
+        "supportedApplyEditsUploadIDFormats" : "JSON"
+      }, 
+      "infoInEstimates" : [
+        "extent", 
+        "count"
+      ], 
+      "useStandardizedQueries" : true, 
+      "geometryType" : "esriGeometryPoint", 
+      "minScale" : 0, 
+      "maxScale" : 0, 
+      "extent" : {
+        "xmin" : -20037507.842788249, 
+        "ymin" : -30240971.458386149, 
+        "xmax" : 20037507.842788249, 
+        "ymax" : 30240971.458386149, 
+        "spatialReference" : {
+          "wkid" : 102100, 
+          "latestWkid" : 3857
+        }
+      }, 
+      "drawingInfo":{"renderer":{"type":"simple","symbol":{"type":"esriSMS","style":"esriSMSCircle","color":[52,170,129,255],"size":4,"angle":0,"xoffset":0,"yoffset":0,"outline":{"color":[0,0,0,255],"width":0.7}}},"scaleSymbols":true,"transparency":0,"labelingInfo":null}, 
+      "allowGeometryUpdates" : true, 
+      "hasAttachments" : false, 
+      "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText", 
+      "hasMetadata" : true, 
+      "hasM" : false, 
+      "hasZ" : false, 
+      "objectIdField" : "OBJECTID", 
+      "uniqueIdField" : 
+      {
+        "name" : "OBJECTID", 
+        "isSystemMaintained" : true
+      }, 
+      "globalIdField" : "GlobalID", 
+      "typeIdField" : "", 
+      "fields" : [
+        {
+          "name" : "OBJECTID", 
+          "type" : "esriFieldTypeOID", 
+          "alias" : "OBJECTID", 
+          "sqlType" : "sqlTypeOther", 
+          "nullable" : false, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "stanoviste", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "stanoviste", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik Stanovista", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "S1", 
+                "code" : "S1"
+              }, 
+              {
+                "name" : "S2", 
+                "code" : "S2"
+              }, 
+              {
+                "name" : "S3", 
+                "code" : "S3"
+              }, 
+              {
+                "name" : "S4", 
+                "code" : "S4"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "skupinovost", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "skupinovost", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik_skupinovost", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "Jednotlivec", 
+                "code" : "1"
+              }, 
+              {
+                "name" : "Pár", 
+                "code" : "2"
+              }, 
+              {
+                "name" : "Skupina", 
+                "code" : "3"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "muzi", 
+          "type" : "esriFieldTypeInteger", 
+          "alias" : "muzi", 
+          "sqlType" : "sqlTypeOther", 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "zeny", 
+          "type" : "esriFieldTypeInteger", 
+          "alias" : "zeny", 
+          "sqlType" : "sqlTypeOther", 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "pohlavie", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "pohlavie", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik_pohlavie", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "Žena", 
+                "code" : "F"
+              }, 
+              {
+                "name" : "Muž", 
+                "code" : "M"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "vekove_kategorie", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "vekove_kategorie", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik_vek_kategorie1", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "0 - 14", 
+                "code" : "1"
+              }, 
+              {
+                "name" : "15 - 24", 
+                "code" : "2"
+              }, 
+              {
+                "name" : "25 - 64", 
+                "code" : "3"
+              }, 
+              {
+                "name" : "65 +", 
+                "code" : "4"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "mod_pohybu", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "mod_pohybu", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik_mod_pohybu", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "peši/chodec", 
+                "code" : "A"
+              }, 
+              {
+                "name" : "človek s barlami/vozíkom", 
+                "code" : "B"
+              }, 
+              {
+                "name" : "bicykel/kolobežka/skateboard", 
+                "code" : "C"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "datum_zberu_dat", 
+          "type" : "esriFieldTypeDate", 
+          "alias" : "datum_zberu_dat", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 8, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : null, 
+          "defaultValue" : null, 
+          "precision" : 1
+        }, 
+        {
+          "name" : "aktivita_a", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "aktivita_a", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "DEMOEuroveaAGOL_aktivita_a_e519d69ced48428fad4533cffa8a0a3e", 
+            "codedValues" : [
+              {
+                "name" : "tranzit/prechod územím", 
+                "code" : "t"
+              }, 
+              {
+                "name" : "prechádzanie sa", 
+                "code" : "p"
+              }, 
+              {
+                "name" : "státie", 
+                "code" : "s"
+              }, 
+              {
+                "name" : "venčenie psa", 
+                "code" : "v"
+              }, 
+              {
+                "name" : "kočíkovanie", 
+                "code" : "k"
+              }, 
+              {
+                "name" : "beh", 
+                "code" : "b"
+              }, 
+              {
+                "name" : "jedenie/pitie v reštaurácii", 
+                "code" : "j"
+              }, 
+              {
+                "name" : "jedenie/pitie mimo reštaurácie", 
+                "code" : "jm"
+              }, 
+              {
+                "name" : "detská hra", 
+                "code" : "h"
+              }, 
+              {
+                "name" : "šport", 
+                "code" : "š"
+              }, 
+              {
+                "name" : "tlačenie bicykla", 
+                "code" : "o"
+              }, 
+              {
+                "name" : "sedenie na tráve", 
+                "code" : "st"
+              }, 
+              {
+                "name" : "sedenie na lavičke", 
+                "code" : "sl"
+              }, 
+              {
+                "name" : "rande", 
+                "code" : "r"
+              }, 
+              {
+                "name" : "trávenie voľného času mladých", 
+                "code" : "f"
+              }, 
+              {
+                "name" : "spánok", 
+                "code" : "z"
+              }, 
+              {
+                "name" : "nástup/výstup do/z aut", 
+                "code" : "a"
+              }, 
+              {
+                "name" : "lov rýb", 
+                "code" : "l"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "aktivita_b", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "aktivita_b", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik_aktivita", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "tranzit/prechod územím", 
+                "code" : "t"
+              }, 
+              {
+                "name" : "prechádzanie sa", 
+                "code" : "p"
+              }, 
+              {
+                "name" : "státie", 
+                "code" : "s"
+              }, 
+              {
+                "name" : "venčenie psa", 
+                "code" : "v"
+              }, 
+              {
+                "name" : "kočíkovanie", 
+                "code" : "k"
+              }, 
+              {
+                "name" : "beh", 
+                "code" : "b"
+              }, 
+              {
+                "name" : "jedenie/pitie v reštaurácii", 
+                "code" : "j"
+              }, 
+              {
+                "name" : "jedenie/pitie mimo reštaurácie", 
+                "code" : "jm"
+              }, 
+              {
+                "name" : "detská hra", 
+                "code" : "h"
+              }, 
+              {
+                "name" : "šport", 
+                "code" : "š"
+              }, 
+              {
+                "name" : "tlačenie bicykla", 
+                "code" : "o"
+              }, 
+              {
+                "name" : "sedenie na tráve", 
+                "code" : "st"
+              }, 
+              {
+                "name" : "sedenie na lavičke", 
+                "code" : "sl"
+              }, 
+              {
+                "name" : "rande", 
+                "code" : "r"
+              }, 
+              {
+                "name" : "trávenie voľného času mladých", 
+                "code" : "f"
+              }, 
+              {
+                "name" : "spánok", 
+                "code" : "z"
+              }, 
+              {
+                "name" : "nástup/výstup do/z aut", 
+                "code" : "a"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "aktivita_c", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "aktivita_c", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik_aktivita", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "tranzit/prechod územím", 
+                "code" : "t"
+              }, 
+              {
+                "name" : "prechádzanie sa", 
+                "code" : "p"
+              }, 
+              {
+                "name" : "státie", 
+                "code" : "s"
+              }, 
+              {
+                "name" : "venčenie psa", 
+                "code" : "v"
+              }, 
+              {
+                "name" : "kočíkovanie", 
+                "code" : "k"
+              }, 
+              {
+                "name" : "beh", 
+                "code" : "b"
+              }, 
+              {
+                "name" : "jedenie/pitie v reštaurácii", 
+                "code" : "j"
+              }, 
+              {
+                "name" : "jedenie/pitie mimo reštaurácie", 
+                "code" : "jm"
+              }, 
+              {
+                "name" : "detská hra", 
+                "code" : "h"
+              }, 
+              {
+                "name" : "šport", 
+                "code" : "š"
+              }, 
+              {
+                "name" : "tlačenie bicykla", 
+                "code" : "o"
+              }, 
+              {
+                "name" : "sedenie na tráve", 
+                "code" : "st"
+              }, 
+              {
+                "name" : "sedenie na lavičke", 
+                "code" : "sl"
+              }, 
+              {
+                "name" : "rande", 
+                "code" : "r"
+              }, 
+              {
+                "name" : "trávenie voľného času mladých", 
+                "code" : "f"
+              }, 
+              {
+                "name" : "spánok", 
+                "code" : "z"
+              }, 
+              {
+                "name" : "nástup/výstup do/z aut", 
+                "code" : "a"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "GlobalID", 
+          "type" : "esriFieldTypeGlobalID", 
+          "alias" : "GlobalID", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 38, 
+          "nullable" : false, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "CreationDate", 
+          "type" : "esriFieldTypeDate", 
+          "alias" : "CreationDate", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 8, 
+          "nullable" : true, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null, 
+          "precision" : 1
+        }, 
+        {
+          "name" : "Creator", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "Creator", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 128, 
+          "nullable" : true, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "EditDate", 
+          "type" : "esriFieldTypeDate", 
+          "alias" : "EditDate", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 8, 
+          "nullable" : true, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null, 
+          "precision" : 1
+        }, 
+        {
+          "name" : "Editor", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "Editor", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 128, 
+          "nullable" : true, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "poznamka", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "poznámka", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : null, 
+          "defaultValue" : null
+        }
+      ], 
+      "indexes" : [
+        {
+          "name" : "PK__DEMOEURO__F4B70D851F7CC5BF", 
+          "fields" : "OBJECTID", 
+          "isAscending" : true, 
+          "isUnique" : true, 
+          "description" : "", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "user_20499.DEMOEUROVEAAGOL_DEMOEUROVEAAGOL2_Shape_sidx", 
+          "fields" : "Shape", 
+          "isAscending" : true, 
+          "isUnique" : false, 
+          "description" : "", 
+          "indexType" : "Spatial"
+        }, 
+        {
+          "name" : "FDO_GlobalID", 
+          "fields" : "GlobalID", 
+          "isAscending" : true, 
+          "isUnique" : true, 
+          "description" : "", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "CreationDateIndex", 
+          "fields" : "CreationDate", 
+          "isAscending" : true, 
+          "isUnique" : false, 
+          "description" : "CreationDate Field index", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "CreatorIndex", 
+          "fields" : "Creator", 
+          "isAscending" : false, 
+          "isUnique" : false, 
+          "description" : "Creator Field index", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "EditDateIndex", 
+          "fields" : "EditDate", 
+          "isAscending" : true, 
+          "isUnique" : false, 
+          "description" : "EditDate Field index", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "EditorIndex", 
+          "fields" : "Editor", 
+          "isAscending" : false, 
+          "isUnique" : false, 
+          "description" : "Editor Field index", 
+          "indexType" : "Attribute"
+        }
+      ], 
+      "dateFieldsTimeReference" : {
+        "timeZone" : "UTC", 
+        "respectsDaylightSaving" : false
+      }, 
+      "preferredTimeReference" : null, 
+      "types" : [], 
+      "templates" : [
+        {
+          "name" : "DEMOEuroveaAGOL", 
+          "description" : "", 
+          "drawingTool" : "esriFeatureEditToolPoint", 
+          "prototype" : {
+            "attributes" : {
+              "aktivita_c" : null, 
+              "aktivita_b" : null, 
+              "stanoviste" : null, 
+              "skupinovost" : null, 
+              "muzi" : null, 
+              "zeny" : null, 
+              "pohlavie" : null, 
+              "vekove_kategorie" : null, 
+              "mod_pohybu" : null, 
+              "datum_zberu_dat" : null, 
+              "aktivita_a" : null
+            }
+          }
+        }
+      ], 
+      "supportedQueryFormats" : "JSON, geoJSON, PBF", 
+      "supportedAppendFormats" : "sqlite,geoPackage,shapefile,filegdb,featureCollection,geojson,csv,excel,jsonl,featureService,pbf", 
+      "supportedAppendSourceFilterFormats" : "sqlite,geoPackage,shapefile,filegdb,featureService", 
+      "supportedExportFormats" : "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel", 
+      "supportedConvertFileFormats" : "JSON,PBF", 
+      "supportedConvertContentFormats" : "LayerEditCollection,FeatureCollection", 
+      "supportedSpatialRelationships" : [
+        "esriSpatialRelIntersects", 
+        "esriSpatialRelContains", 
+        "esriSpatialRelCrosses", 
+        "esriSpatialRelEnvelopeIntersects", 
+        "esriSpatialRelIndexIntersects", 
+        "esriSpatialRelOverlaps", 
+        "esriSpatialRelTouches", 
+        "esriSpatialRelWithin", 
+        "esriSpatialRelDisjoint", 
+        "esriSpatialRelRelation"
+      ], 
+      "supportedContingentValuesFormats" : "JSON, PBF", 
+      "supportedSyncDataOptions" : 260, 
+      "hasStaticData" : false, 
+      "maxRecordCount" : 2000, 
+      "standardMaxRecordCount" : 32000, 
+      "standardMaxRecordCountNoGeometry" : 32000, 
+      "tileMaxRecordCount" : 8000, 
+      "maxRecordCountFactor" : 1, 
+      "capabilities" : "Create,Query,Update,Editing,Extract,Sync,ChangeTracking"
+    }
+  ], 
+  "tables" : [
+    {
+      "currentVersion" : 11.2, 
+      "id" : 1, 
+      "name" : "opakujuca_otazka", 
+      "type" : "Table", 
+      "serviceItemId" : "08d4a0577cd245fcb8c1cae9d1e19a39", 
+      "displayField" : "pohlavie", 
+      "description" : "", 
+      "copyrightText" : "", 
+      "defaultVisibility" : true, 
+      "ownershipBasedAccessControlForFeatures" : {
+        "allowOthersToQuery" : true, 
+        "allowOthersToDelete" : false, 
+        "allowOthersToUpdate" : false, 
+        "allowAnonymousToQuery" : true, 
+        "allowAnonymousToUpdate" : false, 
+        "allowAnonymousToDelete" : false
+      }, 
+      "editFieldsInfo" : {
+        "creationDateField" : "CreationDate", 
+        "creatorField" : "Creator", 
+        "editDateField" : "EditDate", 
+        "editorField" : "Editor"
+      }, 
+      "editingInfo" : {
+        "lastEditDate" : 1628575826615, 
+        "schemaLastEditDate" : 1628575826615, 
+        "dataLastEditDate" : 1628575826615
+      }, 
+      "relationships" : [
+        {
+          "id" : 0, 
+          "name" : "DEMOEuroveaAGOL", 
+          "relatedTableId" : 0, 
+          "cardinality" : "esriRelCardinalityOneToMany", 
+          "role" : "esriRelRoleDestination", 
+          "keyField" : "Zdroj_odpoved", 
+          "composite" : false
+        }
+      ], 
+      "isDataVersioned" : false, 
+      "hasContingentValuesDefinition" : false, 
+      "supportsAppend" : true, 
+      "supportsCalculate" : true, 
+      "supportsASyncCalculate" : true, 
+      "supportsTruncate" : false, 
+      "supportsAttachmentsByUploadId" : true, 
+      "supportsAttachmentsResizing" : true, 
+      "supportsRollbackOnFailureParameter" : true, 
+      "supportsStatistics" : true, 
+      "supportsExceedsLimitStatistics" : true, 
+      "supportsAdvancedQueries" : true, 
+      "supportsValidateSql" : true, 
+      "supportsCoordinatesQuantization" : true, 
+      "supportsLayerOverrides" : true, 
+      "supportsTilesAndBasicQueriesMode" : true, 
+      "supportsFieldDescriptionProperty" : true, 
+      "supportsQuantizationEditMode" : true, 
+      "supportsApplyEditsWithGlobalIds" : true, 
+      "supportsOBACForAnonymousUsers" : true, 
+      "advancedQueryCapabilities" : {
+        "supportsPagination" : true, 
+        "supportsQueryAttachmentsCountOnly" : true, 
+        "supportsPaginationOnAggregatedQueries" : true, 
+        "supportsQueryRelatedPagination" : true, 
+        "supportsQueryWithDistance" : true, 
+        "supportsReturningQueryExtent" : false, 
+        "supportsStatistics" : true, 
+        "supportsOrderBy" : true, 
+        "supportsDistinct" : true, 
+        "supportsQueryWithResultType" : true, 
+        "supportsSqlExpression" : true, 
+        "supportsAdvancedQueryRelated" : true, 
+        "supportsCountDistinct" : true, 
+        "supportsPercentileStatistics" : true, 
+        "supportsSpatialAggregationStatistics" : true, 
+        "supportedSpatialAggregationStatistics" : [
+          "EnvelopeAggregate", 
+          "CentroidAggregate", 
+          "ConvexHullAggregate"
+        ], 
+        "supportsLod" : true, 
+        "supportsQueryWithLodSR" : false, 
+        "supportedLodTypes" : [
+          "geohash"
+        ], 
+        "supportsReturningGeometryCentroid" : false, 
+        "supportsReturningGeometryEnvelope" : false, 
+        "supportsQueryWithDatumTransformation" : true, 
+        "supportsCurrentUserQueries" : true, 
+        "supportsHavingClause" : true, 
+        "supportsOutFieldSQLExpression" : true, 
+        "supportsMaxRecordCountFactor" : true, 
+        "supportsTopFeaturesQuery" : true, 
+        "supportsQueryWithCacheHint" : true, 
+        "supportedOperationsWithCacheHint" : [
+          "query", 
+          "queryTopFilter", 
+          "queryAnalytics", 
+          "queryAttachments", 
+          "queryRelated", 
+          "queryBins"
+        ], 
+        "supportsQueryAnalytic" : true, 
+        "supportsQueryBins" : true, 
+        "supportsDefaultSR" : true, 
+        "supportsFullTextSearch" : true
+      }, 
+      "advancedQueryAnalyticCapabilities" : {
+        "supportsLinearRegression" : true, 
+        "supportsAsync" : true, 
+        "supportsPercentileAnalytic" : true
+      }, 
+      "queryBinsCapabilities" : {
+        "supportsAsync" : true, 
+        "supportsAutoIntervalBin" : true, 
+        "supportsFixedIntervalBin" : true, 
+        "supportsFixedBoundariesBin" : true, 
+        "supportsDateBin" : true, 
+        "supportedStatisticTypes" : [
+          "COUNT", 
+          "SUM", 
+          "AVG", 
+          "VAR", 
+          "STDDEV", 
+          "MIN", 
+          "MAX", 
+          "PERCENTILE_CONT", 
+          "PERCENTILE_DISC", 
+          "CentroidAggregate", 
+          "EnvelopeAggregate", 
+          "ConvexHullAggregate"
+        ]
+      }, 
+      "advancedEditingCapabilities" : {
+        "supportedSqlFormatsInCalculate" : [
+          "standard"
+        ], 
+        "supportsAsyncApplyEdits" : true, 
+        "supportsReturnEditResults" : true, 
+        "supportsApplyEditsbyUploadID" : true, 
+        "supportedApplyEditsUploadIDFormats" : "JSON"
+      }, 
+      "infoInEstimates" : [
+        "count"
+      ], 
+      "useStandardizedQueries" : true, 
+      "allowGeometryUpdates" : true, 
+      "hasAttachments" : false, 
+      "htmlPopupType" : "esriServerHTMLPopupTypeNone", 
+      "hasMetadata" : true, 
+      "hasM" : false, 
+      "hasZ" : false, 
+      "objectIdField" : "OBJECTID", 
+      "uniqueIdField" : 
+      {
+        "name" : "OBJECTID", 
+        "isSystemMaintained" : true
+      }, 
+      "globalIdField" : "GlobalID", 
+      "typeIdField" : "", 
+      "fields" : [
+        {
+          "name" : "OBJECTID", 
+          "type" : "esriFieldTypeOID", 
+          "alias" : "OBJECTID", 
+          "sqlType" : "sqlTypeOther", 
+          "nullable" : false, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "pohlavie", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "POHLAVIE", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik_pohlavie", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "Žena", 
+                "code" : "F"
+              }, 
+              {
+                "name" : "Muž", 
+                "code" : "M"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "vekove_kategorie", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "VEKOVÉ KATEGÓRIE", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 255, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : 
+          {
+            "type" : "codedValue", 
+            "name" : "Ciselnik_vek_kategorie1", 
+            "mergePolicy" : "esriMPTDefaultValue", 
+            "splitPolicy" : "esriSPTDefaultValue", 
+            "codedValues" : [
+              {
+                "name" : "0 - 14", 
+                "code" : "1"
+              }, 
+              {
+                "name" : "15 - 24", 
+                "code" : "2"
+              }, 
+              {
+                "name" : "25 - 64", 
+                "code" : "3"
+              }, 
+              {
+                "name" : "65 +", 
+                "code" : "4"
+              }
+            ]
+          }, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "GlobalID", 
+          "type" : "esriFieldTypeGlobalID", 
+          "alias" : "GlobalID", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 38, 
+          "nullable" : false, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "Zdroj_odpoved", 
+          "type" : "esriFieldTypeGUID", 
+          "alias" : "Zdroj_odpoved", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 38, 
+          "nullable" : true, 
+          "editable" : true, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "CreationDate", 
+          "type" : "esriFieldTypeDate", 
+          "alias" : "CreationDate", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 8, 
+          "nullable" : true, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null, 
+          "precision" : 1
+        }, 
+        {
+          "name" : "Creator", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "Creator", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 128, 
+          "nullable" : true, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null
+        }, 
+        {
+          "name" : "EditDate", 
+          "type" : "esriFieldTypeDate", 
+          "alias" : "EditDate", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 8, 
+          "nullable" : true, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null, 
+          "precision" : 1
+        }, 
+        {
+          "name" : "Editor", 
+          "type" : "esriFieldTypeString", 
+          "alias" : "Editor", 
+          "sqlType" : "sqlTypeOther", 
+          "length" : 128, 
+          "nullable" : true, 
+          "editable" : false, 
+          "domain" : null, 
+          "defaultValue" : null
+        }
+      ], 
+      "indexes" : [
+        {
+          "name" : "PK__DEMOEURO__F4B70D8555539CA8", 
+          "fields" : "OBJECTID", 
+          "isAscending" : true, 
+          "isUnique" : true, 
+          "description" : "", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "FDO_GlobalID", 
+          "fields" : "GlobalID", 
+          "isAscending" : true, 
+          "isUnique" : true, 
+          "description" : "", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "G10Zdroj_odpoved", 
+          "fields" : "Zdroj_odpoved", 
+          "isAscending" : true, 
+          "isUnique" : false, 
+          "description" : "", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "CreationDateIndex", 
+          "fields" : "CreationDate", 
+          "isAscending" : true, 
+          "isUnique" : false, 
+          "description" : "CreationDate Field index", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "CreatorIndex", 
+          "fields" : "Creator", 
+          "isAscending" : false, 
+          "isUnique" : false, 
+          "description" : "Creator Field index", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "EditDateIndex", 
+          "fields" : "EditDate", 
+          "isAscending" : true, 
+          "isUnique" : false, 
+          "description" : "EditDate Field index", 
+          "indexType" : "Attribute"
+        }, 
+        {
+          "name" : "EditorIndex", 
+          "fields" : "Editor", 
+          "isAscending" : false, 
+          "isUnique" : false, 
+          "description" : "Editor Field index", 
+          "indexType" : "Attribute"
+        }
+      ], 
+      "dateFieldsTimeReference" : {
+        "timeZone" : "UTC", 
+        "respectsDaylightSaving" : false
+      }, 
+      "preferredTimeReference" : null, 
+      "types" : [], 
+      "templates" : [
+        {
+          "name" : "opakujuca_otazka", 
+          "description" : "", 
+          "drawingTool" : "esriFeatureEditToolNone", 
+          "prototype" : {
+            "attributes" : {
+              "Zdroj_odpoved" : null, 
+              "vekove_kategorie" : null, 
+              "pohlavie" : null
+            }
+          }
+        }
+      ], 
+      "supportedQueryFormats" : "JSON, geoJSON, PBF", 
+      "supportedAppendFormats" : "sqlite,geoPackage,shapefile,filegdb,featureCollection,geojson,csv,excel,jsonl,featureService,pbf", 
+      "supportedAppendSourceFilterFormats" : "sqlite,geoPackage,shapefile,filegdb,featureService", 
+      "supportedExportFormats" : "csv,shapefile,sqlite,geoPackage,filegdb,featureCollection,geojson,kml,excel", 
+      "supportedConvertFileFormats" : "JSON,PBF", 
+      "supportedConvertContentFormats" : "LayerEditCollection,FeatureCollection", 
+      "supportedContingentValuesFormats" : "JSON, PBF", 
+      "supportedSyncDataOptions" : 260, 
+      "hasStaticData" : false, 
+      "maxRecordCount" : 2000, 
+      "standardMaxRecordCount" : 32000, 
+      "tileMaxRecordCount" : 8000, 
+      "maxRecordCountFactor" : 1, 
+      "capabilities" : "Create,Query,Update,Editing,Extract,Sync,ChangeTracking"
+    }
+  ]
+}

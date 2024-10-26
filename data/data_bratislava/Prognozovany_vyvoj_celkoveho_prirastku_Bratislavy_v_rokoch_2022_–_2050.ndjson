@@ -1,0 +1,145 @@
+{"SCENAR": "nízky", "ROK": "2022", "CELKOVY_PRIRASTOK": 1497, "ObjectId": 1}
+{"SCENAR": "stredný", "ROK": "2022", "CELKOVY_PRIRASTOK": 1871, "ObjectId": 2}
+{"SCENAR": "vysoký", "ROK": "2022", "CELKOVY_PRIRASTOK": 2141, "ObjectId": 3}
+{"SCENAR": "veľmi vysoký", "ROK": "2022", "CELKOVY_PRIRASTOK": 2692, "ObjectId": 4}
+{"SCENAR": "nulová migrácia", "ROK": "2022", "CELKOVY_PRIRASTOK": 40, "ObjectId": 5}
+{"SCENAR": "nízky", "ROK": "2023", "CELKOVY_PRIRASTOK": 1184, "ObjectId": 6}
+{"SCENAR": "stredný", "ROK": "2023", "CELKOVY_PRIRASTOK": 1716, "ObjectId": 7}
+{"SCENAR": "vysoký", "ROK": "2023", "CELKOVY_PRIRASTOK": 2218, "ObjectId": 8}
+{"SCENAR": "veľmi vysoký", "ROK": "2023", "CELKOVY_PRIRASTOK": 2835, "ObjectId": 9}
+{"SCENAR": "nulová migrácia", "ROK": "2023", "CELKOVY_PRIRASTOK": -208, "ObjectId": 10}
+{"SCENAR": "nízky", "ROK": "2024", "CELKOVY_PRIRASTOK": 850, "ObjectId": 11}
+{"SCENAR": "stredný", "ROK": "2024", "CELKOVY_PRIRASTOK": 1607, "ObjectId": 12}
+{"SCENAR": "vysoký", "ROK": "2024", "CELKOVY_PRIRASTOK": 2217, "ObjectId": 13}
+{"SCENAR": "veľmi vysoký", "ROK": "2024", "CELKOVY_PRIRASTOK": 2950, "ObjectId": 14}
+{"SCENAR": "nulová migrácia", "ROK": "2024", "CELKOVY_PRIRASTOK": -489, "ObjectId": 15}
+{"SCENAR": "nízky", "ROK": "2025", "CELKOVY_PRIRASTOK": 533, "ObjectId": 16}
+{"SCENAR": "stredný", "ROK": "2025", "CELKOVY_PRIRASTOK": 1455, "ObjectId": 17}
+{"SCENAR": "vysoký", "ROK": "2025", "CELKOVY_PRIRASTOK": 2239, "ObjectId": 18}
+{"SCENAR": "veľmi vysoký", "ROK": "2025", "CELKOVY_PRIRASTOK": 3246, "ObjectId": 19}
+{"SCENAR": "nulová migrácia", "ROK": "2025", "CELKOVY_PRIRASTOK": -770, "ObjectId": 20}
+{"SCENAR": "nízky", "ROK": "2026", "CELKOVY_PRIRASTOK": 280, "ObjectId": 21}
+{"SCENAR": "stredný", "ROK": "2026", "CELKOVY_PRIRASTOK": 1328, "ObjectId": 22}
+{"SCENAR": "vysoký", "ROK": "2026", "CELKOVY_PRIRASTOK": 2276, "ObjectId": 23}
+{"SCENAR": "veľmi vysoký", "ROK": "2026", "CELKOVY_PRIRASTOK": 3538, "ObjectId": 24}
+{"SCENAR": "nulová migrácia", "ROK": "2026", "CELKOVY_PRIRASTOK": -1068, "ObjectId": 25}
+{"SCENAR": "nízky", "ROK": "2027", "CELKOVY_PRIRASTOK": 20, "ObjectId": 26}
+{"SCENAR": "stredný", "ROK": "2027", "CELKOVY_PRIRASTOK": 1197, "ObjectId": 27}
+{"SCENAR": "vysoký", "ROK": "2027", "CELKOVY_PRIRASTOK": 2342, "ObjectId": 28}
+{"SCENAR": "veľmi vysoký", "ROK": "2027", "CELKOVY_PRIRASTOK": 3578, "ObjectId": 29}
+{"SCENAR": "nulová migrácia", "ROK": "2027", "CELKOVY_PRIRASTOK": -1331, "ObjectId": 30}
+{"SCENAR": "nízky", "ROK": "2028", "CELKOVY_PRIRASTOK": -223, "ObjectId": 31}
+{"SCENAR": "stredný", "ROK": "2028", "CELKOVY_PRIRASTOK": 1091, "ObjectId": 32}
+{"SCENAR": "vysoký", "ROK": "2028", "CELKOVY_PRIRASTOK": 2388, "ObjectId": 33}
+{"SCENAR": "veľmi vysoký", "ROK": "2028", "CELKOVY_PRIRASTOK": 3536, "ObjectId": 34}
+{"SCENAR": "nulová migrácia", "ROK": "2028", "CELKOVY_PRIRASTOK": -1559, "ObjectId": 35}
+{"SCENAR": "nízky", "ROK": "2029", "CELKOVY_PRIRASTOK": -433, "ObjectId": 36}
+{"SCENAR": "stredný", "ROK": "2029", "CELKOVY_PRIRASTOK": 1000, "ObjectId": 37}
+{"SCENAR": "vysoký", "ROK": "2029", "CELKOVY_PRIRASTOK": 2383, "ObjectId": 38}
+{"SCENAR": "veľmi vysoký", "ROK": "2029", "CELKOVY_PRIRASTOK": 3502, "ObjectId": 39}
+{"SCENAR": "nulová migrácia", "ROK": "2029", "CELKOVY_PRIRASTOK": -1763, "ObjectId": 40}
+{"SCENAR": "nízky", "ROK": "2030", "CELKOVY_PRIRASTOK": -579, "ObjectId": 41}
+{"SCENAR": "stredný", "ROK": "2030", "CELKOVY_PRIRASTOK": 928, "ObjectId": 42}
+{"SCENAR": "vysoký", "ROK": "2030", "CELKOVY_PRIRASTOK": 2419, "ObjectId": 43}
+{"SCENAR": "veľmi vysoký", "ROK": "2030", "CELKOVY_PRIRASTOK": 3515, "ObjectId": 44}
+{"SCENAR": "nulová migrácia", "ROK": "2030", "CELKOVY_PRIRASTOK": -1925, "ObjectId": 45}
+{"SCENAR": "nízky", "ROK": "2031", "CELKOVY_PRIRASTOK": -689, "ObjectId": 46}
+{"SCENAR": "stredný", "ROK": "2031", "CELKOVY_PRIRASTOK": 867, "ObjectId": 47}
+{"SCENAR": "vysoký", "ROK": "2031", "CELKOVY_PRIRASTOK": 2445, "ObjectId": 48}
+{"SCENAR": "veľmi vysoký", "ROK": "2031", "CELKOVY_PRIRASTOK": 3547, "ObjectId": 49}
+{"SCENAR": "nulová migrácia", "ROK": "2031", "CELKOVY_PRIRASTOK": -2057, "ObjectId": 50}
+{"SCENAR": "nízky", "ROK": "2032", "CELKOVY_PRIRASTOK": -761, "ObjectId": 51}
+{"SCENAR": "stredný", "ROK": "2032", "CELKOVY_PRIRASTOK": 873, "ObjectId": 52}
+{"SCENAR": "vysoký", "ROK": "2032", "CELKOVY_PRIRASTOK": 2508, "ObjectId": 53}
+{"SCENAR": "veľmi vysoký", "ROK": "2032", "CELKOVY_PRIRASTOK": 3617, "ObjectId": 54}
+{"SCENAR": "nulová migrácia", "ROK": "2032", "CELKOVY_PRIRASTOK": -2124, "ObjectId": 55}
+{"SCENAR": "nízky", "ROK": "2033", "CELKOVY_PRIRASTOK": -827, "ObjectId": 56}
+{"SCENAR": "stredný", "ROK": "2033", "CELKOVY_PRIRASTOK": 906, "ObjectId": 57}
+{"SCENAR": "vysoký", "ROK": "2033", "CELKOVY_PRIRASTOK": 2580, "ObjectId": 58}
+{"SCENAR": "veľmi vysoký", "ROK": "2033", "CELKOVY_PRIRASTOK": 3707, "ObjectId": 59}
+{"SCENAR": "nulová migrácia", "ROK": "2033", "CELKOVY_PRIRASTOK": -2181, "ObjectId": 60}
+{"SCENAR": "nízky", "ROK": "2034", "CELKOVY_PRIRASTOK": -846, "ObjectId": 61}
+{"SCENAR": "stredný", "ROK": "2034", "CELKOVY_PRIRASTOK": 983, "ObjectId": 62}
+{"SCENAR": "vysoký", "ROK": "2034", "CELKOVY_PRIRASTOK": 2680, "ObjectId": 63}
+{"SCENAR": "veľmi vysoký", "ROK": "2034", "CELKOVY_PRIRASTOK": 3827, "ObjectId": 64}
+{"SCENAR": "nulová migrácia", "ROK": "2034", "CELKOVY_PRIRASTOK": -2186, "ObjectId": 65}
+{"SCENAR": "nízky", "ROK": "2035", "CELKOVY_PRIRASTOK": -849, "ObjectId": 66}
+{"SCENAR": "stredný", "ROK": "2035", "CELKOVY_PRIRASTOK": 1045, "ObjectId": 67}
+{"SCENAR": "vysoký", "ROK": "2035", "CELKOVY_PRIRASTOK": 2812, "ObjectId": 68}
+{"SCENAR": "veľmi vysoký", "ROK": "2035", "CELKOVY_PRIRASTOK": 3975, "ObjectId": 69}
+{"SCENAR": "nulová migrácia", "ROK": "2035", "CELKOVY_PRIRASTOK": -2174, "ObjectId": 70}
+{"SCENAR": "nízky", "ROK": "2036", "CELKOVY_PRIRASTOK": -835, "ObjectId": 71}
+{"SCENAR": "stredný", "ROK": "2036", "CELKOVY_PRIRASTOK": 1066, "ObjectId": 72}
+{"SCENAR": "vysoký", "ROK": "2036", "CELKOVY_PRIRASTOK": 2864, "ObjectId": 73}
+{"SCENAR": "veľmi vysoký", "ROK": "2036", "CELKOVY_PRIRASTOK": 4052, "ObjectId": 74}
+{"SCENAR": "nulová migrácia", "ROK": "2036", "CELKOVY_PRIRASTOK": -2159, "ObjectId": 75}
+{"SCENAR": "nízky", "ROK": "2037", "CELKOVY_PRIRASTOK": -795, "ObjectId": 76}
+{"SCENAR": "stredný", "ROK": "2037", "CELKOVY_PRIRASTOK": 1218, "ObjectId": 77}
+{"SCENAR": "vysoký", "ROK": "2037", "CELKOVY_PRIRASTOK": 2935, "ObjectId": 78}
+{"SCENAR": "veľmi vysoký", "ROK": "2037", "CELKOVY_PRIRASTOK": 4146, "ObjectId": 79}
+{"SCENAR": "nulová migrácia", "ROK": "2037", "CELKOVY_PRIRASTOK": -2117, "ObjectId": 80}
+{"SCENAR": "nízky", "ROK": "2038", "CELKOVY_PRIRASTOK": -730, "ObjectId": 81}
+{"SCENAR": "stredný", "ROK": "2038", "CELKOVY_PRIRASTOK": 1297, "ObjectId": 82}
+{"SCENAR": "vysoký", "ROK": "2038", "CELKOVY_PRIRASTOK": 3000, "ObjectId": 83}
+{"SCENAR": "veľmi vysoký", "ROK": "2038", "CELKOVY_PRIRASTOK": 4226, "ObjectId": 84}
+{"SCENAR": "nulová migrácia", "ROK": "2038", "CELKOVY_PRIRASTOK": -2054, "ObjectId": 85}
+{"SCENAR": "nízky", "ROK": "2039", "CELKOVY_PRIRASTOK": -663, "ObjectId": 86}
+{"SCENAR": "stredný", "ROK": "2039", "CELKOVY_PRIRASTOK": 1383, "ObjectId": 87}
+{"SCENAR": "vysoký", "ROK": "2039", "CELKOVY_PRIRASTOK": 3099, "ObjectId": 88}
+{"SCENAR": "veľmi vysoký", "ROK": "2039", "CELKOVY_PRIRASTOK": 4338, "ObjectId": 89}
+{"SCENAR": "nulová migrácia", "ROK": "2039", "CELKOVY_PRIRASTOK": -1983, "ObjectId": 90}
+{"SCENAR": "nízky", "ROK": "2040", "CELKOVY_PRIRASTOK": -580, "ObjectId": 91}
+{"SCENAR": "stredný", "ROK": "2040", "CELKOVY_PRIRASTOK": 1478, "ObjectId": 92}
+{"SCENAR": "vysoký", "ROK": "2040", "CELKOVY_PRIRASTOK": 3205, "ObjectId": 93}
+{"SCENAR": "veľmi vysoký", "ROK": "2040", "CELKOVY_PRIRASTOK": 4452, "ObjectId": 94}
+{"SCENAR": "nulová migrácia", "ROK": "2040", "CELKOVY_PRIRASTOK": -1887, "ObjectId": 95}
+{"SCENAR": "nízky", "ROK": "2041", "CELKOVY_PRIRASTOK": -485, "ObjectId": 96}
+{"SCENAR": "stredný", "ROK": "2041", "CELKOVY_PRIRASTOK": 1584, "ObjectId": 97}
+{"SCENAR": "vysoký", "ROK": "2041", "CELKOVY_PRIRASTOK": 3308, "ObjectId": 98}
+{"SCENAR": "veľmi vysoký", "ROK": "2041", "CELKOVY_PRIRASTOK": 4571, "ObjectId": 99}
+{"SCENAR": "nulová migrácia", "ROK": "2041", "CELKOVY_PRIRASTOK": -1797, "ObjectId": 100}
+{"SCENAR": "nízky", "ROK": "2042", "CELKOVY_PRIRASTOK": -400, "ObjectId": 101}
+{"SCENAR": "stredný", "ROK": "2042", "CELKOVY_PRIRASTOK": 1676, "ObjectId": 102}
+{"SCENAR": "vysoký", "ROK": "2042", "CELKOVY_PRIRASTOK": 3397, "ObjectId": 103}
+{"SCENAR": "veľmi vysoký", "ROK": "2042", "CELKOVY_PRIRASTOK": 4674, "ObjectId": 104}
+{"SCENAR": "nulová migrácia", "ROK": "2042", "CELKOVY_PRIRASTOK": -1697, "ObjectId": 105}
+{"SCENAR": "nízky", "ROK": "2043", "CELKOVY_PRIRASTOK": -309, "ObjectId": 106}
+{"SCENAR": "stredný", "ROK": "2043", "CELKOVY_PRIRASTOK": 1776, "ObjectId": 107}
+{"SCENAR": "vysoký", "ROK": "2043", "CELKOVY_PRIRASTOK": 3494, "ObjectId": 108}
+{"SCENAR": "veľmi vysoký", "ROK": "2043", "CELKOVY_PRIRASTOK": 4790, "ObjectId": 109}
+{"SCENAR": "nulová migrácia", "ROK": "2043", "CELKOVY_PRIRASTOK": -1608, "ObjectId": 110}
+{"SCENAR": "nízky", "ROK": "2044", "CELKOVY_PRIRASTOK": -222, "ObjectId": 111}
+{"SCENAR": "stredný", "ROK": "2044", "CELKOVY_PRIRASTOK": 1881, "ObjectId": 112}
+{"SCENAR": "vysoký", "ROK": "2044", "CELKOVY_PRIRASTOK": 3585, "ObjectId": 113}
+{"SCENAR": "veľmi vysoký", "ROK": "2044", "CELKOVY_PRIRASTOK": 4901, "ObjectId": 114}
+{"SCENAR": "nulová migrácia", "ROK": "2044", "CELKOVY_PRIRASTOK": -1509, "ObjectId": 115}
+{"SCENAR": "nízky", "ROK": "2045", "CELKOVY_PRIRASTOK": -136, "ObjectId": 116}
+{"SCENAR": "stredný", "ROK": "2045", "CELKOVY_PRIRASTOK": 1970, "ObjectId": 117}
+{"SCENAR": "vysoký", "ROK": "2045", "CELKOVY_PRIRASTOK": 3670, "ObjectId": 118}
+{"SCENAR": "veľmi vysoký", "ROK": "2045", "CELKOVY_PRIRASTOK": 5000, "ObjectId": 119}
+{"SCENAR": "nulová migrácia", "ROK": "2045", "CELKOVY_PRIRASTOK": -1428, "ObjectId": 120}
+{"SCENAR": "nízky", "ROK": "2046", "CELKOVY_PRIRASTOK": -62, "ObjectId": 121}
+{"SCENAR": "stredný", "ROK": "2046", "CELKOVY_PRIRASTOK": 2066, "ObjectId": 122}
+{"SCENAR": "vysoký", "ROK": "2046", "CELKOVY_PRIRASTOK": 3760, "ObjectId": 123}
+{"SCENAR": "veľmi vysoký", "ROK": "2046", "CELKOVY_PRIRASTOK": 5094, "ObjectId": 124}
+{"SCENAR": "nulová migrácia", "ROK": "2046", "CELKOVY_PRIRASTOK": -1341, "ObjectId": 125}
+{"SCENAR": "nízky", "ROK": "2047", "CELKOVY_PRIRASTOK": 16, "ObjectId": 126}
+{"SCENAR": "stredný", "ROK": "2047", "CELKOVY_PRIRASTOK": 2140, "ObjectId": 127}
+{"SCENAR": "vysoký", "ROK": "2047", "CELKOVY_PRIRASTOK": 3823, "ObjectId": 128}
+{"SCENAR": "veľmi vysoký", "ROK": "2047", "CELKOVY_PRIRASTOK": 5184, "ObjectId": 129}
+{"SCENAR": "nulová migrácia", "ROK": "2047", "CELKOVY_PRIRASTOK": -1263, "ObjectId": 130}
+{"SCENAR": "nízky", "ROK": "2048", "CELKOVY_PRIRASTOK": 76, "ObjectId": 131}
+{"SCENAR": "stredný", "ROK": "2048", "CELKOVY_PRIRASTOK": 2209, "ObjectId": 132}
+{"SCENAR": "vysoký", "ROK": "2048", "CELKOVY_PRIRASTOK": 3896, "ObjectId": 133}
+{"SCENAR": "veľmi vysoký", "ROK": "2048", "CELKOVY_PRIRASTOK": 5280, "ObjectId": 134}
+{"SCENAR": "nulová migrácia", "ROK": "2048", "CELKOVY_PRIRASTOK": -1212, "ObjectId": 135}
+{"SCENAR": "nízky", "ROK": "2049", "CELKOVY_PRIRASTOK": 121, "ObjectId": 136}
+{"SCENAR": "stredný", "ROK": "2049", "CELKOVY_PRIRASTOK": 2271, "ObjectId": 137}
+{"SCENAR": "vysoký", "ROK": "2049", "CELKOVY_PRIRASTOK": 3949, "ObjectId": 138}
+{"SCENAR": "veľmi vysoký", "ROK": "2049", "CELKOVY_PRIRASTOK": 5352, "ObjectId": 139}
+{"SCENAR": "nulová migrácia", "ROK": "2049", "CELKOVY_PRIRASTOK": -1162, "ObjectId": 140}
+{"SCENAR": "nízky", "ROK": "2050", "CELKOVY_PRIRASTOK": 158, "ObjectId": 141}
+{"SCENAR": "stredný", "ROK": "2050", "CELKOVY_PRIRASTOK": 2318, "ObjectId": 142}
+{"SCENAR": "vysoký", "ROK": "2050", "CELKOVY_PRIRASTOK": 3986, "ObjectId": 143}
+{"SCENAR": "veľmi vysoký", "ROK": "2050", "CELKOVY_PRIRASTOK": 5415, "ObjectId": 144}
+{"SCENAR": "nulová migrácia", "ROK": "2050", "CELKOVY_PRIRASTOK": -1138, "ObjectId": 145}

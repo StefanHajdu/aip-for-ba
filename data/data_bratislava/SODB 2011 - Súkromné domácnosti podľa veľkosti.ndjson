@@ -1,0 +1,22 @@
+{"Okres": "Bratislava I", "Mestská_časť": null, "Spolu": "17272", "F1_osoba": "7139", "F2_osoby": "5231", "F3_až_5_osôb": "4657", "F6_až_10_osôb": "243", "F11_osôb_a_viac": "2", "ObjectId": 1}
+{"Okres": "Bratislava I", "Mestská_časť": "Staré Mesto", "Spolu": "17272", "F1_osoba": "7139", "F2_osoby": "5231", "F3_až_5_osôb": "4657", "F6_až_10_osôb": "243", "F11_osôb_a_viac": "2", "ObjectId": 2}
+{"Okres": "Bratislava II", "Mestská_časť": null, "Spolu": "47028", "F1_osoba": "18427", "F2_osoby": "11222", "F3_až_5_osôb": "16777", "F6_až_10_osôb": "589", "F11_osôb_a_viac": "13", "ObjectId": 3}
+{"Okres": "Bratislava II", "Mestská_časť": "Podunajské Biskupice", "Spolu": "8113", "F1_osoba": "2461", "F2_osoby": "2032", "F3_až_5_osôb": "3406", "F6_až_10_osôb": "206", "F11_osôb_a_viac": "8", "ObjectId": 4}
+{"Okres": "Bratislava II", "Mestská_časť": "Ružinov", "Spolu": "31724", "F1_osoba": "13890", "F2_osoby": "7769", "F3_až_5_osôb": "9857", "F6_až_10_osôb": "204", "F11_osôb_a_viac": "4", "ObjectId": 5}
+{"Okres": "Bratislava II", "Mestská_časť": "Vrakuňa", "Spolu": "7191", "F1_osoba": "2076", "F2_osoby": "1421", "F3_až_5_osôb": "3514", "F6_až_10_osôb": "179", "F11_osôb_a_viac": "1", "ObjectId": 6}
+{"Okres": "Bratislava III", "Mestská_časť": null, "Spolu": "26755", "F1_osoba": "10665", "F2_osoby": "6499", "F3_až_5_osôb": "9284", "F6_až_10_osôb": "303", "F11_osôb_a_viac": "4", "ObjectId": 7}
+{"Okres": "Bratislava III", "Mestská_časť": "Nové Mesto", "Spolu": "16413", "F1_osoba": "6839", "F2_osoby": "4082", "F3_až_5_osôb": "5379", "F6_až_10_osôb": "110", "F11_osôb_a_viac": "3", "ObjectId": 8}
+{"Okres": "Bratislava III", "Mestská_časť": "Rača", "Spolu": "8309", "F1_osoba": "3152", "F2_osoby": "2001", "F3_až_5_osôb": "3029", "F6_až_10_osôb": "127", "F11_osôb_a_viac": "0", "ObjectId": 9}
+{"Okres": "Bratislava III", "Mestská_časť": "Vajnory", "Spolu": "2033", "F1_osoba": "674", "F2_osoby": "416", "F3_až_5_osôb": "876", "F6_až_10_osôb": "66", "F11_osôb_a_viac": "1", "ObjectId": 10}
+{"Okres": "Bratislava IV", "Mestská_časť": null, "Spolu": "37195", "F1_osoba": "11607", "F2_osoby": "8561", "F3_až_5_osôb": "16529", "F6_až_10_osôb": "493", "F11_osôb_a_viac": "5", "ObjectId": 11}
+{"Okres": "Bratislava IV", "Mestská_časť": "Devínska Nová Ves", "Spolu": "5653", "F1_osoba": "1421", "F2_osoby": "1052", "F3_až_5_osôb": "3085", "F6_až_10_osôb": "92", "F11_osôb_a_viac": "3", "ObjectId": 12}
+{"Okres": "Bratislava IV", "Mestská_časť": "Dúbravka", "Spolu": "14004", "F1_osoba": "4790", "F2_osoby": "3483", "F3_až_5_osôb": "5576", "F6_až_10_osôb": "153", "F11_osôb_a_viac": "2", "ObjectId": 13}
+{"Okres": "Bratislava IV", "Mestská_časť": "Karlova Ves", "Spolu": "13097", "F1_osoba": "3919", "F2_osoby": "2979", "F3_až_5_osôb": "6054", "F6_až_10_osôb": "145", "F11_osôb_a_viac": "0", "ObjectId": 14}
+{"Okres": "Bratislava IV", "Mestská_časť": "Devín", "Spolu": "372", "F1_osoba": "91", "F2_osoby": "100", "F3_až_5_osôb": "157", "F6_až_10_osôb": "24", "F11_osôb_a_viac": "0", "ObjectId": 15}
+{"Okres": "Bratislava IV", "Mestská_časť": "Lamač", "Spolu": "2831", "F1_osoba": "1073", "F2_osoby": "682", "F3_až_5_osôb": "1032", "F6_až_10_osôb": "44", "F11_osôb_a_viac": "0", "ObjectId": 16}
+{"Okres": "Bratislava IV", "Mestská_časť": "Záhorská Bystrica", "Spolu": "1238", "F1_osoba": "313", "F2_osoby": "265", "F3_až_5_osôb": "625", "F6_až_10_osôb": "35", "F11_osôb_a_viac": "0", "ObjectId": 17}
+{"Okres": "Bratislava V", "Mestská_časť": null, "Spolu": "44397", "F1_osoba": "14059", "F2_osoby": "9290", "F3_až_5_osôb": "20401", "F6_až_10_osôb": "646", "F11_osôb_a_viac": "1", "ObjectId": 18}
+{"Okres": "Bratislava V", "Mestská_časť": "Čunovo", "Spolu": "317", "F1_osoba": "52", "F2_osoby": "68", "F3_až_5_osôb": "171", "F6_až_10_osôb": "26", "F11_osôb_a_viac": "0", "ObjectId": 19}
+{"Okres": "Bratislava V", "Mestská_časť": "Jarovce", "Spolu": "469", "F1_osoba": "89", "F2_osoby": "98", "F3_až_5_osôb": "250", "F6_až_10_osôb": "32", "F11_osôb_a_viac": "0", "ObjectId": 20}
+{"Okres": "Bratislava V", "Mestská_časť": "Petržalka", "Spolu": "42665", "F1_osoba": "13750", "F2_osoby": "8930", "F3_až_5_osôb": "19433", "F6_až_10_osôb": "551", "F11_osôb_a_viac": "1", "ObjectId": 21}
+{"Okres": "Bratislava V", "Mestská_časť": "Rusovce", "Spolu": "946", "F1_osoba": "168", "F2_osoby": "194", "F3_až_5_osôb": "547", "F6_až_10_osôb": "37", "F11_osôb_a_viac": "0", "ObjectId": 22}

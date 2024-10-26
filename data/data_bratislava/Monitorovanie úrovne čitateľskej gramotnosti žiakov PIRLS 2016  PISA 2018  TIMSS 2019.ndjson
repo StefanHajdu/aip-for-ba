@@ -1,0 +1,35 @@
+{"Meranie": "PIRLS 2016", "Krajina": "SR", "Kategória": "Priemerná úspešnosť", "Hodnota": "535 (3,1)", "ObjectId": 1}
+{"Meranie": "PIRLS 2016", "Krajina": "SR", "Kategória": "Najvyššia úroveň", "Hodnota": "10%", "ObjectId": 2}
+{"Meranie": "PIRLS 2016", "Krajina": "SR", "Kategória": "Vysoká úroveň", "Hodnota": "47%", "ObjectId": 3}
+{"Meranie": "PIRLS 2016", "Krajina": "SR", "Kategória": "Priemerná úroveň", "Hodnota": "81%", "ObjectId": 4}
+{"Meranie": "PIRLS 2016", "Krajina": "SR", "Kategória": "Nízka úroveň", "Hodnota": "93%", "ObjectId": 5}
+{"Meranie": "PIRLS 2016", "Krajina": "EU", "Kategória": "Priemerná úspešnosť", "Hodnota": "540 (0,5)", "ObjectId": 6}
+{"Meranie": "PIRLS 2016", "Krajina": "EU", "Kategória": "Najvyššia úroveň", "Hodnota": "12%", "ObjectId": 7}
+{"Meranie": "PIRLS 2016", "Krajina": "EU", "Kategória": "Vysoká úroveň", "Hodnota": "47%", "ObjectId": 8}
+{"Meranie": "PIRLS 2016", "Krajina": "EU", "Kategória": "Priemerná úroveň", "Hodnota": "82%", "ObjectId": 9}
+{"Meranie": "PIRLS 2016", "Krajina": "EU", "Kategória": "Nízka úroveň", "Hodnota": "96%", "ObjectId": 10}
+{"Meranie": "PIRLS 2016", "Krajina": "Medzinárodný medián", "Kategória": "Priemerná úspešnosť", "Hodnota": "511 (0,4)", "ObjectId": 11}
+{"Meranie": "PIRLS 2016", "Krajina": "Medzinárodný medián", "Kategória": "Najvyššia úroveň", "Hodnota": "10%", "ObjectId": 12}
+{"Meranie": "PIRLS 2016", "Krajina": "Medzinárodný medián", "Kategória": "Vysoká úroveň", "Hodnota": "48%", "ObjectId": 13}
+{"Meranie": "PIRLS 2016", "Krajina": "Medzinárodný medián", "Kategória": "Priemerná úroveň", "Hodnota": "82%", "ObjectId": 14}
+{"Meranie": "PIRLS 2016", "Krajina": "Medzinárodný medián", "Kategória": "Nízka úroveň", "Hodnota": "96%", "ObjectId": 15}
+{"Meranie": "PISA 2018", "Krajina": "SR", "Kategória": "Priemerná úspešnosť", "Hodnota": "486 (2,3)", "ObjectId": 16}
+{"Meranie": "PISA 2018", "Krajina": "SR", "Kategória": "661 a viac", "Hodnota": "3,6", "ObjectId": 17}
+{"Meranie": "PISA 2018", "Krajina": "SR", "Kategória": "596-661", "Hodnota": "10,2", "ObjectId": 18}
+{"Meranie": "PISA 2018", "Krajina": "SR", "Kategória": "531-596", "Hodnota": "18,8", "ObjectId": 19}
+{"Meranie": "PISA 2018", "Krajina": "SR", "Kategória": "466-531", "Hodnota": "25,1", "ObjectId": 20}
+{"Meranie": "PISA 2018", "Krajina": "SR", "Kategória": "401-466", "Hodnota": "22,6", "ObjectId": 21}
+{"Meranie": "PISA 2018", "Krajina": "SR", "Kategória": "menej ako 401", "Hodnota": "19,7", "ObjectId": 22}
+{"Meranie": "PISA 2018", "Krajina": "Medzinárodný priemer", "Kategória": "Priemerná úspešnosť", "Hodnota": "480", "ObjectId": 23}
+{"Meranie": "PISA 2018", "Krajina": "Medzinárodný priemer", "Kategória": "661 a viac", "Hodnota": "4,3", "ObjectId": 24}
+{"Meranie": "PISA 2018", "Krajina": "Medzinárodný priemer", "Kategória": "596-661", "Hodnota": "9,3", "ObjectId": 25}
+{"Meranie": "PISA 2018", "Krajina": "Medzinárodný priemer", "Kategória": "531-596", "Hodnota": "16,2", "ObjectId": 26}
+{"Meranie": "PISA 2018", "Krajina": "Medzinárodný priemer", "Kategória": "466-531", "Hodnota": "21,2", "ObjectId": 27}
+{"Meranie": "PISA 2018", "Krajina": "Medzinárodný priemer", "Kategória": "401-466", "Hodnota": "22,5", "ObjectId": 28}
+{"Meranie": "PISA 2018", "Krajina": "Medzinárodný priemer", "Kategória": "menej ako 401", "Hodnota": "26,5", "ObjectId": 29}
+{"Meranie": "TIMSS 2019", "Krajina": "SR", "Kategória": "Priemerná úspešnosť (matematika)", "Hodnota": "510 (3,5)", "ObjectId": 30}
+{"Meranie": "TIMSS 2019", "Krajina": "SR", "Kategória": "Priemerná úspešnosť (prírodné vedy)", "Hodnota": "521 (3,7)", "ObjectId": 31}
+{"Meranie": "TIMSS 2019", "Krajina": "EU", "Kategória": "Priemerná úspešnosť (matematika)", "Hodnota": "527 (0,5)", "ObjectId": 32}
+{"Meranie": "TIMSS 2019", "Krajina": "EU", "Kategória": "Priemerná úspešnosť (prírodné vedy)", "Hodnota": "522 (0,6)", "ObjectId": 33}
+{"Meranie": "TIMSS 2019", "Krajina": "Priemer škály TIMSS", "Kategória": "Priemerná úspešnosť (matematika)", "Hodnota": "500 (0,0)", "ObjectId": 34}
+{"Meranie": "TIMSS 2019", "Krajina": "Priemer škály TIMSS", "Kategória": "Priemerná úspešnosť (prírodné vedy)", "Hodnota": "500 (0,0)", "ObjectId": 35}

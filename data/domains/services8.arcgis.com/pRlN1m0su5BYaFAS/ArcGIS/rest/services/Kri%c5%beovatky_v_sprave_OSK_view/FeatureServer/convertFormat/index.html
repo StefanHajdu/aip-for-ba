@@ -1,0 +1,110 @@
+<html lang="en">
+<head>
+  <title>ConvertFormat: Križovatky_v_sprave_OSK_view</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">Home</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">services</a> </span>> <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/Kri%c5%beovatky_v_sprave_OSK_view/FeatureServer">Križovatky_v_sprave_OSK_view (FeatureServer)</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/Kri%c5%beovatky_v_sprave_OSK_view/FeatureServer/convertFormat"><i>convertFormat</i></a> </td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div class='restHeader'>
+<h2>ConvertFormat: Križovatky_v_sprave_OSK_view</h2>
+</div>
+<div class='restBody'>
+<i>
+Note: This operation is only supported via POST
+</i>
+<br/>
+<br/>
+<br/>
+<form method='post'>
+<table>
+<tr><td>
+<table style='border:1px solid #000000;' width='100%'>
+<tr>
+<td>
+Upload ID:
+</td>
+<td>
+<input type="text" name="editsUploadId" value="" size="65" />
+</td>
+</tr>
+<tr>
+<td>Upload Format:</td>
+<td>
+<select name="uploadFileFormat">
+<option value="json" >JSON</option>
+<option value="pbf" >PBF</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>Content Format:</td>
+<td>
+<select name="contentType">
+<option value="LayerEditCollection" >LayerEditCollection</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+Input Spatial Reference:
+</td>
+<td>
+<input type="text" name="inSR" value="" size="75" />
+</td>
+</tr>
+<tr>
+<td>ASync:</td>
+<td>
+<input type="radio" name="async" value="true"/>True&nbsp;
+<input type="radio" name="async" value="false" checked='true'/>False</td>
+</tr>
+<tr id="formatComboRow">
+<td>Format: </td>
+<td>
+<select name="f">
+<option value="html" selected='true'>HTML</option>
+<option value="pjson">JSON</option>
+</select>
+</td>
+</tr>
+<tr><td colspan='2' align='left'><input type='submit' value='Convert' /></td></tr>
+</table>
+<input type="hidden" id="token" name="token" value="" />
+</form>
+<script>
+function removeElement(id) {
+element = document.getElementById(id);
+if (element != null) {
+element.parentNode.removeChild(element);
+}}
+if ( window.location !== window.parent.location ){
+removeElement('homeBreadcrumbs');
+removeElement('servicesBreadcrumb');
+removeElement('viewInSection');
+jsonLinkTable = document.getElementById('jsonLinkTable'); 
+if (jsonLinkTable != null) {
+jsonLinkTable.innerHTML = '<table><tr><td class="apiref"><a href="?f=pjson&token=" target="_self">JSON</a></td></tr></table>'; 
+}
+removeElement('userTable');
+}
+</script>
+</div>
+</body>
+</html>

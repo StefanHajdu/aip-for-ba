@@ -1,0 +1,10 @@
+{"OKRES_ZISKOVY": "Bratislava I", "OKRES_STRATOVY": "Bratislava II", "MIGRACNE_SALDO": -342, "ObjectId": 1}
+{"OKRES_ZISKOVY": "Bratislava I", "OKRES_STRATOVY": "Bratislava III", "MIGRACNE_SALDO": -337, "ObjectId": 2}
+{"OKRES_ZISKOVY": "Bratislava II", "OKRES_STRATOVY": "Bratislava III", "MIGRACNE_SALDO": -106, "ObjectId": 3}
+{"OKRES_ZISKOVY": "Bratislava I", "OKRES_STRATOVY": "Bratislava IV", "MIGRACNE_SALDO": -244, "ObjectId": 4}
+{"OKRES_ZISKOVY": "Bratislava II", "OKRES_STRATOVY": "Bratislava IV", "MIGRACNE_SALDO": 62, "ObjectId": 5}
+{"OKRES_ZISKOVY": "Bratislava III", "OKRES_STRATOVY": "Bratislava IV", "MIGRACNE_SALDO": 190, "ObjectId": 6}
+{"OKRES_ZISKOVY": "Bratislava I", "OKRES_STRATOVY": "Bratislava V", "MIGRACNE_SALDO": 175, "ObjectId": 7}
+{"OKRES_ZISKOVY": "Bratislava II", "OKRES_STRATOVY": "Bratislava V", "MIGRACNE_SALDO": 756, "ObjectId": 8}
+{"OKRES_ZISKOVY": "Bratislava III", "OKRES_STRATOVY": "Bratislava V", "MIGRACNE_SALDO": 500, "ObjectId": 9}
+{"OKRES_ZISKOVY": "Bratislava IV", "OKRES_STRATOVY": "Bratislava V", "MIGRACNE_SALDO": 403, "ObjectId": 10}

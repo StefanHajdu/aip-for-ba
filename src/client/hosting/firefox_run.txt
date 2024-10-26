@@ -1,0 +1,2 @@
+about:config
+security.mixed_content.block_active_content -> True

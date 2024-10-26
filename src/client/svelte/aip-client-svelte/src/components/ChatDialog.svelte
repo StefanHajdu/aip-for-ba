@@ -3,10 +3,10 @@
   import UserQ from "./UserQ.svelte";
 
   const urlStream =
-    "https://aip-api.shs-net.org/generate?limit=2&stream=True&model=llama3%2E1";
+    "https://aip-api.shs-net.org/generate-rag?limit=2&stream=True&model=llama3%2E1";
 
   const urlGenerate =
-    "https://aip-api.shs-net.org/generate?limit=2&stream=False&model=llama3%2E1";
+    "https://aip-api.shs-net.org/generate-rag?limit=2&stream=False&model=llama3%2E1";
 
   $: prompt = "";
   $: answer = "";
@@ -89,7 +89,7 @@
       const responseJSON = await response.json();
       answer = responseJSON.llm_answer + responseJSON.sources.toString();
     } else {
-      answer = "Invalid answer";
+      answer = "Invalid answer!";
     }
   }
 </script>

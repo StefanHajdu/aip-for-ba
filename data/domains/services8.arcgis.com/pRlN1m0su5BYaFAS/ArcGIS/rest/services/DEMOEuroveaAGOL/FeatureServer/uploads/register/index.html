@@ -1,0 +1,83 @@
+<html lang="en">
+<head>
+  <title>Register Item</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">Home</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">services</a> </span>> <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/DEMOEuroveaAGOL/FeatureServer">DEMOEuroveaAGOL (FeatureServer)</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/DEMOEuroveaAGOL/FeatureServer/uploads"><i>uploads</i></a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/DEMOEuroveaAGOL/FeatureServer/uploads/upload">upload</a> </td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div class='restHeader'>
+<h2>Register Item</h2>
+</div>
+<div class='restBody'>
+<i>
+Note: This operation is only supported via POST
+</i>
+<br/>
+<br/>
+<br/>
+<form method="post" enctype="multipart/form-data">
+<table class='formTable'>
+<tr><td>
+<table width='100%'>
+<tr>
+<td>
+Item Name:
+</td>
+<td>
+<input type="text" name="itemName" value="" size="25" />
+</td>
+</tr>
+<tr>
+<td>Description:</td>
+<td><textarea name='description' rows='5' cols='55' ></textarea></td>
+</tr>
+<tr id="formatComboRow">
+<td>Format: </td>
+<td>
+<select name="f">
+<option value="html" selected='true'>HTML</option>
+<option value="pjson">JSON</option>
+</select>
+</td>
+</tr>
+<tr><td colspan='2' align='left'><input type='submit' value='Register Item' /></td></tr>
+</table></table>
+<input type="hidden" id="token" name="token" value="" />
+</form>
+<script>
+function removeElement(id) {
+element = document.getElementById(id);
+if (element != null) {
+element.parentNode.removeChild(element);
+}}
+if ( window.location !== window.parent.location ){
+removeElement('homeBreadcrumbs');
+removeElement('servicesBreadcrumb');
+removeElement('viewInSection');
+jsonLinkTable = document.getElementById('jsonLinkTable'); 
+if (jsonLinkTable != null) {
+jsonLinkTable.innerHTML = '<table><tr><td class="apiref"><a href="?f=pjson&token=" target="_self">JSON</a></td></tr></table>'; 
+}
+removeElement('userTable');
+}
+</script>
+</div>
+</body>
+</html>

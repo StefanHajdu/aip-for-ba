@@ -1,0 +1,137 @@
+<html lang="en">
+<head>
+  <title>Apply Edits: Kde sa necítiš bezpečne? (ID: 3)</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">Home</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">services</a> </span>> <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/pocitova_mapa/FeatureServer">pocitova_mapa (FeatureServer)</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/pocitova_mapa/FeatureServer/3">Kde sa necítiš bezpečne?</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/pocitova_mapa/FeatureServer/3/applyEdits"><i>applyEdits</i></a> </td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div class='restHeader'>
+<h2>Apply Edits: Kde sa necítiš bezpečne? (ID: 3)</h2>
+</div>
+<div class='restBody'>
+<i>
+Note: This operation is only supported via POST
+</i>
+<br/>
+<br/>
+<br/>
+<form method='post'>
+<table>
+<tr><td>
+<table style='border:1px solid #000000;' width='100%'>
+<tr>
+<td>Adds:</td>
+<td><textarea name='adds' rows='10' cols='55' ></textarea></td>
+</tr>
+<tr>
+<td>Updates:</td>
+<td><textarea name='updates' rows='10' cols='55' ></textarea></td>
+</tr>
+<tr>
+<td>
+Deletes:
+</td>
+<td>
+<input type="text" name="deletes" value="" size="65" />
+</td>
+</tr>
+<tr>
+<td>Attachments:</td>
+<td><textarea name='attachments' rows='10' cols='55' ></textarea></td>
+</tr>
+<tr>
+<td>Rollback on Failure</td>
+<td>
+<input type="radio" name="rollbackOnFailure" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="rollbackOnFailure" value="false"/>False</td>
+</tr>
+<tr>
+<td>Use GlobalIds</td>
+<td>
+<input type="radio" name="useGlobalIds" value="true"/>True&nbsp;
+<input type="radio" name="useGlobalIds" value="false" checked='true'/>False</td>
+</tr>
+<tr>
+<td>
+Edits UploadId:
+</td>
+<td>
+<input type="text" name="editsUploadId" value="" size="65" />
+</td>
+</tr>
+<tr>
+<td>Edits Upload Format:</td>
+<td>
+<select name="editsUploadFormat">
+<option value="json" >JSON</option>
+<option value="pbf" >PBF</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>ASync:</td>
+<td>
+<input type="radio" name="async" value="true"/>True&nbsp;
+<input type="radio" name="async" value="false" checked='true'/>False</td>
+</tr>
+<tr>
+<td>Return Apply Edits Results:</td>
+<td>
+<input type="radio" name="returnEditResults" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="returnEditResults" value="false"/>False</td>
+</tr>
+<tr>
+<td>Is True Curve Client:</td>
+<td>
+<input type="radio" name="isTrueCurveClient" value="true"/>True&nbsp;
+<input type="radio" name="isTrueCurveClient" value="false" checked='true'/>False</td>
+</tr>
+<tr id="formatComboRow">
+<td>Format: </td>
+<td>
+<select name="f">
+<option value="html" selected='true'>HTML</option>
+<option value="pjson">JSON</option>
+</select>
+</td>
+</tr>
+<tr><td colspan='2' align='left'><input type='submit' value='Apply Edits' /></td></tr>
+</table>
+<input type="hidden" id="token" name="token" value="" />
+</form>
+<script>
+function removeElement(id) {
+element = document.getElementById(id);
+if (element != null) {
+element.parentNode.removeChild(element);
+}}
+if ( window.location !== window.parent.location ){
+removeElement('homeBreadcrumbs');
+removeElement('servicesBreadcrumb');
+removeElement('viewInSection');
+jsonLinkTable = document.getElementById('jsonLinkTable'); 
+if (jsonLinkTable != null) {
+jsonLinkTable.innerHTML = '<table><tr><td class="apiref"><a href="?f=pjson&token=" target="_self">JSON</a></td></tr></table>'; 
+}
+removeElement('userTable');
+}
+</script>
+</div>
+</body>
+</html>

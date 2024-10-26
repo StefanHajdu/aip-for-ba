@@ -1,0 +1,408 @@
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 1}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 2}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 3}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 4}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 5}
+{"MESTSKA_CAST": "Rača", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 6}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 7}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 8}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 9}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 10}
+{"MESTSKA_CAST": "Devín", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 11}
+{"MESTSKA_CAST": "Lamač", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 12}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 13}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 14}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 15}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 16}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2000", "MIGRACNY_OBRAT": null, "ObjectId": 17}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 18}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 19}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 20}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 21}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 22}
+{"MESTSKA_CAST": "Rača", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 23}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 24}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 25}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 26}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 27}
+{"MESTSKA_CAST": "Devín", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 28}
+{"MESTSKA_CAST": "Lamač", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 29}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 30}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 31}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 32}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 33}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2001", "MIGRACNY_OBRAT": null, "ObjectId": 34}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 35}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 36}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 37}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 38}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 39}
+{"MESTSKA_CAST": "Rača", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 40}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 41}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 42}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 43}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 44}
+{"MESTSKA_CAST": "Devín", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 45}
+{"MESTSKA_CAST": "Lamač", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 46}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 47}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 48}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 49}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 50}
+{"MESTSKA_CAST": "Lamač", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 51}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 52}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 53}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 54}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 55}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 56}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 57}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 58}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 59}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 60}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 61}
+{"MESTSKA_CAST": "Rača", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 62}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 63}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 64}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 65}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 66}
+{"MESTSKA_CAST": "Devín", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 67}
+{"MESTSKA_CAST": "Lamač", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 68}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 69}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 70}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 71}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 72}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2018", "MIGRACNY_OBRAT": null, "ObjectId": 73}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 74}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 75}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 76}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 77}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 78}
+{"MESTSKA_CAST": "Rača", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 79}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 80}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 81}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 82}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 83}
+{"MESTSKA_CAST": "Devín", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 84}
+{"MESTSKA_CAST": "Lamač", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 85}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 86}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 87}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 88}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 89}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2019", "MIGRACNY_OBRAT": null, "ObjectId": 90}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 91}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 92}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 93}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 94}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 95}
+{"MESTSKA_CAST": "Rača", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 96}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 97}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 98}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 99}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 100}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 101}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 102}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 103}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 104}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 105}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 106}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 107}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 108}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 109}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 110}
+{"MESTSKA_CAST": "Rača", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 111}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 112}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 113}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 114}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 115}
+{"MESTSKA_CAST": "Devín", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 116}
+{"MESTSKA_CAST": "Lamač", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 117}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 118}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 119}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 120}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 121}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2015", "MIGRACNY_OBRAT": null, "ObjectId": 122}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 123}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 124}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 125}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 126}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 127}
+{"MESTSKA_CAST": "Rača", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 128}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 129}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 130}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 131}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 132}
+{"MESTSKA_CAST": "Devín", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 133}
+{"MESTSKA_CAST": "Lamač", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 134}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 135}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 136}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 137}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 138}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2016", "MIGRACNY_OBRAT": null, "ObjectId": 139}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 140}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 141}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 142}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 143}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 144}
+{"MESTSKA_CAST": "Rača", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 145}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 146}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 147}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 148}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 149}
+{"MESTSKA_CAST": "Devín", "ROK": "2017", "MIGRACNY_OBRAT": null, "ObjectId": 150}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2002", "MIGRACNY_OBRAT": null, "ObjectId": 151}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 152}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 153}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 154}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 155}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 156}
+{"MESTSKA_CAST": "Rača", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 157}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 158}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 159}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 160}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 161}
+{"MESTSKA_CAST": "Devín", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 162}
+{"MESTSKA_CAST": "Lamač", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 163}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 164}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 165}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 166}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 167}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2003", "MIGRACNY_OBRAT": null, "ObjectId": 168}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 169}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 170}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 171}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 172}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 173}
+{"MESTSKA_CAST": "Rača", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 174}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 175}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 176}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 177}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 178}
+{"MESTSKA_CAST": "Devín", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 179}
+{"MESTSKA_CAST": "Lamač", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 180}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 181}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 182}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 183}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 184}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2004", "MIGRACNY_OBRAT": null, "ObjectId": 185}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 186}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 187}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 188}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 189}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 190}
+{"MESTSKA_CAST": "Rača", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 191}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 192}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 193}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 194}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 195}
+{"MESTSKA_CAST": "Devín", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 196}
+{"MESTSKA_CAST": "Lamač", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 197}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 198}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 199}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 200}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 201}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 202}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 203}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 204}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 205}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 206}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 207}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 208}
+{"MESTSKA_CAST": "Rača", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 209}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 210}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 211}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 212}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 213}
+{"MESTSKA_CAST": "Devín", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 214}
+{"MESTSKA_CAST": "Lamač", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 215}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 216}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 217}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 218}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 219}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2009", "MIGRACNY_OBRAT": null, "ObjectId": 220}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 221}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 222}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 223}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 224}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 225}
+{"MESTSKA_CAST": "Rača", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 226}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 227}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 228}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 229}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 230}
+{"MESTSKA_CAST": "Devín", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 231}
+{"MESTSKA_CAST": "Lamač", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 232}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 233}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 234}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 235}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 236}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2010", "MIGRACNY_OBRAT": null, "ObjectId": 237}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 238}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 239}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 240}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 241}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 242}
+{"MESTSKA_CAST": "Rača", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 243}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 244}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 245}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 246}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 247}
+{"MESTSKA_CAST": "Devín", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 248}
+{"MESTSKA_CAST": "Lamač", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 249}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 250}
+{"MESTSKA_CAST": "Devín", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 251}
+{"MESTSKA_CAST": "Lamač", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 252}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 253}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 254}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 255}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 256}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2020", "MIGRACNY_OBRAT": null, "ObjectId": 257}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 258}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 259}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 260}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 261}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 262}
+{"MESTSKA_CAST": "Rača", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 263}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 264}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 265}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 266}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 267}
+{"MESTSKA_CAST": "Devín", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 268}
+{"MESTSKA_CAST": "Lamač", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 269}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 270}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 271}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 272}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 273}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2021", "MIGRACNY_OBRAT": null, "ObjectId": 274}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 275}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 276}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 277}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 278}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 279}
+{"MESTSKA_CAST": "Rača", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 280}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 281}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 282}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 283}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 284}
+{"MESTSKA_CAST": "Devín", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 285}
+{"MESTSKA_CAST": "Lamač", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 286}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 287}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 288}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 289}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 290}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2000 – 2004", "MIGRACNY_OBRAT": null, "ObjectId": 291}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 292}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 293}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 294}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 295}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 296}
+{"MESTSKA_CAST": "Rača", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 297}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 298}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 299}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 300}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 301}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 302}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 303}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2011", "MIGRACNY_OBRAT": null, "ObjectId": 304}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 305}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 306}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 307}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 308}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 309}
+{"MESTSKA_CAST": "Rača", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 310}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 311}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 312}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 313}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 314}
+{"MESTSKA_CAST": "Devín", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 315}
+{"MESTSKA_CAST": "Lamač", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 316}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 317}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 318}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 319}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 320}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2012", "MIGRACNY_OBRAT": null, "ObjectId": 321}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 322}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 323}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 324}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 325}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 326}
+{"MESTSKA_CAST": "Rača", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 327}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 328}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 329}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 330}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 331}
+{"MESTSKA_CAST": "Devín", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 332}
+{"MESTSKA_CAST": "Lamač", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 333}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 334}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 335}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 336}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 337}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2013", "MIGRACNY_OBRAT": null, "ObjectId": 338}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 339}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 340}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 341}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 342}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 343}
+{"MESTSKA_CAST": "Rača", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 344}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 345}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 346}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 347}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 348}
+{"MESTSKA_CAST": "Devín", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 349}
+{"MESTSKA_CAST": "Lamač", "ROK": "2014", "MIGRACNY_OBRAT": null, "ObjectId": 350}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 351}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2005", "MIGRACNY_OBRAT": null, "ObjectId": 352}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 353}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 354}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 355}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 356}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 357}
+{"MESTSKA_CAST": "Rača", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 358}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 359}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 360}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 361}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 362}
+{"MESTSKA_CAST": "Devín", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 363}
+{"MESTSKA_CAST": "Lamač", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 364}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 365}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 366}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 367}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 368}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2006", "MIGRACNY_OBRAT": null, "ObjectId": 369}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 370}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 371}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 372}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 373}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 374}
+{"MESTSKA_CAST": "Rača", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 375}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 376}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 377}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 378}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 379}
+{"MESTSKA_CAST": "Devín", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 380}
+{"MESTSKA_CAST": "Lamač", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 381}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 382}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 383}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 384}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 385}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2007", "MIGRACNY_OBRAT": null, "ObjectId": 386}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 387}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 388}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 389}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 390}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 391}
+{"MESTSKA_CAST": "Rača", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 392}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 393}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 394}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 395}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 396}
+{"MESTSKA_CAST": "Devín", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 397}
+{"MESTSKA_CAST": "Lamač", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 398}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2008", "MIGRACNY_OBRAT": null, "ObjectId": 399}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2008", "MIGRACNY_OBRAT": 50, "ObjectId": 400}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 401}
+{"MESTSKA_CAST": "Devín", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 402}
+{"MESTSKA_CAST": "Lamač", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 403}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 404}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 405}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 406}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 407}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2017 – 2021", "MIGRACNY_OBRAT": null, "ObjectId": 408}

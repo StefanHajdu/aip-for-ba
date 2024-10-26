@@ -1,0 +1,30 @@
+{"OKRES": "Bratislava I", "VZDELANIE": "bez vzdelania", "PODIEL": "0", "ObjectId": 1}
+{"OKRES": "Bratislava II", "VZDELANIE": "bez vzdelania", "PODIEL": "0,1", "ObjectId": 2}
+{"OKRES": "Bratislava III", "VZDELANIE": "bez vzdelania", "PODIEL": "0,1", "ObjectId": 3}
+{"OKRES": "Bratislava IV", "VZDELANIE": "bez vzdelania", "PODIEL": "0,1", "ObjectId": 4}
+{"OKRES": "Bratislava V", "VZDELANIE": "bez vzdelania", "PODIEL": "0,1", "ObjectId": 5}
+{"OKRES": "Bratislava I", "VZDELANIE": "základná škola", "PODIEL": "5,8", "ObjectId": 6}
+{"OKRES": "Bratislava II", "VZDELANIE": "základná škola", "PODIEL": "9,1", "ObjectId": 7}
+{"OKRES": "Bratislava III", "VZDELANIE": "základná škola", "PODIEL": "7,8", "ObjectId": 8}
+{"OKRES": "Bratislava IV", "VZDELANIE": "základná škola", "PODIEL": "7,6", "ObjectId": 9}
+{"OKRES": "Bratislava V", "VZDELANIE": "základná škola", "PODIEL": "8,2", "ObjectId": 10}
+{"OKRES": "Bratislava I", "VZDELANIE": "stredná škola bez maturity", "PODIEL": "5,1", "ObjectId": 11}
+{"OKRES": "Bratislava II", "VZDELANIE": "stredná škola bez maturity", "PODIEL": "10,8", "ObjectId": 12}
+{"OKRES": "Bratislava III", "VZDELANIE": "stredná škola bez maturity", "PODIEL": "9,5", "ObjectId": 13}
+{"OKRES": "Bratislava IV", "VZDELANIE": "stredná škola bez maturity", "PODIEL": "9,4", "ObjectId": 14}
+{"OKRES": "Bratislava V", "VZDELANIE": "stredná škola bez maturity", "PODIEL": "12,2", "ObjectId": 15}
+{"OKRES": "Bratislava I", "VZDELANIE": "stredná škola s maturitou", "PODIEL": "21,1", "ObjectId": 16}
+{"OKRES": "Bratislava II", "VZDELANIE": "stredná škola s maturitou", "PODIEL": "29,1", "ObjectId": 17}
+{"OKRES": "Bratislava III", "VZDELANIE": "stredná škola s maturitou", "PODIEL": "27", "ObjectId": 18}
+{"OKRES": "Bratislava IV", "VZDELANIE": "stredná škola s maturitou", "PODIEL": "28,5", "ObjectId": 19}
+{"OKRES": "Bratislava V", "VZDELANIE": "stredná škola s maturitou", "PODIEL": "30", "ObjectId": 20}
+{"OKRES": "Bratislava I", "VZDELANIE": "vyššia odborná škola", "PODIEL": "5,1", "ObjectId": 21}
+{"OKRES": "Bratislava II", "VZDELANIE": "vyššia odborná škola", "PODIEL": "6,4", "ObjectId": 22}
+{"OKRES": "Bratislava III", "VZDELANIE": "vyššia odborná škola", "PODIEL": "5,9", "ObjectId": 23}
+{"OKRES": "Bratislava IV", "VZDELANIE": "vyššia odborná škola", "PODIEL": "6,2", "ObjectId": 24}
+{"OKRES": "Bratislava V", "VZDELANIE": "vyššia odborná škola", "PODIEL": "7,2", "ObjectId": 25}
+{"OKRES": "Bratislava I", "VZDELANIE": "vysoká škola", "PODIEL": "62,9", "ObjectId": 26}
+{"OKRES": "Bratislava II", "VZDELANIE": "vysoká škola", "PODIEL": "44,5", "ObjectId": 27}
+{"OKRES": "Bratislava III", "VZDELANIE": "vysoká škola", "PODIEL": "49,8", "ObjectId": 28}
+{"OKRES": "Bratislava IV", "VZDELANIE": "vysoká škola", "PODIEL": "48,3", "ObjectId": 29}
+{"OKRES": "Bratislava V", "VZDELANIE": "vysoká škola", "PODIEL": "42,4", "ObjectId": 30}

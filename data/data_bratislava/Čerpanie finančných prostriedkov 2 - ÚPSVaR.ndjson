@@ -1,0 +1,410 @@
+{"Okres": "Bratislava I", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "3232.01", "ObjectId": 1}
+{"Okres": "Bratislava IV", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "440442.11", "ObjectId": 2}
+{"Okres": "Bratislava I", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "197619.50", "ObjectId": 3}
+{"Okres": "Bratislava II", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "56345.19", "ObjectId": 4}
+{"Okres": "Bratislava II", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "21633", "ObjectId": 5}
+{"Okres": "Bratislava III", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "869.44", "ObjectId": 6}
+{"Okres": "Bratislava II", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "53515.02", "ObjectId": 7}
+{"Okres": "Bratislava IV", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "443091.32", "ObjectId": 8}
+{"Okres": "Bratislava I", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "2594.71", "ObjectId": 9}
+{"Okres": "Bratislava I", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "213380.80", "ObjectId": 10}
+{"Okres": "Bratislava III", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "773.66", "ObjectId": 11}
+{"Okres": "Bratislava II", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "53941.75", "ObjectId": 12}
+{"Okres": "Bratislava IV", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "445160.10", "ObjectId": 13}
+{"Okres": "Bratislava I", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "2402.07", "ObjectId": 14}
+{"Okres": "Bratislava I", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "215245.00", "ObjectId": 15}
+{"Okres": "Bratislava III", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "744.268", "ObjectId": 16}
+{"Okres": "Bratislava IV", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "455511.84", "ObjectId": 17}
+{"Okres": "Bratislava II", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "64630.81", "ObjectId": 18}
+{"Okres": "Bratislava I", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "88434.89", "ObjectId": 19}
+{"Okres": "Bratislava II", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "11292.20", "ObjectId": 20}
+{"Okres": "Bratislava III", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "26429.24", "ObjectId": 21}
+{"Okres": "Bratislava IV", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "448687.92", "ObjectId": 22}
+{"Okres": "Bratislava III", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "27164.98", "ObjectId": 23}
+{"Okres": "Bratislava I", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "87296.27", "ObjectId": 24}
+{"Okres": "Bratislava III", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "24439.64", "ObjectId": 25}
+{"Okres": "Bratislava II", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "12019.87", "ObjectId": 26}
+{"Okres": "Bratislava III", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "24597.12", "ObjectId": 27}
+{"Okres": "Bratislava IV", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "446724.74", "ObjectId": 28}
+{"Okres": "Bratislava I", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "91767.18", "ObjectId": 29}
+{"Okres": "Bratislava III", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "23467.49", "ObjectId": 30}
+{"Okres": "Bratislava II", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "13161.23", "ObjectId": 31}
+{"Okres": "Bratislava III", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "26935.71", "ObjectId": 32}
+{"Okres": "Bratislava IV", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "450160.14", "ObjectId": 33}
+{"Okres": "Bratislava I", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "84667.28", "ObjectId": 34}
+{"Okres": "Bratislava III", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "25043.46", "ObjectId": 35}
+{"Okres": "Bratislava II", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "462955.44", "ObjectId": 36}
+{"Okres": "Bratislava III", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "26317.56", "ObjectId": 37}
+{"Okres": "Bratislava IV", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "456958.88", "ObjectId": 38}
+{"Okres": "Bratislava I", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "96692.19", "ObjectId": 39}
+{"Okres": "Bratislava III", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "27849.86", "ObjectId": 40}
+{"Okres": "Bratislava III", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "21766.7", "ObjectId": 41}
+{"Okres": "Bratislava III", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "14607.6", "ObjectId": 42}
+{"Okres": "Bratislava III", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "11064.3", "ObjectId": 43}
+{"Okres": "Bratislava III", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "9555.2", "ObjectId": 44}
+{"Okres": "Bratislava III", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "8276.4", "ObjectId": 45}
+{"Okres": "Bratislava IV", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "1631.92", "ObjectId": 46}
+{"Okres": "Bratislava IV", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "1201.69", "ObjectId": 47}
+{"Okres": "Bratislava IV", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "1050.93", "ObjectId": 48}
+{"Okres": "Bratislava IV", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "38302.64", "ObjectId": 49}
+{"Okres": "Bratislava IV", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "35562.11", "ObjectId": 50}
+{"Okres": "Bratislava IV", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "33757.39", "ObjectId": 51}
+{"Okres": "Bratislava IV", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "35016.48", "ObjectId": 52}
+{"Okres": "Bratislava IV", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "32409.08", "ObjectId": 53}
+{"Okres": "Bratislava IV", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "22966.27", "ObjectId": 54}
+{"Okres": "Bratislava IV", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "16351.5", "ObjectId": 55}
+{"Okres": "Bratislava IV", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "11552.9", "ObjectId": 56}
+{"Okres": "Bratislava IV", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "8965.1", "ObjectId": 57}
+{"Okres": "Bratislava IV", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "9023.9", "ObjectId": 58}
+{"Okres": "Bratislava V", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "2635.94", "ObjectId": 59}
+{"Okres": "Bratislava V", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "1823.35", "ObjectId": 60}
+{"Okres": "Bratislava V", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "1549.4", "ObjectId": 61}
+{"Okres": "Bratislava V", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "62923.82", "ObjectId": 62}
+{"Okres": "Bratislava V", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "62601.16", "ObjectId": 63}
+{"Okres": "Bratislava V", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "60177.7", "ObjectId": 64}
+{"Okres": "Bratislava V", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "60346.22", "ObjectId": 65}
+{"Okres": "Bratislava V", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "55385.53", "ObjectId": 66}
+{"Okres": "Bratislava V", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "36576.15", "ObjectId": 67}
+{"Okres": "Bratislava V", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "29367.9", "ObjectId": 68}
+{"Okres": "Bratislava V", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "18864.2", "ObjectId": 69}
+{"Okres": "Bratislava V", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "15919.61", "ObjectId": 70}
+{"Okres": "Bratislava V", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "12914.9", "ObjectId": 71}
+{"Okres": "Bratislava I", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "496466.93", "ObjectId": 72}
+{"Okres": "Bratislava II", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "1553844.05", "ObjectId": 73}
+{"Okres": "Bratislava III", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "981648.22", "ObjectId": 74}
+{"Okres": "Bratislava IV", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "1231232.38", "ObjectId": 75}
+{"Okres": "Bratislava V", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "1527345.27", "ObjectId": 76}
+{"Okres": "Bratislava I", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "672944.90", "ObjectId": 77}
+{"Okres": "Bratislava II", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "2061395.14", "ObjectId": 78}
+{"Okres": "Bratislava III", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "1328872.62", "ObjectId": 79}
+{"Okres": "Bratislava IV", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "1729150.12", "ObjectId": 80}
+{"Okres": "Bratislava V", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "2055195.84", "ObjectId": 81}
+{"Okres": "Bratislava II", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "575174.03", "ObjectId": 82}
+{"Okres": "Bratislava III", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "25481.94", "ObjectId": 83}
+{"Okres": "Bratislava I", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "83479.01", "ObjectId": 84}
+{"Okres": "Bratislava V", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "13140.36", "ObjectId": 85}
+{"Okres": "Bratislava III", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "26184.88", "ObjectId": 86}
+{"Okres": "Bratislava I", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "77137.63", "ObjectId": 87}
+{"Okres": "Bratislava II", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "600427.10", "ObjectId": 88}
+{"Okres": "Bratislava V", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "12129.62", "ObjectId": 89}
+{"Okres": "Bratislava III", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "24408.14", "ObjectId": 90}
+{"Okres": "Bratislava I", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "80681.89", "ObjectId": 91}
+{"Okres": "Bratislava II", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "604368.60", "ObjectId": 92}
+{"Okres": "Bratislava V", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "418263.75", "ObjectId": 93}
+{"Okres": "Bratislava III", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "26093.37", "ObjectId": 94}
+{"Okres": "Bratislava I", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "82260.75", "ObjectId": 95}
+{"Okres": "Bratislava II", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "643084.00", "ObjectId": 96}
+{"Okres": "Bratislava V", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "420972.12", "ObjectId": 97}
+{"Okres": "Bratislava III", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "27852.95", "ObjectId": 98}
+{"Okres": "Bratislava I", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "102417.49", "ObjectId": 99}
+{"Okres": "Bratislava II", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "657734.30", "ObjectId": 100}
+{"Okres": "Bratislava V", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "418233.92", "ObjectId": 101}
+{"Okres": "Bratislava IV", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "32242.19", "ObjectId": 102}
+{"Okres": "Bratislava II", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "7019.17", "ObjectId": 103}
+{"Okres": "Bratislava II", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "680775.05", "ObjectId": 104}
+{"Okres": "Bratislava V", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "423053.26", "ObjectId": 105}
+{"Okres": "Bratislava IV", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "30988.12", "ObjectId": 106}
+{"Okres": "Bratislava II", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "5714.06", "ObjectId": 107}
+{"Okres": "Bratislava II", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "676336.94", "ObjectId": 108}
+{"Okres": "Bratislava V", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "432547.50", "ObjectId": 109}
+{"Okres": "Bratislava IV", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "33039.60", "ObjectId": 110}
+{"Okres": "Bratislava II", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "6587.31", "ObjectId": 111}
+{"Okres": "Bratislava II", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "714588.50", "ObjectId": 112}
+{"Okres": "Bratislava V", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "443916.48", "ObjectId": 113}
+{"Okres": "Bratislava IV", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "32133.70", "ObjectId": 114}
+{"Okres": "Bratislava II", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "162995.36", "ObjectId": 115}
+{"Okres": "Bratislava V", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "450729.87", "ObjectId": 116}
+{"Okres": "Bratislava II", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "707951.50", "ObjectId": 117}
+{"Okres": "Bratislava V", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "462099.42", "ObjectId": 118}
+{"Okres": "Bratislava IV", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "32597.40", "ObjectId": 119}
+{"Okres": "Bratislava III", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "6126.07", "ObjectId": 120}
+{"Okres": "Bratislava V", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "470638.66", "ObjectId": 121}
+{"Okres": "Bratislava II", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "165433.01", "ObjectId": 122}
+{"Okres": "Bratislava III", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "6620.26", "ObjectId": 123}
+{"Okres": "Bratislava V", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "486984.38", "ObjectId": 124}
+{"Okres": "Bratislava IV", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "33292.30", "ObjectId": 125}
+{"Okres": "Bratislava II", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "193905.26", "ObjectId": 126}
+{"Okres": "Bratislava III", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "6965.57", "ObjectId": 127}
+{"Okres": "Bratislava I", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "21082.20", "ObjectId": 128}
+{"Okres": "Bratislava IV", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "33871.08", "ObjectId": 129}
+{"Okres": "Bratislava II", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "185990.07", "ObjectId": 130}
+{"Okres": "Bratislava III", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "240653.92", "ObjectId": 131}
+{"Okres": "Bratislava II", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "52819.50", "ObjectId": 132}
+{"Okres": "Bratislava IV", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "33522.62", "ObjectId": 133}
+{"Okres": "Bratislava II", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "236335.32", "ObjectId": 134}
+{"Okres": "Bratislava III", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "317095.88", "ObjectId": 135}
+{"Okres": "Bratislava III", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "34283.30", "ObjectId": 136}
+{"Okres": "Bratislava IV", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "40601.71", "ObjectId": 137}
+{"Okres": "Bratislava II", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "277512.49", "ObjectId": 138}
+{"Okres": "Bratislava III", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "322097.40", "ObjectId": 139}
+{"Okres": "Bratislava IV", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "30387.50", "ObjectId": 140}
+{"Okres": "Bratislava V", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "48473.52", "ObjectId": 141}
+{"Okres": "Bratislava II", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "252534.83", "ObjectId": 142}
+{"Okres": "Bratislava III", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "331769.60", "ObjectId": 143}
+{"Okres": "Bratislava V", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "53183.70", "ObjectId": 144}
+{"Okres": "Bratislava V", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "43622.40", "ObjectId": 145}
+{"Okres": "Bratislava II", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "273056.47", "ObjectId": 146}
+{"Okres": "Bratislava III", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "364330.00", "ObjectId": 147}
+{"Okres": "Bratislava I", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "2882.20", "ObjectId": 148}
+{"Okres": "Bratislava II", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "5286.60", "ObjectId": 149}
+{"Okres": "Bratislava III", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "2124.40", "ObjectId": 150}
+{"Okres": "Bratislava IV", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "1284.40", "ObjectId": 151}
+{"Okres": "Bratislava V", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "2527.70", "ObjectId": 152}
+{"Okres": "Bratislava I", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "214183.30", "ObjectId": 153}
+{"Okres": "Bratislava II", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "635576.44", "ObjectId": 154}
+{"Okres": "Bratislava III", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "400124.56", "ObjectId": 155}
+{"Okres": "Bratislava IV", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "546849.98", "ObjectId": 156}
+{"Okres": "Bratislava V", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "581058.34", "ObjectId": 157}
+{"Okres": "Bratislava I", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "256890.00", "ObjectId": 158}
+{"Okres": "Bratislava II", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "733320.00", "ObjectId": 159}
+{"Okres": "Bratislava III", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "479730.00", "ObjectId": 160}
+{"Okres": "Bratislava IV", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "650845.88", "ObjectId": 161}
+{"Okres": "Bratislava V", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "694170.00", "ObjectId": 162}
+{"Okres": "Bratislava I", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "3844.89", "ObjectId": 163}
+{"Okres": "Bratislava I", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "4343.21", "ObjectId": 164}
+{"Okres": "Bratislava I", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "4438.52", "ObjectId": 165}
+{"Okres": "Bratislava I", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "139587.00", "ObjectId": 166}
+{"Okres": "Bratislava I", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "167518.82", "ObjectId": 167}
+{"Okres": "Bratislava I", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "179095.20", "ObjectId": 168}
+{"Okres": "Bratislava I", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "187491.30", "ObjectId": 169}
+{"Okres": "Bratislava I", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "194151.40", "ObjectId": 170}
+{"Okres": "Bratislava I", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "198715.30", "ObjectId": 171}
+{"Okres": "Bratislava I", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "207688.00", "ObjectId": 172}
+{"Okres": "Bratislava V", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "29662.50", "ObjectId": 173}
+{"Okres": "Bratislava V", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "47989.14", "ObjectId": 174}
+{"Okres": "Bratislava II", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "239544.65", "ObjectId": 175}
+{"Okres": "Bratislava III", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "387400.28", "ObjectId": 176}
+{"Okres": "Bratislava I", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "7088.50", "ObjectId": 177}
+{"Okres": "Bratislava V", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "52170.38", "ObjectId": 178}
+{"Okres": "Bratislava II", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "285256.57", "ObjectId": 179}
+{"Okres": "Bratislava III", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "400280.50", "ObjectId": 180}
+{"Okres": "Bratislava II", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "28534.18", "ObjectId": 181}
+{"Okres": "Bratislava V", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "49637.01", "ObjectId": 182}
+{"Okres": "Bratislava III", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "3365.08", "ObjectId": 183}
+{"Okres": "Bratislava III", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "407639.78", "ObjectId": 184}
+{"Okres": "Bratislava V", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "706134.60", "ObjectId": 185}
+{"Okres": "Bratislava III", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "13905.16", "ObjectId": 186}
+{"Okres": "Bratislava IV", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "21826.16", "ObjectId": 187}
+{"Okres": "Bratislava V", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "27460.60", "ObjectId": 188}
+{"Okres": "Bratislava I", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "4031.64", "ObjectId": 189}
+{"Okres": "Bratislava I", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "3896.10", "ObjectId": 190}
+{"Okres": "Bratislava I", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "4424.22", "ObjectId": 191}
+{"Okres": "Bratislava I", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "139782.50", "ObjectId": 192}
+{"Okres": "Bratislava I", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "148014.69", "ObjectId": 193}
+{"Okres": "Bratislava I", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "147422.98", "ObjectId": 194}
+{"Okres": "Bratislava I", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "149214.80", "ObjectId": 195}
+{"Okres": "Bratislava I", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "153453.30", "ObjectId": 196}
+{"Okres": "Bratislava I", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "156313.92", "ObjectId": 197}
+{"Okres": "Bratislava I", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "156194.84", "ObjectId": 198}
+{"Okres": "Bratislava I", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "161593.42", "ObjectId": 199}
+{"Okres": "Bratislava I", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "162637.84", "ObjectId": 200}
+{"Okres": "Bratislava I", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "172328.98", "ObjectId": 201}
+{"Okres": "Bratislava II", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "12308.76", "ObjectId": 202}
+{"Okres": "Bratislava II", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "11899.98", "ObjectId": 203}
+{"Okres": "Bratislava II", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "12212.10", "ObjectId": 204}
+{"Okres": "Bratislava II", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "441511.25", "ObjectId": 205}
+{"Okres": "Bratislava II", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "459676.74", "ObjectId": 206}
+{"Okres": "Bratislava II", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "466479.94", "ObjectId": 207}
+{"Okres": "Bratislava II", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "473383.49", "ObjectId": 208}
+{"Okres": "Bratislava II", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "493137.12", "ObjectId": 209}
+{"Okres": "Bratislava II", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "506573.76", "ObjectId": 210}
+{"Okres": "Bratislava II", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "505140.36", "ObjectId": 211}
+{"Okres": "Bratislava II", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "520853.20", "ObjectId": 212}
+{"Okres": "Bratislava II", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "523046.48", "ObjectId": 213}
+{"Okres": "Bratislava II", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "541984.14", "ObjectId": 214}
+{"Okres": "Bratislava III", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "6145.20", "ObjectId": 215}
+{"Okres": "Bratislava III", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "6056.64", "ObjectId": 216}
+{"Okres": "Bratislava III", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "6166.26", "ObjectId": 217}
+{"Okres": "Bratislava III", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "227608.75", "ObjectId": 218}
+{"Okres": "Bratislava III", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "241582.14", "ObjectId": 219}
+{"Okres": "Bratislava III", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "245169.39", "ObjectId": 220}
+{"Okres": "Bratislava III", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "256505.20", "ObjectId": 221}
+{"Okres": "Bratislava III", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "265650.00", "ObjectId": 222}
+{"Okres": "Bratislava III", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "278194.56", "ObjectId": 223}
+{"Okres": "Bratislava III", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "280445.74", "ObjectId": 224}
+{"Okres": "Bratislava III", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "296431.28", "ObjectId": 225}
+{"Okres": "Bratislava III", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "303676.92", "ObjectId": 226}
+{"Okres": "Bratislava III", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "323607.18", "ObjectId": 227}
+{"Okres": "Bratislava IV", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "12199.14", "ObjectId": 228}
+{"Okres": "Bratislava IV", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "11579.76", "ObjectId": 229}
+{"Okres": "Bratislava IV", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "11777.94", "ObjectId": 230}
+{"Okres": "Bratislava IV", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "425191.25", "ObjectId": 231}
+{"Okres": "Bratislava IV", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "439404.18", "ObjectId": 232}
+{"Okres": "Bratislava IV", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "153711.85", "ObjectId": 233}
+{"Okres": "Bratislava IV", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "196149.04", "ObjectId": 234}
+{"Okres": "Bratislava V", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "48168.71", "ObjectId": 235}
+{"Okres": "Bratislava III", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "449160.90", "ObjectId": 236}
+{"Okres": "Bratislava V", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "729007.45", "ObjectId": 237}
+{"Okres": "Bratislava III", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "4309.82", "ObjectId": 238}
+{"Okres": "Bratislava V", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "47226.44", "ObjectId": 239}
+{"Okres": "Bratislava III", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "453514.60", "ObjectId": 240}
+{"Okres": "Bratislava V", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "713187.50", "ObjectId": 241}
+{"Okres": "Bratislava V", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "5741.12", "ObjectId": 242}
+{"Okres": "Bratislava III", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "3139.19", "ObjectId": 243}
+{"Okres": "Bratislava IV", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "9814.30", "ObjectId": 244}
+{"Okres": "Bratislava V", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "45414.31", "ObjectId": 245}
+{"Okres": "Bratislava V", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "748135.00", "ObjectId": 246}
+{"Okres": "Bratislava V", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "4549.27", "ObjectId": 247}
+{"Okres": "Bratislava III", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "115388.80", "ObjectId": 248}
+{"Okres": "Bratislava IV", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "10219.46", "ObjectId": 249}
+{"Okres": "Bratislava V", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "58098.49", "ObjectId": 250}
+{"Okres": "Bratislava V", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "737290.80", "ObjectId": 251}
+{"Okres": "Bratislava V", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "5526.62", "ObjectId": 252}
+{"Okres": "Bratislava III", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "119505.11", "ObjectId": 253}
+{"Okres": "Bratislava IV", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "11150.72", "ObjectId": 254}
+{"Okres": "Bratislava I", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "3401.47", "ObjectId": 255}
+{"Okres": "Bratislava I", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "232174.80", "ObjectId": 256}
+{"Okres": "Bratislava V", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "177742.78", "ObjectId": 257}
+{"Okres": "Bratislava III", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "151094.77", "ObjectId": 258}
+{"Okres": "Bratislava IV", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "381647.26", "ObjectId": 259}
+{"Okres": "Bratislava II", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "13970.47", "ObjectId": 260}
+{"Okres": "Bratislava II", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "751471.90", "ObjectId": 261}
+{"Okres": "Bratislava V", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "157360.20", "ObjectId": 262}
+{"Okres": "Bratislava V", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "161970.13", "ObjectId": 263}
+{"Okres": "Bratislava V", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "187790.82", "ObjectId": 264}
+{"Okres": "Bratislava V", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "208212.71", "ObjectId": 265}
+{"Okres": "Bratislava V", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "235379.10", "ObjectId": 266}
+{"Okres": "Bratislava V", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "217029.63", "ObjectId": 267}
+{"Okres": "Bratislava V", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "243247.20", "ObjectId": 268}
+{"Okres": "Bratislava V", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "218750.33", "ObjectId": 269}
+{"Okres": "Bratislava V", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "295198.99", "ObjectId": 270}
+{"Okres": "Bratislava I", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "101147.41", "ObjectId": 271}
+{"Okres": "Bratislava II", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "300813.70", "ObjectId": 272}
+{"Okres": "Bratislava III", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "206923.35", "ObjectId": 273}
+{"Okres": "Bratislava IV", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "196036.87", "ObjectId": 274}
+{"Okres": "Bratislava V", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "321896.49", "ObjectId": 275}
+{"Okres": "Bratislava I", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "113151.91", "ObjectId": 276}
+{"Okres": "Bratislava II", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "332427.15", "ObjectId": 277}
+{"Okres": "Bratislava III", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "208963.81", "ObjectId": 278}
+{"Okres": "Bratislava IV", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "207971.93", "ObjectId": 279}
+{"Okres": "Bratislava V", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "330045.56", "ObjectId": 280}
+{"Okres": "Bratislava I", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "135977.44", "ObjectId": 281}
+{"Okres": "Bratislava II", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "403772.68", "ObjectId": 282}
+{"Okres": "Bratislava III", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "258174.88", "ObjectId": 283}
+{"Okres": "Bratislava IV", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "244738.12", "ObjectId": 284}
+{"Okres": "Bratislava V", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "391766.80", "ObjectId": 285}
+{"Okres": "Bratislava I", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "256890.00", "ObjectId": 286}
+{"Okres": "Bratislava II", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "733320.00", "ObjectId": 287}
+{"Okres": "Bratislava III", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "479730.00", "ObjectId": 288}
+{"Okres": "Bratislava IV", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "650845.88", "ObjectId": 289}
+{"Okres": "Bratislava V", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "694170.00", "ObjectId": 290}
+{"Okres": "Bratislava I", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "14466.82", "ObjectId": 291}
+{"Okres": "Bratislava V", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na prídavky na deti", "Mena": "Euro", "Prostriedky": "12463.34", "ObjectId": 292}
+{"Okres": "Bratislava I", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "14194.45", "ObjectId": 293}
+{"Okres": "Bratislava I", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "15828.36", "ObjectId": 294}
+{"Okres": "Bratislava I", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "16499.21", "ObjectId": 295}
+{"Okres": "Bratislava I", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "17540.47", "ObjectId": 296}
+{"Okres": "Bratislava I", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "15081.14", "ObjectId": 297}
+{"Okres": "Bratislava I", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "15510.77", "ObjectId": 298}
+{"Okres": "Bratislava I", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "14571.47", "ObjectId": 299}
+{"Okres": "Bratislava I", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "17715.03", "ObjectId": 300}
+{"Okres": "Bratislava II", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "51940.34", "ObjectId": 301}
+{"Okres": "Bratislava II", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "48953.55", "ObjectId": 302}
+{"Okres": "Bratislava II", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "53599.06", "ObjectId": 303}
+{"Okres": "Bratislava II", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "56824.45", "ObjectId": 304}
+{"Okres": "Bratislava II", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "56708.68", "ObjectId": 305}
+{"Okres": "Bratislava III", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "132555.79", "ObjectId": 306}
+{"Okres": "Bratislava III", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "5978.91", "ObjectId": 307}
+{"Okres": "Bratislava IV", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "486712.48", "ObjectId": 308}
+{"Okres": "Bratislava III", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "196956.02", "ObjectId": 309}
+{"Okres": "Bratislava III", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "476871.60", "ObjectId": 310}
+{"Okres": "Bratislava III", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "138640.75", "ObjectId": 311}
+{"Okres": "Bratislava IV", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "11023.60", "ObjectId": 312}
+{"Okres": "Bratislava IV", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "491467.52", "ObjectId": 313}
+{"Okres": "Bratislava IV", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "575770.00", "ObjectId": 314}
+{"Okres": "Bratislava III", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "158334.65", "ObjectId": 315}
+{"Okres": "Bratislava V", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "12264.50", "ObjectId": 316}
+{"Okres": "Bratislava IV", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "481729.30", "ObjectId": 317}
+{"Okres": "Bratislava V", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "765128.80", "ObjectId": 318}
+{"Okres": "Bratislava III", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "165408.95", "ObjectId": 319}
+{"Okres": "Bratislava I", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "5685.00", "ObjectId": 320}
+{"Okres": "Bratislava IV", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "509730.60", "ObjectId": 321}
+{"Okres": "Bratislava I", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "417645.80", "ObjectId": 322}
+{"Okres": "Bratislava II", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "1291494.16", "ObjectId": 323}
+{"Okres": "Bratislava III", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "837756.90", "ObjectId": 324}
+{"Okres": "Bratislava IV", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "1047417.02", "ObjectId": 325}
+{"Okres": "Bratislava V", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "1315939.20", "ObjectId": 326}
+{"Okres": "Bratislava I", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "20948.60", "ObjectId": 327}
+{"Okres": "Bratislava II", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "73838.90", "ObjectId": 328}
+{"Okres": "Bratislava III", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "42247.30", "ObjectId": 329}
+{"Okres": "Bratislava IV", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "60344.80", "ObjectId": 330}
+{"Okres": "Bratislava V", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "115268.70", "ObjectId": 331}
+{"Okres": "Bratislava I", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "389284.93", "ObjectId": 332}
+{"Okres": "Bratislava II", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "1209675.97", "ObjectId": 333}
+{"Okres": "Bratislava III", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "786797.80", "ObjectId": 334}
+{"Okres": "Bratislava IV", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "1019066.40", "ObjectId": 335}
+{"Okres": "Bratislava V", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "1200172.30", "ObjectId": 336}
+{"Okres": "Bratislava I", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "1318.19", "ObjectId": 337}
+{"Okres": "Bratislava I", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "1025.48", "ObjectId": 338}
+{"Okres": "Bratislava I", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "794.01", "ObjectId": 339}
+{"Okres": "Bratislava I", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "24974.1", "ObjectId": 340}
+{"Okres": "Bratislava I", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "25306.43", "ObjectId": 341}
+{"Okres": "Bratislava I", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "22408.16", "ObjectId": 342}
+{"Okres": "Bratislava I", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "19707.88", "ObjectId": 343}
+{"Okres": "Bratislava I", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "21174.18", "ObjectId": 344}
+{"Okres": "Bratislava I", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "16003.34", "ObjectId": 345}
+{"Okres": "Bratislava I", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "11313.2", "ObjectId": 346}
+{"Okres": "Bratislava I", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "8297.9", "ObjectId": 347}
+{"Okres": "Bratislava I", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "5840.4", "ObjectId": 348}
+{"Okres": "Bratislava I", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "6264.1", "ObjectId": 349}
+{"Okres": "Bratislava II", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "4065.892", "ObjectId": 350}
+{"Okres": "Bratislava II", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "2560", "ObjectId": 351}
+{"Okres": "Bratislava II", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "v tis. Sk", "Prostriedky": "2383.84", "ObjectId": 352}
+{"Okres": "Bratislava II", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "79597.87", "ObjectId": 353}
+{"Okres": "Bratislava II", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "81618.25", "ObjectId": 354}
+{"Okres": "Bratislava II", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "72702.96", "ObjectId": 355}
+{"Okres": "Bratislava II", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "71827.03", "ObjectId": 356}
+{"Okres": "Bratislava II", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "74145.92", "ObjectId": 357}
+{"Okres": "Bratislava II", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "57730.31", "ObjectId": 358}
+{"Okres": "Bratislava II", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "42879.3", "ObjectId": 359}
+{"Okres": "Bratislava II", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "29752.1", "ObjectId": 360}
+{"Okres": "Bratislava II", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "23003.5", "ObjectId": 361}
+{"Okres": "Bratislava IV", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "530466.70", "ObjectId": 362}
+{"Okres": "Bratislava III", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "151465.90", "ObjectId": 363}
+{"Okres": "Bratislava II", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "24535.67", "ObjectId": 364}
+{"Okres": "Bratislava III", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "194533.24", "ObjectId": 365}
+{"Okres": "Bratislava IV", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "535284.60", "ObjectId": 366}
+{"Okres": "Bratislava III", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "11857.80", "ObjectId": 367}
+{"Okres": "Bratislava IV", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "3576.64", "ObjectId": 368}
+{"Okres": "Bratislava IV", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "537117.10", "ObjectId": 369}
+{"Okres": "Bratislava IV", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "17904.97", "ObjectId": 370}
+{"Okres": "Bratislava IV", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "3860.10", "ObjectId": 371}
+{"Okres": "Bratislava IV", "Rok": "2017", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "577438.60", "ObjectId": 372}
+{"Okres": "Bratislava V", "Rok": "2019", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "18747.30", "ObjectId": 373}
+{"Okres": "Bratislava IV", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "v tis. Sk", "Prostriedky": "3821.62", "ObjectId": 374}
+{"Okres": "Bratislava IV", "Rok": "2018", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "540502.90", "ObjectId": 375}
+{"Okres": "Bratislava I", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "6218.60", "ObjectId": 376}
+{"Okres": "Bratislava IV", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "108230.06", "ObjectId": 377}
+{"Okres": "Bratislava V", "Rok": "2006", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "10936.98", "ObjectId": 378}
+{"Okres": "Bratislava II", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "29222", "ObjectId": 379}
+{"Okres": "Bratislava IV", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "163733.11", "ObjectId": 380}
+{"Okres": "Bratislava V", "Rok": "2007", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "12107.55", "ObjectId": 381}
+{"Okres": "Bratislava III", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "11772.90", "ObjectId": 382}
+{"Okres": "Bratislava IV", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "162717.19", "ObjectId": 383}
+{"Okres": "Bratislava V", "Rok": "2008", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "v tis. Sk", "Prostriedky": "12953.64", "ObjectId": 384}
+{"Okres": "Bratislava IV", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "17719.47", "ObjectId": 385}
+{"Okres": "Bratislava IV", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "155812.22", "ObjectId": 386}
+{"Okres": "Bratislava V", "Rok": "2009", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "444777.42", "ObjectId": 387}
+{"Okres": "Bratislava V", "Rok": "2020", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "23820.70", "ObjectId": 388}
+{"Okres": "Bratislava IV", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "146647.52", "ObjectId": 389}
+{"Okres": "Bratislava V", "Rok": "2010", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "591521.74", "ObjectId": 390}
+{"Okres": "Bratislava I", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "7292.90", "ObjectId": 391}
+{"Okres": "Bratislava IV", "Rok": "2014", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "169782.75", "ObjectId": 392}
+{"Okres": "Bratislava V", "Rok": "2011", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "603207.80", "ObjectId": 393}
+{"Okres": "Bratislava II", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "27925.40", "ObjectId": 394}
+{"Okres": "Bratislava V", "Rok": "2012", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "616486.50", "ObjectId": 395}
+{"Okres": "Bratislava IV", "Rok": "2015", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "168023.21", "ObjectId": 396}
+{"Okres": "Bratislava V", "Rok": "2013", "Účel": "Čerpanie finančných prostriedkov na rodičovské príspevky", "Mena": "Euro", "Prostriedky": "673988.50", "ObjectId": 397}
+{"Okres": "Bratislava III", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "13497.66", "ObjectId": 398}
+{"Okres": "Bratislava IV", "Rok": "2016", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na kompenzáciu pre ťažko zdravotne postihnutých občanov", "Mena": "Euro", "Prostriedky": "187912.79", "ObjectId": 399}
+{"Okres": "Bratislava IV", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na peňažné príspevky na opatrovanie", "Mena": "Euro", "Prostriedky": "16874.60", "ObjectId": 400}
+{"Okres": "Bratislava I", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "690369.69", "ObjectId": 401}
+{"Okres": "Bratislava II", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "2145891.77", "ObjectId": 402}
+{"Okres": "Bratislava III", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "1377174.62", "ObjectId": 403}
+{"Okres": "Bratislava IV", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "1773905.56", "ObjectId": 404}
+{"Okres": "Bratislava V", "Rok": "2021", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "2103845.19", "ObjectId": 405}
+{"Okres": "Bratislava I", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "695234.42", "ObjectId": 406}
+{"Okres": "Bratislava II", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "2167102.49", "ObjectId": 407}
+{"Okres": "Bratislava III", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "1377682.75", "ObjectId": 408}
+{"Okres": "Bratislava IV", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "18929319.95", "ObjectId": 409}
+{"Okres": "Bratislava V", "Rok": "2022", "Účel": "Čerpanie finančných prostriedkov na sociálne dávky", "Mena": "Euro", "Prostriedky": "2104988.35", "ObjectId": 410}

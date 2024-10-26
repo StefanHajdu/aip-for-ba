@@ -1,0 +1,73 @@
+{"objectid": 1, "kod": "B5(002)A_areal_DPMB", "nazov": null, "register_ez": null, "globalid": "54beea6a-9311-482f-acfa-6679b93d750b", "Shape__Area": 65147.2021484375, "Shape__Length": 1159.6429038469914}
+{"objectid": 2, "kod": "B5(003)B ČS_PHM", "nazov": null, "register_ez": null, "globalid": "d6e12f56-13b5-4835-aa4c-f00797348c27", "Shape__Area": 2904.357421875, "Shape__Length": 191.0446520891306}
+{"objectid": 3, "kod": "B5(004)A bývalé PD", "nazov": null, "register_ez": null, "globalid": "4cecb522-1f73-45b0-8a29-1ed54848c5a0", "Shape__Area": 270858.80078125, "Shape__Length": 2168.6775588907035}
+{"objectid": 4, "kod": "B5(005)A Kopčianska_obaľovačka", "nazov": null, "register_ez": null, "globalid": "07bd288f-79e4-4938-91b4-486fb0e2a9bc", "Shape__Area": 1619.9638671875, "Shape__Length": 142.6799994190227}
+{"objectid": 5, "kod": "B5(006)A pri vojenskom cintorí", "nazov": null, "register_ez": null, "globalid": "507b743c-f383-482d-9dda-ce76caf8ca2a", "Shape__Area": 297133.8876953125, "Shape__Length": 3197.2502659329143}
+{"objectid": 6, "kod": "B5(007)B Matador -bývalý areál", "nazov": null, "register_ez": null, "globalid": "6f447bf5-39d1-447c-a6b9-88056df26360", "Shape__Area": 575914.3837890625, "Shape__Length": 3296.7051062890996}
+{"objectid": 7, "kod": "B5(008)A Smetný kopec", "nazov": null, "register_ez": null, "globalid": "d9059ab4-4f1b-4b12-9267-4b081dd5d1ad", "Shape__Area": 194838.7060546875, "Shape__Length": 2519.0049817464305}
+{"objectid": 8, "kod": "B5(011)A Tehelné-pri vod zdroj", "nazov": null, "register_ez": null, "globalid": "3de22ed9-ed80-48fa-944a-25a12f777342", "Shape__Area": 47664.876953125, "Shape__Length": 1323.0267664325147}
+{"objectid": 9, "kod": "B5(010)A štrkové jamy", "nazov": null, "register_ez": null, "globalid": "89ed6edf-5c29-4a7f-b541-18a8cf899f7b", "Shape__Area": 55911.03515625, "Shape__Length": 1364.5980078806824}
+{"objectid": 10, "kod": "B5(001)A pri jazere", "nazov": null, "register_ez": null, "globalid": "eed903e9-0215-4c69-95eb-25d96123fdfe", "Shape__Area": 145700.521484375, "Shape__Length": 1494.6669070158018}
+{"objectid": 11, "kod": "B5(009)A Rusovecké rameno", "nazov": null, "register_ez": null, "globalid": "7f63ac57-bf2a-46fb-8a10-25ed5f02ee7d", "Shape__Area": 20755.2412109375, "Shape__Length": 1360.0796381543967}
+{"objectid": 12, "kod": "B1(001)A ČS PHM", "nazov": null, "register_ez": null, "globalid": "406fb4ce-5855-4a9b-81f3-e28c3cee7f93", "Shape__Area": 1719.994140625, "Shape__Length": 147.01929276525232}
+{"objectid": 13, "kod": "B1(002)B rafinéria Apollo", "nazov": null, "register_ez": null, "globalid": "0a40accc-c381-40f4-bfc6-5716a23bf042", "Shape__Area": 238095.845703125, "Shape__Length": 1922.5669508990648}
+{"objectid": 14, "kod": "B1(003)B Chalupkova_Bottova", "nazov": null, "register_ez": null, "globalid": "c6f59f2b-9f7a-45a6-be45-890c4ef816bf", "Shape__Area": 97099.7666015625, "Shape__Length": 1840.854379513981}
+{"objectid": 15, "kod": "B4(001)B kameňolom Srdce", "nazov": null, "register_ez": null, "globalid": "9e666182-5cbb-4d99-aa8f-e1231d698f62", "Shape__Area": 9904.896484375, "Shape__Length": 453.9541276932827}
+{"objectid": 16, "kod": "B4(002) A kameňolom Vápenka", "nazov": null, "register_ez": null, "globalid": "22f97642-797e-4dfb-9547-5189a4a037e8", "Shape__Area": 91736.3720703125, "Shape__Length": 1233.488057831897}
+{"objectid": 17, "kod": "B4(003)A obaľovačka", "nazov": null, "register_ez": null, "globalid": "c8bd3d85-2a91-4f0c-b12c-16de9ef67188", "Shape__Area": 484.5654296875, "Shape__Length": 78.03468164210828}
+{"objectid": 18, "kod": "B4(004)A ohyb železnice", "nazov": null, "register_ez": null, "globalid": "c1b91150-baa8-4f64-9f9c-b088b7a07d7c", "Shape__Area": 150344.521484375, "Shape__Length": 2087.6110599873277}
+{"objectid": 19, "kod": "B4(005)A poľn družstvo", "nazov": null, "register_ez": null, "globalid": "a2752386-1f66-4708-b59d-d318850fe9b4", "Shape__Area": 236521.5048828125, "Shape__Length": 2584.1726997868554}
+{"objectid": 20, "kod": "B4(006)A pri VW", "nazov": null, "register_ez": null, "globalid": "ff5bcc63-1012-4c6b-a51c-56dbcb165aed", "Shape__Area": 239111.119140625, "Shape__Length": 2044.1625289737053}
+{"objectid": 21, "kod": "B4(007)A technicke sklo", "nazov": null, "register_ez": null, "globalid": "e3b5fda0-da0c-49c4-bbd3-3ce48624bb59", "Shape__Area": 230066.5693359375, "Shape__Length": 2022.2638086853385}
+{"objectid": 22, "kod": "B4(008)A Pri kríži", "nazov": null, "register_ez": null, "globalid": "20bbd2ed-e09b-4e73-8ea3-dd7c98961560", "Shape__Area": 201635.9287109375, "Shape__Length": 1886.7190769842985}
+{"objectid": 23, "kod": "B3(001)A obaľovačka", "nazov": null, "register_ez": null, "globalid": "8ebbf1dc-be38-47a4-9b37-b1fa2ef6def5", "Shape__Area": 877.19140625, "Shape__Length": 104.99311879733207}
+{"objectid": 24, "kod": "B3(002)B CHZJD", "nazov": null, "register_ez": null, "globalid": "93d89b3e-7d3f-443f-9873-fe9f5a2dafeb", "Shape__Area": 4077365.4521484375, "Shape__Length": 8925.693045722903}
+{"objectid": 25, "kod": "B3(003)A obaľovačka", "nazov": null, "register_ez": null, "globalid": "94fc02f6-9571-48f5-9940-9f13ff3383cf", "Shape__Area": 922.7314453125, "Shape__Length": 107.68311341799681}
+{"objectid": 26, "kod": "B3(004)A tepláreň II", "nazov": null, "register_ez": null, "globalid": "46bd5ac9-6380-44ac-8fc7-05b538c8a6d0", "Shape__Area": 49330.0908203125, "Shape__Length": 891.8154124889588}
+{"objectid": 27, "kod": "B3(005)A želez. depo", "nazov": null, "register_ez": null, "globalid": "80f9a8b2-c0e4-4f8e-8b6e-c1d15bad94fc", "Shape__Area": 203647.3271484375, "Shape__Length": 2507.8884704849856}
+{"objectid": 28, "kod": "B3(006)A ČS PHM Rača", "nazov": null, "register_ez": null, "globalid": "038aedf1-08bb-4909-8388-8056edcce7e0", "Shape__Area": 2474.25, "Shape__Length": 176.33237992885705}
+{"objectid": 29, "kod": "B3(007)B terminál Slovnaft", "nazov": null, "register_ez": null, "globalid": "fcf4f154-d261-4e25-bb84-b40d755dee96", "Shape__Area": 141582.6279296875, "Shape__Length": 1818.048600950237}
+{"objectid": 30, "kod": "B3(008)A Žabí majer", "nazov": null, "register_ez": null, "globalid": "170703b7-10b9-4ee2-b3e0-44b0cdd7983b", "Shape__Area": 3033226.83984375, "Shape__Length": 7427.943213831866}
+{"objectid": 31, "kod": "B3(009)A že. st. východ", "nazov": null, "register_ez": null, "globalid": "c1e987fa-61d4-4595-8036-a201f8d2fcfe", "Shape__Area": 1626405.8154296875, "Shape__Length": 10531.429337615044}
+{"objectid": 32, "kod": "B3(010)A BEZ transformátory", "nazov": null, "register_ez": null, "globalid": "26897010-4cc2-46ea-9189-09d2f219d67d", "Shape__Area": 59137.119140625, "Shape__Length": 1045.3168165600293}
+{"objectid": 33, "kod": "B2(001)A PB_južneodPD", "nazov": null, "register_ez": null, "globalid": "ac45c75d-4233-4fa4-94ce-3270bb1e6365", "Shape__Area": 189182.1826171875, "Shape__Length": 1755.5721162585826}
+{"objectid": 34, "kod": "B2(002)A hnojisko", "nazov": null, "register_ez": null, "globalid": "8b5c1efe-0362-4823-8f84-67c84086f582", "Shape__Area": 13201.9638671875, "Shape__Length": 501.8562016543556}
+{"objectid": 35, "kod": "B2(003)A Poľovnícky les", "nazov": null, "register_ez": null, "globalid": "1e3bdb35-7a36-49ec-bb02-40cafd80ee6e", "Shape__Area": 124838.296875, "Shape__Length": 1455.9348022910117}
+{"objectid": 36, "kod": "B2(004)A Čierny les", "nazov": null, "register_ez": null, "globalid": "bcedbf2e-1171-4dba-8152-36a719c65c73", "Shape__Area": 168424.1796875, "Shape__Length": 1690.4403052550417}
+{"objectid": 37, "kod": "B2(005)B ČS PHM", "nazov": null, "register_ez": null, "globalid": "9208141d-265e-414c-9aa0-25112b03b674", "Shape__Area": 6144.7119140625, "Shape__Length": 277.8830876428916}
+{"objectid": 38, "kod": "B2(006)B areál Gumon", "nazov": null, "register_ez": null, "globalid": "d820e19d-c980-4128-9fdf-22f3955ef433", "Shape__Area": 65493.484375, "Shape__Length": 1193.8944389764151}
+{"objectid": 39, "kod": "B2(007)B vtokový objekt", "nazov": null, "register_ez": null, "globalid": "b74fe4db-19e3-4f3f-9d34-03e8dc9773be", "Shape__Area": 41309.4775390625, "Shape__Length": 852.9046179435197}
+{"objectid": 40, "kod": "B2(008)A chemická čistiareň", "nazov": null, "register_ez": null, "globalid": "ee0f995a-9b75-4c1c-8e60-2347facb2812", "Shape__Area": 21774.1162109375, "Shape__Length": 636.0942081963138}
+{"objectid": 41, "kod": "B2(009)A PD Prievoz", "nazov": null, "register_ez": null, "globalid": "c281f820-5bf0-4849-a727-675916df5a0c", "Shape__Area": 88812.8134765625, "Shape__Length": 1194.4008896266926}
+{"objectid": 42, "kod": "B2(010)A pri Štefánikovej mohy", "nazov": null, "register_ez": null, "globalid": "a8676e0a-0612-4a3b-acee-da70a5726f79", "Shape__Area": 29996.7783203125, "Shape__Length": 1029.2154429535472}
+{"objectid": 43, "kod": "B2(011)A bazén Pálenisko", "nazov": null, "register_ez": null, "globalid": "2d05fb30-c807-44ef-8ea0-031795fa80da", "Shape__Area": 153361.7841796875, "Shape__Length": 2300.0603942489975}
+{"objectid": 44, "kod": "B2(012)A areál SADaNAD", "nazov": null, "register_ez": null, "globalid": "0720c272-b483-482f-bd9b-2da02770a8b3", "Shape__Area": 49159.150390625, "Shape__Length": 1394.787936531933}
+{"objectid": 45, "kod": "B2(013)B Slovnaft", "nazov": null, "register_ez": null, "globalid": "86d5b189-904e-45d4-a512-f921df86bcf3", "Shape__Area": 11317596.400390625, "Shape__Length": 13315.227783636774}
+{"objectid": 46, "kod": "B2(014)A skládka škváry", "nazov": null, "register_ez": null, "globalid": "0a8af68f-89f7-4807-b72f-ee15dae10c70", "Shape__Area": 180545.271484375, "Shape__Length": 2723.7099331969703}
+{"objectid": 47, "kod": "B2(015)B SPP Votrubova", "nazov": null, "register_ez": null, "globalid": "89be4ec2-8b84-4c7e-922f-548480be437b", "Shape__Area": 246913.779296875, "Shape__Length": 2036.9009006000076}
+{"objectid": 48, "kod": "B2(016)A ČS PHM", "nazov": null, "register_ez": null, "globalid": "33badb45-122e-4e10-a378-48a1f7a36cd3", "Shape__Area": 1644.0595703125, "Shape__Length": 143.7371623852199}
+{"objectid": 49, "kod": "B2(017)A ÚNS", "nazov": null, "register_ez": null, "globalid": "9643ce3f-9d8f-43d1-8c0a-44363d9811dc", "Shape__Area": 191684.642578125, "Shape__Length": 3658.6397281808113}
+{"objectid": 50, "kod": "B2(018)A Dolné Hony - pole", "nazov": null, "register_ez": null, "globalid": "a3986436-dde0-4805-a8af-2bdbcf687c40", "Shape__Area": 74598.5576171875, "Shape__Length": 1286.9715926904776}
+{"objectid": 51, "kod": "B2(019)A skládka priemysel.od", "nazov": null, "register_ez": null, "globalid": "bd8e7569-2669-42b5-baad-3872e30b8b15", "Shape__Area": 116800.404296875, "Shape__Length": 2845.654068566952}
+{"objectid": 52, "kod": "B2(020)B skládka CHZJD", "nazov": null, "register_ez": null, "globalid": "b0d59053-52d2-4438-bb96-3e2fcfa8acee", "Shape__Area": 135175.298828125, "Shape__Length": 2490.388487144537}
+{"objectid": 53, "kod": " ", "nazov": null, "register_ez": null, "globalid": "e568f710-c31b-4f31-a068-c0657289b3f0", "Shape__Area": 34449.6787109375, "Shape__Length": 657.9664123911159}
+{"objectid": 54, "kod": " ", "nazov": null, "register_ez": null, "globalid": "32dd95cb-96b4-4e92-ae90-87ab7b62d2f8", "Shape__Area": 158332.892578125, "Shape__Length": 2278.825522825258}
+{"objectid": 55, "kod": " ", "nazov": null, "register_ez": null, "globalid": "26e92b52-d1ac-442f-b829-92c35a0fe2f3", "Shape__Area": 40577.2138671875, "Shape__Length": 924.941710334184}
+{"objectid": 56, "kod": " ", "nazov": null, "register_ez": null, "globalid": "f590ed71-8b41-4e76-9cc2-abb6d9281971", "Shape__Area": 1524.603515625, "Shape__Length": 138.4175983338122}
+{"objectid": 57, "kod": " ", "nazov": null, "register_ez": null, "globalid": "f19a3e4a-8903-4110-b117-5f0b5e35acb9", "Shape__Area": 341896.5126953125, "Shape__Length": 3276.82017734278}
+{"objectid": 58, "kod": " ", "nazov": null, "register_ez": null, "globalid": "b3e8abb0-561f-4ac2-b0ec-a8bdff9c36b2", "Shape__Area": 1299.5322265625, "Shape__Length": 127.79197277753069}
+{"objectid": 59, "kod": " ", "nazov": null, "register_ez": null, "globalid": "67495fe0-7595-4961-8774-9ef96a5523c2", "Shape__Area": 7838.2958984375, "Shape__Length": 313.8498152376007}
+{"objectid": 60, "kod": " ", "nazov": null, "register_ez": null, "globalid": "a90cc138-d788-4bc8-b974-5ec6bfaf8602", "Shape__Area": 941.0126953125, "Shape__Length": 108.7446804638928}
+{"objectid": 61, "kod": " ", "nazov": null, "register_ez": null, "globalid": "2f9282d7-b351-4e1a-a8d1-8e5d8e2d71ed", "Shape__Area": 2613.810546875, "Shape__Length": 181.2376274661869}
+{"objectid": 62, "kod": " ", "nazov": null, "register_ez": null, "globalid": "cdbb73c1-d297-4f71-94a3-7f92b1578ddc", "Shape__Area": 3355.732421875, "Shape__Length": 205.35508474490206}
+{"objectid": 63, "kod": " ", "nazov": null, "register_ez": null, "globalid": "ea68e321-8df0-45be-a4b7-ec1238980c8a", "Shape__Area": 4649.4111328125, "Shape__Length": 241.7183565049007}
+{"objectid": 64, "kod": " ", "nazov": null, "register_ez": null, "globalid": "47dcd9ba-20a2-48bc-8b9a-9c9053e4f0f4", "Shape__Area": 88696.603515625, "Shape__Length": 1147.8516808674794}
+{"objectid": 65, "kod": " ", "nazov": null, "register_ez": null, "globalid": "c301c0a4-f0f9-4471-b1d1-6aa916e4dbe3", "Shape__Area": 316073.4296875, "Shape__Length": 2322.551430081102}
+{"objectid": 66, "kod": " ", "nazov": null, "register_ez": null, "globalid": "900aafdd-e4f5-4c8b-8897-dbb2cf1c7013", "Shape__Area": 2855118.21875, "Shape__Length": 8387.01433705794}
+{"objectid": 67, "kod": " ", "nazov": null, "register_ez": null, "globalid": "70c7d99b-95ef-465e-b97b-aedb195ecd05", "Shape__Area": 7045.0400390625, "Shape__Length": 297.54506317811837}
+{"objectid": 68, "kod": " ", "nazov": null, "register_ez": null, "globalid": "4fad7715-7ef2-477e-9539-a5453b016646", "Shape__Area": 3222.197265625, "Shape__Length": 201.22770977929866}
+{"objectid": 69, "kod": " ", "nazov": null, "register_ez": null, "globalid": "74657fa3-feb1-414c-a5c5-0610d602eea4", "Shape__Area": 22785.8076171875, "Shape__Length": 535.1104273521639}
+{"objectid": 70, "kod": " ", "nazov": null, "register_ez": null, "globalid": "12b9c6b7-b18f-48b6-ab17-c3184449909e", "Shape__Area": 14725.794921875, "Shape__Length": 875.0298616946368}
+{"objectid": 71, "kod": " ", "nazov": null, "register_ez": null, "globalid": "ed59b5d1-1651-4621-b493-82bc180893b7", "Shape__Area": 779.509765625, "Shape__Length": 98.97396824767613}
+{"objectid": 72, "kod": " ", "nazov": null, "register_ez": null, "globalid": "fc1f27f3-b581-48a7-973c-d4a768f942fd", "Shape__Area": 778.0234375, "Shape__Length": 98.87965214041206}
+{"objectid": 73, "kod": " ", "nazov": null, "register_ez": null, "globalid": "b9d6b4b7-df46-41e5-9152-e78304ad73fe", "Shape__Area": 214567.4091796875, "Shape__Length": 1855.1895351025757}

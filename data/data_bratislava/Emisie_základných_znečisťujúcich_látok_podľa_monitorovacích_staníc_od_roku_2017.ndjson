@@ -1,0 +1,238 @@
+{"Rok": 2015, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM10", "Hodnota": "24", "ObjectId": null, "ObjectId2": 1}
+{"Rok": 2015, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM2.5", "Hodnota": null, "ObjectId": null, "ObjectId2": 2}
+{"Rok": 2015, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 3}
+{"Rok": 2015, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 4}
+{"Rok": 2015, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 5}
+{"Rok": 2015, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 6}
+{"Rok": 2015, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 7}
+{"Rok": 2015, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM10", "Hodnota": "32", "ObjectId": null, "ObjectId2": 8}
+{"Rok": 2015, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM2.5", "Hodnota": null, "ObjectId": null, "ObjectId2": 9}
+{"Rok": 2015, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 10}
+{"Rok": 2015, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 11}
+{"Rok": 2015, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 12}
+{"Rok": 2015, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 13}
+{"Rok": 2015, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 14}
+{"Rok": 2015, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM10", "Hodnota": "23", "ObjectId": null, "ObjectId2": 15}
+{"Rok": 2015, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM2.5", "Hodnota": "16", "ObjectId": null, "ObjectId2": 16}
+{"Rok": 2015, "Monitorovacia_stanica": "Jeséniova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 17}
+{"Rok": 2015, "Monitorovacia_stanica": "Jeséniova", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 18}
+{"Rok": 2015, "Monitorovacia_stanica": "Jeséniova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 19}
+{"Rok": 2015, "Monitorovacia_stanica": "Jeséniova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 20}
+{"Rok": 2015, "Monitorovacia_stanica": "Jeséniova", "Látka": "prízemný ozón*", "Hodnota": "71", "ObjectId": null, "ObjectId2": 21}
+{"Rok": 2015, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM10", "Hodnota": null, "ObjectId": null, "ObjectId2": 22}
+{"Rok": 2015, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM2.5", "Hodnota": "22", "ObjectId": null, "ObjectId2": 23}
+{"Rok": 2015, "Monitorovacia_stanica": "Mamateyova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 24}
+{"Rok": 2015, "Monitorovacia_stanica": "Mamateyova", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 25}
+{"Rok": 2015, "Monitorovacia_stanica": "Mamateyova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 26}
+{"Rok": 2015, "Monitorovacia_stanica": "Mamateyova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 27}
+{"Rok": 2015, "Monitorovacia_stanica": "Mamateyova", "Látka": "prízemný ozón*", "Hodnota": "54", "ObjectId": null, "ObjectId2": 28}
+{"Rok": 2016, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM10", "Hodnota": null, "ObjectId": null, "ObjectId2": 29}
+{"Rok": 2016, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM2.5", "Hodnota": null, "ObjectId": null, "ObjectId2": 30}
+{"Rok": 2016, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 31}
+{"Rok": 2016, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 32}
+{"Rok": 2016, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 33}
+{"Rok": 2016, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 34}
+{"Rok": 2016, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 35}
+{"Rok": 2016, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM10", "Hodnota": "29", "ObjectId": null, "ObjectId2": 36}
+{"Rok": 2016, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM2.5", "Hodnota": null, "ObjectId": null, "ObjectId2": 37}
+{"Rok": 2016, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 38}
+{"Rok": 2016, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 39}
+{"Rok": 2016, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 40}
+{"Rok": 2016, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 41}
+{"Rok": 2016, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 42}
+{"Rok": 2016, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM10", "Hodnota": "20", "ObjectId": null, "ObjectId2": 43}
+{"Rok": 2021, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "Benzén*", "Hodnota": "0.74", "ObjectId": null, "ObjectId2": 44}
+{"Rok": 2016, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM2.5", "Hodnota": "13", "ObjectId": null, "ObjectId2": 45}
+{"Rok": 2016, "Monitorovacia_stanica": "Jeséniova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 46}
+{"Rok": 2016, "Monitorovacia_stanica": "Jeséniova", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 47}
+{"Rok": 2016, "Monitorovacia_stanica": "Jeséniova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 48}
+{"Rok": 2016, "Monitorovacia_stanica": "Jeséniova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 49}
+{"Rok": 2016, "Monitorovacia_stanica": "Jeséniova", "Látka": "prízemný ozón*", "Hodnota": "56", "ObjectId": null, "ObjectId2": 50}
+{"Rok": 2021, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 51}
+{"Rok": 2021, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM10", "Hodnota": "16", "ObjectId": null, "ObjectId2": 52}
+{"Rok": 2016, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM10", "Hodnota": "21", "ObjectId": null, "ObjectId2": 53}
+{"Rok": 2016, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM2.5", "Hodnota": "15", "ObjectId": null, "ObjectId2": 54}
+{"Rok": 2021, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM2.5", "Hodnota": "13", "ObjectId": null, "ObjectId2": 55}
+{"Rok": 2016, "Monitorovacia_stanica": "Mamateyova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 56}
+{"Rok": 2016, "Monitorovacia_stanica": "Mamateyova", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 57}
+{"Rok": 2021, "Monitorovacia_stanica": "Jeséniova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 58}
+{"Rok": 2021, "Monitorovacia_stanica": "Jeséniova", "Látka": "NO2*", "Hodnota": "9", "ObjectId": null, "ObjectId2": 59}
+{"Rok": 2016, "Monitorovacia_stanica": "Mamateyova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 60}
+{"Rok": 2016, "Monitorovacia_stanica": "Mamateyova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 61}
+{"Rok": 2021, "Monitorovacia_stanica": "Jeséniova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 62}
+{"Rok": 2021, "Monitorovacia_stanica": "Jeséniova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 63}
+{"Rok": 2016, "Monitorovacia_stanica": "Mamateyova", "Látka": "prízemný ozón*", "Hodnota": "36", "ObjectId": null, "ObjectId2": 64}
+{"Rok": 2017, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM10", "Hodnota": "19", "ObjectId": null, "ObjectId2": 65}
+{"Rok": 2021, "Monitorovacia_stanica": "Jeséniova", "Látka": "prízemný ozón*", "Hodnota": "62", "ObjectId": null, "ObjectId2": 66}
+{"Rok": 2021, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM10", "Hodnota": "19", "ObjectId": null, "ObjectId2": 67}
+{"Rok": 2017, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM2.5", "Hodnota": "11", "ObjectId": null, "ObjectId2": 68}
+{"Rok": 2017, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 69}
+{"Rok": 2021, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM2.5", "Hodnota": "14", "ObjectId": null, "ObjectId2": 70}
+{"Rok": 2021, "Monitorovacia_stanica": "Mamateyova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 71}
+{"Rok": 2017, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 72}
+{"Rok": 2021, "Monitorovacia_stanica": "Mamateyova", "Látka": "NO2*", "Hodnota": "17", "ObjectId": null, "ObjectId2": 73}
+{"Rok": 2021, "Monitorovacia_stanica": "Mamateyova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 74}
+{"Rok": 2021, "Monitorovacia_stanica": "Mamateyova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 75}
+{"Rok": 2021, "Monitorovacia_stanica": "Mamateyova", "Látka": "prízemný ozón*", "Hodnota": "50", "ObjectId": null, "ObjectId2": 76}
+{"Rok": 2021, "Monitorovacia_stanica": " Púchovská", "Látka": "PM10", "Hodnota": null, "ObjectId": null, "ObjectId2": 77}
+{"Rok": 2021, "Monitorovacia_stanica": " Púchovská", "Látka": "PM2.5", "Hodnota": null, "ObjectId": null, "ObjectId2": 78}
+{"Rok": 2021, "Monitorovacia_stanica": " Púchovská", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 79}
+{"Rok": 2021, "Monitorovacia_stanica": " Púchovská", "Látka": "NO2*", "Hodnota": "13", "ObjectId": null, "ObjectId2": 80}
+{"Rok": 2021, "Monitorovacia_stanica": " Púchovská", "Látka": "CO**", "Hodnota": "781", "ObjectId": null, "ObjectId2": 81}
+{"Rok": 2021, "Monitorovacia_stanica": " Púchovská", "Látka": "Benzén*", "Hodnota": "0.8", "ObjectId": null, "ObjectId2": 82}
+{"Rok": 2021, "Monitorovacia_stanica": " Púchovská", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 83}
+{"Rok": 2022, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM10", "Hodnota": "19", "ObjectId": null, "ObjectId2": 84}
+{"Rok": 2022, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM2.5", "Hodnota": "12", "ObjectId": null, "ObjectId2": 85}
+{"Rok": 2022, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 86}
+{"Rok": 2022, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 87}
+{"Rok": 2022, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 88}
+{"Rok": 2022, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 89}
+{"Rok": 2022, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 90}
+{"Rok": 2022, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM10", "Hodnota": "24", "ObjectId": null, "ObjectId2": 91}
+{"Rok": 2022, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM2.5", "Hodnota": "15", "ObjectId": null, "ObjectId2": 92}
+{"Rok": 2022, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 93}
+{"Rok": 2022, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "NO2*", "Hodnota": "31", "ObjectId": null, "ObjectId2": 94}
+{"Rok": 2022, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "CO**", "Hodnota": "780", "ObjectId": null, "ObjectId2": 95}
+{"Rok": 2022, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "Benzén*", "Hodnota": "0.54", "ObjectId": null, "ObjectId2": 96}
+{"Rok": 2022, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 97}
+{"Rok": 2022, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM10", "Hodnota": "15", "ObjectId": null, "ObjectId2": 98}
+{"Rok": 2022, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM2.5", "Hodnota": "11", "ObjectId": null, "ObjectId2": 99}
+{"Rok": 2022, "Monitorovacia_stanica": "Jeséniova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 100}
+{"Rok": 2022, "Monitorovacia_stanica": "Jeséniova", "Látka": "NO2*", "Hodnota": "9", "ObjectId": null, "ObjectId2": 101}
+{"Rok": 2022, "Monitorovacia_stanica": "Jeséniova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 102}
+{"Rok": 2022, "Monitorovacia_stanica": "Jeséniova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 103}
+{"Rok": 2022, "Monitorovacia_stanica": "Jeséniova", "Látka": "prízemný ozón*", "Hodnota": "65", "ObjectId": null, "ObjectId2": 104}
+{"Rok": 2022, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM10", "Hodnota": "18", "ObjectId": null, "ObjectId2": 105}
+{"Rok": 2022, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM2.5", "Hodnota": "11", "ObjectId": null, "ObjectId2": 106}
+{"Rok": 2022, "Monitorovacia_stanica": "Mamateyova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 107}
+{"Rok": 2022, "Monitorovacia_stanica": "Mamateyova", "Látka": "NO2*", "Hodnota": "16", "ObjectId": null, "ObjectId2": 108}
+{"Rok": 2022, "Monitorovacia_stanica": "Mamateyova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 109}
+{"Rok": 2022, "Monitorovacia_stanica": "Mamateyova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 110}
+{"Rok": 2022, "Monitorovacia_stanica": "Mamateyova", "Látka": "prízemný ozón*", "Hodnota": "50", "ObjectId": null, "ObjectId2": 111}
+{"Rok": 2022, "Monitorovacia_stanica": " Púchovská", "Látka": "PM10", "Hodnota": null, "ObjectId": null, "ObjectId2": 112}
+{"Rok": 2022, "Monitorovacia_stanica": " Púchovská", "Látka": "PM2.5", "Hodnota": null, "ObjectId": null, "ObjectId2": 113}
+{"Rok": 2022, "Monitorovacia_stanica": " Púchovská", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 114}
+{"Rok": 2022, "Monitorovacia_stanica": " Púchovská", "Látka": "NO2*", "Hodnota": "13", "ObjectId": null, "ObjectId2": 115}
+{"Rok": 2022, "Monitorovacia_stanica": " Púchovská", "Látka": "CO**", "Hodnota": "694", "ObjectId": null, "ObjectId2": 116}
+{"Rok": 2022, "Monitorovacia_stanica": " Púchovská", "Látka": "Benzén*", "Hodnota": "0.35", "ObjectId": null, "ObjectId2": 117}
+{"Rok": 2022, "Monitorovacia_stanica": " Púchovská", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 118}
+{"Rok": 2019, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM2.5", "Hodnota": "18", "ObjectId": null, "ObjectId2": 119}
+{"Rok": 2019, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 120}
+{"Rok": 2019, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "NO2*", "Hodnota": "37.2", "ObjectId": null, "ObjectId2": 121}
+{"Rok": 2019, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "CO**", "Hodnota": "917", "ObjectId": null, "ObjectId2": 122}
+{"Rok": 2019, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "Benzén*", "Hodnota": "1", "ObjectId": null, "ObjectId2": 123}
+{"Rok": 2019, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 124}
+{"Rok": 2019, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM10", "Hodnota": "19", "ObjectId": null, "ObjectId2": 125}
+{"Rok": 2019, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM2.5", "Hodnota": "12", "ObjectId": null, "ObjectId2": 126}
+{"Rok": 2019, "Monitorovacia_stanica": "Jeséniova", "Látka": "SOx*", "Hodnota": "3.2", "ObjectId": null, "ObjectId2": 127}
+{"Rok": 2019, "Monitorovacia_stanica": "Jeséniova", "Látka": "NO2*", "Hodnota": "10.5", "ObjectId": null, "ObjectId2": 128}
+{"Rok": 2019, "Monitorovacia_stanica": "Jeséniova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 129}
+{"Rok": 2019, "Monitorovacia_stanica": "Jeséniova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 130}
+{"Rok": 2019, "Monitorovacia_stanica": "Jeséniova", "Látka": "prízemný ozón*", "Hodnota": "66", "ObjectId": null, "ObjectId2": 131}
+{"Rok": 2019, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM10", "Hodnota": "21", "ObjectId": null, "ObjectId2": 132}
+{"Rok": 2019, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM2.5", "Hodnota": "13", "ObjectId": null, "ObjectId2": 133}
+{"Rok": 2019, "Monitorovacia_stanica": "Mamateyova", "Látka": "SOx*", "Hodnota": "4.3", "ObjectId": null, "ObjectId2": 134}
+{"Rok": 2019, "Monitorovacia_stanica": "Mamateyova", "Látka": "NO2*", "Hodnota": "20.8", "ObjectId": null, "ObjectId2": 135}
+{"Rok": 2019, "Monitorovacia_stanica": "Mamateyova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 136}
+{"Rok": 2019, "Monitorovacia_stanica": "Mamateyova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 137}
+{"Rok": 2019, "Monitorovacia_stanica": "Mamateyova", "Látka": "prízemný ozón*", "Hodnota": "54", "ObjectId": null, "ObjectId2": 138}
+{"Rok": 2020, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM10", "Hodnota": "18", "ObjectId": null, "ObjectId2": 139}
+{"Rok": 2020, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM2.5", "Hodnota": "14", "ObjectId": null, "ObjectId2": 140}
+{"Rok": 2020, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 141}
+{"Rok": 2020, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 142}
+{"Rok": 2020, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 143}
+{"Rok": 2020, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 144}
+{"Rok": 2020, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 145}
+{"Rok": 2020, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM10", "Hodnota": "24", "ObjectId": null, "ObjectId2": 146}
+{"Rok": 2020, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM2.5", "Hodnota": "15", "ObjectId": null, "ObjectId2": 147}
+{"Rok": 2020, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 148}
+{"Rok": 2020, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "NO2*", "Hodnota": "33", "ObjectId": null, "ObjectId2": 149}
+{"Rok": 2020, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "CO**", "Hodnota": "1056", "ObjectId": null, "ObjectId2": 150}
+{"Rok": 2020, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "Benzén*", "Hodnota": "0.6", "ObjectId": null, "ObjectId2": 151}
+{"Rok": 2020, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 152}
+{"Rok": 2020, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM10", "Hodnota": "16", "ObjectId": null, "ObjectId2": 153}
+{"Rok": 2020, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM2.5", "Hodnota": "12", "ObjectId": null, "ObjectId2": 154}
+{"Rok": 2020, "Monitorovacia_stanica": "Jeséniova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 155}
+{"Rok": 2020, "Monitorovacia_stanica": "Jeséniova", "Látka": "NO2*", "Hodnota": "9", "ObjectId": null, "ObjectId2": 156}
+{"Rok": 2020, "Monitorovacia_stanica": "Jeséniova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 157}
+{"Rok": 2020, "Monitorovacia_stanica": "Jeséniova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 158}
+{"Rok": 2020, "Monitorovacia_stanica": "Jeséniova", "Látka": "prízemný ozón*", "Hodnota": "61", "ObjectId": null, "ObjectId2": 159}
+{"Rok": 2020, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM10", "Hodnota": "19", "ObjectId": null, "ObjectId2": 160}
+{"Rok": 2020, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM2.5", "Hodnota": "13", "ObjectId": null, "ObjectId2": 161}
+{"Rok": 2020, "Monitorovacia_stanica": "Mamateyova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 162}
+{"Rok": 2020, "Monitorovacia_stanica": "Mamateyova", "Látka": "NO2*", "Hodnota": "16", "ObjectId": null, "ObjectId2": 163}
+{"Rok": 2020, "Monitorovacia_stanica": "Mamateyova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 164}
+{"Rok": 2020, "Monitorovacia_stanica": "Mamateyova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 165}
+{"Rok": 2020, "Monitorovacia_stanica": "Mamateyova", "Látka": "prízemný ozón*", "Hodnota": "49", "ObjectId": null, "ObjectId2": 166}
+{"Rok": 2021, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM10", "Hodnota": "24", "ObjectId": null, "ObjectId2": 167}
+{"Rok": 2021, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM2.5", "Hodnota": "13", "ObjectId": null, "ObjectId2": 168}
+{"Rok": 2021, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 169}
+{"Rok": 2021, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 170}
+{"Rok": 2021, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 171}
+{"Rok": 2021, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 172}
+{"Rok": 2021, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 173}
+{"Rok": 2021, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM10", "Hodnota": "18", "ObjectId": null, "ObjectId2": 174}
+{"Rok": 2021, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM2.5", "Hodnota": "15", "ObjectId": null, "ObjectId2": 175}
+{"Rok": 2021, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 176}
+{"Rok": 2021, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "NO2*", "Hodnota": "33", "ObjectId": null, "ObjectId2": 177}
+{"Rok": 2021, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "CO**", "Hodnota": "928", "ObjectId": null, "ObjectId2": 178}
+{"Rok": 2017, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 179}
+{"Rok": 2017, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 180}
+{"Rok": 2017, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 181}
+{"Rok": 2017, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM10", "Hodnota": "25", "ObjectId": null, "ObjectId2": 182}
+{"Rok": 2017, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM2.5", "Hodnota": null, "ObjectId": null, "ObjectId2": 183}
+{"Rok": 2017, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 184}
+{"Rok": 2017, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "NO2*", "Hodnota": "39", "ObjectId": null, "ObjectId2": 185}
+{"Rok": 2017, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "CO**", "Hodnota": "1004", "ObjectId": null, "ObjectId2": 186}
+{"Rok": 2017, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "Benzén*", "Hodnota": "0.5", "ObjectId": null, "ObjectId2": 187}
+{"Rok": 2017, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 188}
+{"Rok": 2017, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM10", "Hodnota": "20", "ObjectId": null, "ObjectId2": 189}
+{"Rok": 2017, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM2.5", "Hodnota": "14", "ObjectId": null, "ObjectId2": 190}
+{"Rok": 2017, "Monitorovacia_stanica": "Jeséniova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 191}
+{"Rok": 2017, "Monitorovacia_stanica": "Jeséniova", "Látka": "NO2*", "Hodnota": "14", "ObjectId": null, "ObjectId2": 192}
+{"Rok": 2017, "Monitorovacia_stanica": "Jeséniova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 193}
+{"Rok": 2017, "Monitorovacia_stanica": "Jeséniova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 194}
+{"Rok": 2017, "Monitorovacia_stanica": "Jeséniova", "Látka": "prízemný ozón*", "Hodnota": "64", "ObjectId": null, "ObjectId2": 195}
+{"Rok": 2017, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM10", "Hodnota": "23", "ObjectId": null, "ObjectId2": 196}
+{"Rok": 2017, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM2.5", "Hodnota": "15", "ObjectId": null, "ObjectId2": 197}
+{"Rok": 2017, "Monitorovacia_stanica": "Mamateyova", "Látka": "SOx*", "Hodnota": "7.5", "ObjectId": null, "ObjectId2": 198}
+{"Rok": 2017, "Monitorovacia_stanica": "Mamateyova", "Látka": "NO2*", "Hodnota": "24", "ObjectId": null, "ObjectId2": 199}
+{"Rok": 2017, "Monitorovacia_stanica": "Mamateyova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 200}
+{"Rok": 2017, "Monitorovacia_stanica": "Mamateyova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 201}
+{"Rok": 2017, "Monitorovacia_stanica": "Mamateyova", "Látka": "prízemný ozón*", "Hodnota": "51", "ObjectId": null, "ObjectId2": 202}
+{"Rok": 2018, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM10", "Hodnota": "26", "ObjectId": null, "ObjectId2": 203}
+{"Rok": 2018, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM2.5", "Hodnota": "19", "ObjectId": null, "ObjectId2": 204}
+{"Rok": 2018, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 205}
+{"Rok": 2018, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 206}
+{"Rok": 2018, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 207}
+{"Rok": 2018, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 208}
+{"Rok": 2018, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 209}
+{"Rok": 2018, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM10", "Hodnota": "29", "ObjectId": null, "ObjectId2": 210}
+{"Rok": 2018, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM2.5", "Hodnota": null, "ObjectId": null, "ObjectId2": 211}
+{"Rok": 2018, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 212}
+{"Rok": 2018, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "NO2*", "Hodnota": "41.4", "ObjectId": null, "ObjectId2": 213}
+{"Rok": 2018, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "CO**", "Hodnota": "1286", "ObjectId": null, "ObjectId2": 214}
+{"Rok": 2018, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "Benzén*", "Hodnota": "1.4", "ObjectId": null, "ObjectId2": 215}
+{"Rok": 2018, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 216}
+{"Rok": 2018, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM10", "Hodnota": "24", "ObjectId": null, "ObjectId2": 217}
+{"Rok": 2018, "Monitorovacia_stanica": "Jeséniova", "Látka": "PM2.5", "Hodnota": "16", "ObjectId": null, "ObjectId2": 218}
+{"Rok": 2018, "Monitorovacia_stanica": "Jeséniova", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 219}
+{"Rok": 2018, "Monitorovacia_stanica": "Jeséniova", "Látka": "NO2*", "Hodnota": "11.7", "ObjectId": null, "ObjectId2": 220}
+{"Rok": 2018, "Monitorovacia_stanica": "Jeséniova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 221}
+{"Rok": 2018, "Monitorovacia_stanica": "Jeséniova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 222}
+{"Rok": 2018, "Monitorovacia_stanica": "Jeséniova", "Látka": "prízemný ozón*", "Hodnota": "64", "ObjectId": null, "ObjectId2": 223}
+{"Rok": 2018, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM10", "Hodnota": "26", "ObjectId": null, "ObjectId2": 224}
+{"Rok": 2018, "Monitorovacia_stanica": "Mamateyova", "Látka": "PM2.5", "Hodnota": "17", "ObjectId": null, "ObjectId2": 225}
+{"Rok": 2018, "Monitorovacia_stanica": "Mamateyova", "Látka": "SOx*", "Hodnota": "8", "ObjectId": null, "ObjectId2": 226}
+{"Rok": 2018, "Monitorovacia_stanica": "Mamateyova", "Látka": "NO2*", "Hodnota": "21.9", "ObjectId": null, "ObjectId2": 227}
+{"Rok": 2018, "Monitorovacia_stanica": "Mamateyova", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 228}
+{"Rok": 2018, "Monitorovacia_stanica": "Mamateyova", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 229}
+{"Rok": 2018, "Monitorovacia_stanica": "Mamateyova", "Látka": "prízemný ozón*", "Hodnota": "54", "ObjectId": null, "ObjectId2": 230}
+{"Rok": 2019, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM10", "Hodnota": "22", "ObjectId": null, "ObjectId2": 231}
+{"Rok": 2019, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "PM2.5", "Hodnota": "15", "ObjectId": null, "ObjectId2": 232}
+{"Rok": 2019, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "SOx*", "Hodnota": null, "ObjectId": null, "ObjectId2": 233}
+{"Rok": 2019, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "NO2*", "Hodnota": null, "ObjectId": null, "ObjectId2": 234}
+{"Rok": 2019, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "CO**", "Hodnota": null, "ObjectId": null, "ObjectId2": 235}
+{"Rok": 2019, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "Benzén*", "Hodnota": null, "ObjectId": null, "ObjectId2": 236}
+{"Rok": 2019, "Monitorovacia_stanica": "Kamenné námestie", "Látka": "prízemný ozón*", "Hodnota": null, "ObjectId": null, "ObjectId2": 237}
+{"Rok": 2019, "Monitorovacia_stanica": "Trnavské mýto", "Látka": "PM10", "Hodnota": "24", "ObjectId": null, "ObjectId2": 238}

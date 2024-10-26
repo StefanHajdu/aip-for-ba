@@ -1,0 +1,72 @@
+{"STAV": "slobodní", "MESTSKA_CAST": "Čunovo", "PODIEL__": "33,3", "ObjectId": 1}
+{"STAV": "ženatí", "MESTSKA_CAST": "Čunovo", "PODIEL__": "59,1", "ObjectId": 2}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Čunovo", "PODIEL__": "4,3", "ObjectId": 3}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Čunovo", "PODIEL__": "3,3", "ObjectId": 4}
+{"STAV": "slobodní", "MESTSKA_CAST": "Devín", "PODIEL__": "33,9", "ObjectId": 5}
+{"STAV": "ženatí", "MESTSKA_CAST": "Devín", "PODIEL__": "54,6", "ObjectId": 6}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Devín", "PODIEL__": "8,7", "ObjectId": 7}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Devín", "PODIEL__": "2,8", "ObjectId": 8}
+{"STAV": "slobodní", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL__": "39,3", "ObjectId": 9}
+{"STAV": "ženatí", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL__": "49", "ObjectId": 10}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL__": "9,7", "ObjectId": 11}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL__": "2", "ObjectId": 12}
+{"STAV": "slobodní", "MESTSKA_CAST": "Dúbravka", "PODIEL__": "37,8", "ObjectId": 13}
+{"STAV": "ženatí", "MESTSKA_CAST": "Dúbravka", "PODIEL__": "48,1", "ObjectId": 14}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Dúbravka", "PODIEL__": "11", "ObjectId": 15}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Dúbravka", "PODIEL__": "3,1", "ObjectId": 16}
+{"STAV": "slobodní", "MESTSKA_CAST": "Jarovce", "PODIEL__": "33,1", "ObjectId": 17}
+{"STAV": "ženatí", "MESTSKA_CAST": "Jarovce", "PODIEL__": "56,7", "ObjectId": 18}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Jarovce", "PODIEL__": "7,8", "ObjectId": 19}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Jarovce", "PODIEL__": "2,5", "ObjectId": 20}
+{"STAV": "slobodní", "MESTSKA_CAST": "Karlova Ves", "PODIEL__": "38,6", "ObjectId": 21}
+{"STAV": "ženatí", "MESTSKA_CAST": "Karlova Ves", "PODIEL__": "49,1", "ObjectId": 22}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Karlova Ves", "PODIEL__": "9,6", "ObjectId": 23}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Karlova Ves", "PODIEL__": "2,6", "ObjectId": 24}
+{"STAV": "slobodní", "MESTSKA_CAST": "Lamač", "PODIEL__": "34,5", "ObjectId": 25}
+{"STAV": "ženatí", "MESTSKA_CAST": "Lamač", "PODIEL__": "52,9", "ObjectId": 26}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Lamač", "PODIEL__": "9,5", "ObjectId": 27}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Lamač", "PODIEL__": "3,1", "ObjectId": 28}
+{"STAV": "slobodní", "MESTSKA_CAST": "Nové Mesto", "PODIEL__": "38", "ObjectId": 29}
+{"STAV": "ženatí", "MESTSKA_CAST": "Nové Mesto", "PODIEL__": "49", "ObjectId": 30}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Nové Mesto", "PODIEL__": "10,2", "ObjectId": 31}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Nové Mesto", "PODIEL__": "2,9", "ObjectId": 32}
+{"STAV": "slobodní", "MESTSKA_CAST": "Petržalka", "PODIEL__": "39", "ObjectId": 33}
+{"STAV": "ženatí", "MESTSKA_CAST": "Petržalka", "PODIEL__": "48,1", "ObjectId": 34}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Petržalka", "PODIEL__": "10,3", "ObjectId": 35}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Petržalka", "PODIEL__": "2,6", "ObjectId": 36}
+{"STAV": "slobodní", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL__": "38,4", "ObjectId": 37}
+{"STAV": "ženatí", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL__": "47,2", "ObjectId": 38}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL__": "11,3", "ObjectId": 39}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL__": "3", "ObjectId": 40}
+{"STAV": "slobodní", "MESTSKA_CAST": "Rača", "PODIEL__": "38,1", "ObjectId": 41}
+{"STAV": "ženatí", "MESTSKA_CAST": "Rača", "PODIEL__": "47,1", "ObjectId": 42}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Rača", "PODIEL__": "12,2", "ObjectId": 43}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Rača", "PODIEL__": "2,6", "ObjectId": 44}
+{"STAV": "slobodní", "MESTSKA_CAST": "Rusovce", "PODIEL__": "33,8", "ObjectId": 45}
+{"STAV": "ženatí", "MESTSKA_CAST": "Rusovce", "PODIEL__": "55,6", "ObjectId": 46}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Rusovce", "PODIEL__": "7,9", "ObjectId": 47}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Rusovce", "PODIEL__": "2,7", "ObjectId": 48}
+{"STAV": "slobodní", "MESTSKA_CAST": "Ružinov", "PODIEL__": "37,9", "ObjectId": 49}
+{"STAV": "ženatí", "MESTSKA_CAST": "Ružinov", "PODIEL__": "47,9", "ObjectId": 50}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Ružinov", "PODIEL__": "11,2", "ObjectId": 51}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Ružinov", "PODIEL__": "3", "ObjectId": 52}
+{"STAV": "slobodní", "MESTSKA_CAST": "Staré Mesto", "PODIEL__": "37,9", "ObjectId": 53}
+{"STAV": "ženatí", "MESTSKA_CAST": "Staré Mesto", "PODIEL__": "48,3", "ObjectId": 54}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Staré Mesto", "PODIEL__": "11,1", "ObjectId": 55}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Staré Mesto", "PODIEL__": "2,7", "ObjectId": 56}
+{"STAV": "slobodní", "MESTSKA_CAST": "Vajnory", "PODIEL__": "35,7", "ObjectId": 57}
+{"STAV": "ženatí", "MESTSKA_CAST": "Vajnory", "PODIEL__": "50,6", "ObjectId": 58}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Vajnory", "PODIEL__": "10,5", "ObjectId": 59}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Vajnory", "PODIEL__": "3,2", "ObjectId": 60}
+{"STAV": "slobodní", "MESTSKA_CAST": "Vrakuňa", "PODIEL__": "40", "ObjectId": 61}
+{"STAV": "ženatí", "MESTSKA_CAST": "Vrakuňa", "PODIEL__": "45,2", "ObjectId": 62}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Vrakuňa", "PODIEL__": "12,3", "ObjectId": 63}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Vrakuňa", "PODIEL__": "2,5", "ObjectId": 64}
+{"STAV": "slobodní", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL__": "30,9", "ObjectId": 65}
+{"STAV": "ženatí", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL__": "59,3", "ObjectId": 66}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL__": "8,1", "ObjectId": 67}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL__": "1,7", "ObjectId": 68}
+{"STAV": "slobodní", "MESTSKA_CAST": "Bratislava", "PODIEL__": "38,2", "ObjectId": 69}
+{"STAV": "ženatí", "MESTSKA_CAST": "Bratislava", "PODIEL__": "48,5", "ObjectId": 70}
+{"STAV": "rozvedení", "MESTSKA_CAST": "Bratislava", "PODIEL__": "10,6", "ObjectId": 71}
+{"STAV": "ovdovení", "MESTSKA_CAST": "Bratislava", "PODIEL__": "2,7", "ObjectId": 72}

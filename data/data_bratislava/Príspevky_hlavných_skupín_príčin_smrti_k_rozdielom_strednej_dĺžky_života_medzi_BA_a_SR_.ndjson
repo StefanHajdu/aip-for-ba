@@ -1,0 +1,14 @@
+{"POHLAVIE": "muži", "PRICINA_SMRTI": "obehová sústava", "PRISPEVOK__": "34,1", "ObjectId": 1}
+{"POHLAVIE": "ženy", "PRICINA_SMRTI": "obehová sústava", "PRISPEVOK__": "61,6", "ObjectId": 2}
+{"POHLAVIE": "muži", "PRICINA_SMRTI": "nádory", "PRISPEVOK__": "20,5", "ObjectId": 3}
+{"POHLAVIE": "ženy", "PRICINA_SMRTI": "nádory", "PRISPEVOK__": "-16,5", "ObjectId": 4}
+{"POHLAVIE": "muži", "PRICINA_SMRTI": "dýchacia sústava", "PRISPEVOK__": "13,7", "ObjectId": 5}
+{"POHLAVIE": "ženy", "PRICINA_SMRTI": "dýchacia sústava", "PRISPEVOK__": "16", "ObjectId": 6}
+{"POHLAVIE": "muži", "PRICINA_SMRTI": "tráviaca sústava", "PRISPEVOK__": "8,8", "ObjectId": 7}
+{"POHLAVIE": "ženy", "PRICINA_SMRTI": "tráviaca sústava", "PRISPEVOK__": "2", "ObjectId": 8}
+{"POHLAVIE": "muži", "PRICINA_SMRTI": "vonkajšie príčiny", "PRISPEVOK__": "8,7", "ObjectId": 9}
+{"POHLAVIE": "ženy", "PRICINA_SMRTI": "vonkajšie príčiny", "PRISPEVOK__": "3", "ObjectId": 10}
+{"POHLAVIE": "muži", "PRICINA_SMRTI": "ostatné príčiny", "PRISPEVOK__": "14,2", "ObjectId": 11}
+{"POHLAVIE": "ženy", "PRICINA_SMRTI": "ostatné príčiny", "PRISPEVOK__": "34", "ObjectId": 12}
+{"POHLAVIE": "muži", "PRICINA_SMRTI": "Spolu", "PRISPEVOK__": "100", "ObjectId": 13}
+{"POHLAVIE": "ženy", "PRICINA_SMRTI": "Spolu", "PRISPEVOK__": "100", "ObjectId": 14}

@@ -1,0 +1,20 @@
+{"SCENAR": "nízky", "VEK": "0 – 14", "ZMENA__": "-16,61", "ObjectId": 1}
+{"SCENAR": "stredný", "VEK": "0 – 14", "ZMENA__": "1,59", "ObjectId": 2}
+{"SCENAR": "vysoký", "VEK": "0 – 14", "ZMENA__": "14,55", "ObjectId": 3}
+{"SCENAR": "veľmi vysoký", "VEK": "0 – 14", "ZMENA__": "27,31", "ObjectId": 4}
+{"SCENAR": "nulová migrácia", "VEK": "0 – 14", "ZMENA__": "-21,91", "ObjectId": 5}
+{"SCENAR": "nízky", "VEK": "15 – 44", "ZMENA__": "-14,89", "ObjectId": 6}
+{"SCENAR": "stredný", "VEK": "15 – 44", "ZMENA__": "-4,84", "ObjectId": 7}
+{"SCENAR": "vysoký", "VEK": "15 – 44", "ZMENA__": "2,62", "ObjectId": 8}
+{"SCENAR": "veľmi vysoký", "VEK": "15 – 44", "ZMENA__": "11,73", "ObjectId": 9}
+{"SCENAR": "nulová migrácia", "VEK": "15 – 44", "ZMENA__": "-28,19", "ObjectId": 10}
+{"SCENAR": "nízky", "VEK": "45 – 64", "ZMENA__": "-5,84", "ObjectId": 11}
+{"SCENAR": "stredný", "VEK": "45 – 64", "ZMENA__": "1,15", "ObjectId": 12}
+{"SCENAR": "vysoký", "VEK": "45 – 64", "ZMENA__": "6,96", "ObjectId": 13}
+{"SCENAR": "veľmi vysoký", "VEK": "45 – 64", "ZMENA__": "10,71", "ObjectId": 14}
+{"SCENAR": "nulová migrácia", "VEK": "45 – 64", "ZMENA__": "-24,32", "ObjectId": 15}
+{"SCENAR": "nízky", "VEK": "65+", "ZMENA__": "42,59", "ObjectId": 16}
+{"SCENAR": "stredný", "VEK": "65+", "ZMENA__": "50,64", "ObjectId": 17}
+{"SCENAR": "vysoký", "VEK": "65+", "ZMENA__": "62,72", "ObjectId": 18}
+{"SCENAR": "veľmi vysoký", "VEK": "65+", "ZMENA__": "65,13", "ObjectId": 19}
+{"SCENAR": "nulová migrácia", "VEK": "65+", "ZMENA__": "57,21", "ObjectId": 20}

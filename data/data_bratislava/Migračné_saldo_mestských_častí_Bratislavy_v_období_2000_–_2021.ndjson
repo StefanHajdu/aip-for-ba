@@ -1,0 +1,408 @@
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2000", "MIGRACNE_SALDO": "-0,937", "ObjectId": 1}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2000", "MIGRACNE_SALDO": "-2,137", "ObjectId": 2}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2000", "MIGRACNE_SALDO": "2,138", "ObjectId": 3}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2000", "MIGRACNE_SALDO": "2,472", "ObjectId": 4}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2000", "MIGRACNE_SALDO": "0,768", "ObjectId": 5}
+{"MESTSKA_CAST": "Rača", "ROK": "2000", "MIGRACNE_SALDO": "0,096", "ObjectId": 6}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2000", "MIGRACNE_SALDO": "30,227", "ObjectId": 7}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2000", "MIGRACNE_SALDO": "0,768", "ObjectId": 8}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2000", "MIGRACNE_SALDO": "-7,445", "ObjectId": 9}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2000", "MIGRACNE_SALDO": "3,896", "ObjectId": 10}
+{"MESTSKA_CAST": "Devín", "ROK": "2000", "MIGRACNE_SALDO": "40,103", "ObjectId": 11}
+{"MESTSKA_CAST": "Lamač", "ROK": "2000", "MIGRACNE_SALDO": "5,383", "ObjectId": 12}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2000", "MIGRACNE_SALDO": "41,335", "ObjectId": 13}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2000", "MIGRACNE_SALDO": "12,837", "ObjectId": 14}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2000", "MIGRACNE_SALDO": "0,911", "ObjectId": 15}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2000", "MIGRACNE_SALDO": "-4,635", "ObjectId": 16}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2000", "MIGRACNE_SALDO": "25,656", "ObjectId": 17}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2001", "MIGRACNE_SALDO": "-3,777", "ObjectId": 18}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2001", "MIGRACNE_SALDO": "-4,660", "ObjectId": 19}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2001", "MIGRACNE_SALDO": "2,271", "ObjectId": 20}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2001", "MIGRACNE_SALDO": "8,210", "ObjectId": 21}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2001", "MIGRACNE_SALDO": "6,153", "ObjectId": 22}
+{"MESTSKA_CAST": "Rača", "ROK": "2001", "MIGRACNE_SALDO": "6,098", "ObjectId": 23}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2001", "MIGRACNE_SALDO": "43,139", "ObjectId": 24}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2001", "MIGRACNE_SALDO": "2,129", "ObjectId": 25}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2001", "MIGRACNE_SALDO": "-4,774", "ObjectId": 26}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2001", "MIGRACNE_SALDO": "1,034", "ObjectId": 27}
+{"MESTSKA_CAST": "Devín", "ROK": "2001", "MIGRACNE_SALDO": "25,959", "ObjectId": 28}
+{"MESTSKA_CAST": "Lamač", "ROK": "2001", "MIGRACNE_SALDO": "-1,071", "ObjectId": 29}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2001", "MIGRACNE_SALDO": "48,618", "ObjectId": 30}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2001", "MIGRACNE_SALDO": "-7,659", "ObjectId": 31}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2001", "MIGRACNE_SALDO": "9,182", "ObjectId": 32}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2001", "MIGRACNE_SALDO": "-6,143", "ObjectId": 33}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2001", "MIGRACNE_SALDO": "27,475", "ObjectId": 34}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2002", "MIGRACNE_SALDO": "-5,388", "ObjectId": 35}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2002", "MIGRACNE_SALDO": "-4,008", "ObjectId": 36}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2002", "MIGRACNE_SALDO": "2,956", "ObjectId": 37}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2002", "MIGRACNE_SALDO": "4,958", "ObjectId": 38}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2002", "MIGRACNE_SALDO": "2,923", "ObjectId": 39}
+{"MESTSKA_CAST": "Rača", "ROK": "2002", "MIGRACNE_SALDO": "7,696", "ObjectId": 40}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2002", "MIGRACNE_SALDO": "33,624", "ObjectId": 41}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2002", "MIGRACNE_SALDO": "-6,020", "ObjectId": 42}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2002", "MIGRACNE_SALDO": "-3,944", "ObjectId": 43}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2002", "MIGRACNE_SALDO": "3,667", "ObjectId": 44}
+{"MESTSKA_CAST": "Devín", "ROK": "2002", "MIGRACNE_SALDO": "65,775", "ObjectId": 45}
+{"MESTSKA_CAST": "Lamač", "ROK": "2002", "MIGRACNE_SALDO": "0,614", "ObjectId": 46}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2002", "MIGRACNE_SALDO": "56,526", "ObjectId": 47}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2002", "MIGRACNE_SALDO": "16,340", "ObjectId": 48}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2002", "MIGRACNE_SALDO": "15,677", "ObjectId": 49}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2002", "MIGRACNE_SALDO": "-8,147", "ObjectId": 50}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2011", "MIGRACNE_SALDO": "13,944", "ObjectId": 51}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2011", "MIGRACNE_SALDO": "43,056", "ObjectId": 52}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2011", "MIGRACNE_SALDO": "-10,714", "ObjectId": 53}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2011", "MIGRACNE_SALDO": "41,004", "ObjectId": 54}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2012", "MIGRACNE_SALDO": "4,816", "ObjectId": 55}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2012", "MIGRACNE_SALDO": "6,022", "ObjectId": 56}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2012", "MIGRACNE_SALDO": "9,634", "ObjectId": 57}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2012", "MIGRACNE_SALDO": "7,172", "ObjectId": 58}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2012", "MIGRACNE_SALDO": "5,871", "ObjectId": 59}
+{"MESTSKA_CAST": "Rača", "ROK": "2012", "MIGRACNE_SALDO": "11,735", "ObjectId": 60}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2012", "MIGRACNE_SALDO": "24,620", "ObjectId": 61}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2012", "MIGRACNE_SALDO": "1,018", "ObjectId": 62}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2012", "MIGRACNE_SALDO": "-0,763", "ObjectId": 63}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2012", "MIGRACNE_SALDO": "2,517", "ObjectId": 64}
+{"MESTSKA_CAST": "Devín", "ROK": "2012", "MIGRACNE_SALDO": "27,373", "ObjectId": 65}
+{"MESTSKA_CAST": "Lamač", "ROK": "2012", "MIGRACNE_SALDO": "6,791", "ObjectId": 66}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2012", "MIGRACNE_SALDO": "74,165", "ObjectId": 67}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2012", "MIGRACNE_SALDO": "38,517", "ObjectId": 68}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2012", "MIGRACNE_SALDO": "56,486", "ObjectId": 69}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2012", "MIGRACNE_SALDO": "-9,648", "ObjectId": 70}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2012", "MIGRACNE_SALDO": "44,948", "ObjectId": 71}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2013", "MIGRACNE_SALDO": "2,883", "ObjectId": 72}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2013", "MIGRACNE_SALDO": "8,559", "ObjectId": 73}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2013", "MIGRACNE_SALDO": "7,327", "ObjectId": 74}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2013", "MIGRACNE_SALDO": "4,648", "ObjectId": 75}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2013", "MIGRACNE_SALDO": "5,514", "ObjectId": 76}
+{"MESTSKA_CAST": "Rača", "ROK": "2013", "MIGRACNE_SALDO": "9,276", "ObjectId": 77}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2013", "MIGRACNE_SALDO": "20,284", "ObjectId": 78}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2013", "MIGRACNE_SALDO": "1,074", "ObjectId": 79}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2013", "MIGRACNE_SALDO": "2,863", "ObjectId": 80}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2013", "MIGRACNE_SALDO": "-3,264", "ObjectId": 81}
+{"MESTSKA_CAST": "Devín", "ROK": "2013", "MIGRACNE_SALDO": "30,095", "ObjectId": 82}
+{"MESTSKA_CAST": "Lamač", "ROK": "2013", "MIGRACNE_SALDO": "16,348", "ObjectId": 83}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2013", "MIGRACNE_SALDO": "44,849", "ObjectId": 84}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2013", "MIGRACNE_SALDO": "61,215", "ObjectId": 85}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2013", "MIGRACNE_SALDO": "81,147", "ObjectId": 86}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2013", "MIGRACNE_SALDO": "-11,294", "ObjectId": 87}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2013", "MIGRACNE_SALDO": "71,156", "ObjectId": 88}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2014", "MIGRACNE_SALDO": "6,015", "ObjectId": 89}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2014", "MIGRACNE_SALDO": "6,773", "ObjectId": 90}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2014", "MIGRACNE_SALDO": "7,843", "ObjectId": 91}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2014", "MIGRACNE_SALDO": "6,021", "ObjectId": 92}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2014", "MIGRACNE_SALDO": "2,136", "ObjectId": 93}
+{"MESTSKA_CAST": "Rača", "ROK": "2014", "MIGRACNE_SALDO": "11,083", "ObjectId": 94}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2014", "MIGRACNE_SALDO": "18,408", "ObjectId": 95}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2014", "MIGRACNE_SALDO": "-1,507", "ObjectId": 96}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2014", "MIGRACNE_SALDO": "2,215", "ObjectId": 97}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2014", "MIGRACNE_SALDO": "-4,807", "ObjectId": 98}
+{"MESTSKA_CAST": "Devín", "ROK": "2014", "MIGRACNE_SALDO": "43,046", "ObjectId": 99}
+{"MESTSKA_CAST": "Lamač", "ROK": "2014", "MIGRACNE_SALDO": "9,515", "ObjectId": 100}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2014", "MIGRACNE_SALDO": "67,462", "ObjectId": 101}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2014", "MIGRACNE_SALDO": "98,568", "ObjectId": 102}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2014", "MIGRACNE_SALDO": "86,327", "ObjectId": 103}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2014", "MIGRACNE_SALDO": "-11,371", "ObjectId": 104}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2014", "MIGRACNE_SALDO": "58,091", "ObjectId": 105}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2015", "MIGRACNE_SALDO": "14,607", "ObjectId": 106}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2015", "MIGRACNE_SALDO": "3,197", "ObjectId": 107}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2015", "MIGRACNE_SALDO": "11,020", "ObjectId": 108}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2015", "MIGRACNE_SALDO": "8,504", "ObjectId": 109}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2015", "MIGRACNE_SALDO": "14,214", "ObjectId": 110}
+{"MESTSKA_CAST": "Rača", "ROK": "2015", "MIGRACNE_SALDO": "10,454", "ObjectId": 111}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2015", "MIGRACNE_SALDO": "11,594", "ObjectId": 112}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2015", "MIGRACNE_SALDO": "-3,371", "ObjectId": 113}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2015", "MIGRACNE_SALDO": "1,452", "ObjectId": 114}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2015", "MIGRACNE_SALDO": "2,021", "ObjectId": 115}
+{"MESTSKA_CAST": "Devín", "ROK": "2015", "MIGRACNE_SALDO": "41,831", "ObjectId": 116}
+{"MESTSKA_CAST": "Lamač", "ROK": "2015", "MIGRACNE_SALDO": "16,331", "ObjectId": 117}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2015", "MIGRACNE_SALDO": "55,750", "ObjectId": 118}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2015", "MIGRACNE_SALDO": "55,814", "ObjectId": 119}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2015", "MIGRACNE_SALDO": "55,527", "ObjectId": 120}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2015", "MIGRACNE_SALDO": "-10,243", "ObjectId": 121}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2015", "MIGRACNE_SALDO": "32,727", "ObjectId": 122}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2016", "MIGRACNE_SALDO": "14,303", "ObjectId": 123}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2016", "MIGRACNE_SALDO": "6,666", "ObjectId": 124}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2016", "MIGRACNE_SALDO": "6,928", "ObjectId": 125}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2016", "MIGRACNE_SALDO": "-2,381", "ObjectId": 126}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2016", "MIGRACNE_SALDO": "8,222", "ObjectId": 127}
+{"MESTSKA_CAST": "Rača", "ROK": "2016", "MIGRACNE_SALDO": "22,762", "ObjectId": 128}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2016", "MIGRACNE_SALDO": "23,617", "ObjectId": 129}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2016", "MIGRACNE_SALDO": "-10,103", "ObjectId": 130}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2016", "MIGRACNE_SALDO": "1,509", "ObjectId": 131}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2016", "MIGRACNE_SALDO": "-1,321", "ObjectId": 132}
+{"MESTSKA_CAST": "Devín", "ROK": "2016", "MIGRACNE_SALDO": "65,696", "ObjectId": 133}
+{"MESTSKA_CAST": "Lamač", "ROK": "2016", "MIGRACNE_SALDO": "12,158", "ObjectId": 134}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2016", "MIGRACNE_SALDO": "64,291", "ObjectId": 135}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2016", "MIGRACNE_SALDO": "43,160", "ObjectId": 136}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2016", "MIGRACNE_SALDO": "38,920", "ObjectId": 137}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2016", "MIGRACNE_SALDO": "-9,556", "ObjectId": 138}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2016", "MIGRACNE_SALDO": "36,275", "ObjectId": 139}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2017", "MIGRACNE_SALDO": "16,881", "ObjectId": 140}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2017", "MIGRACNE_SALDO": "3,645", "ObjectId": 141}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2017", "MIGRACNE_SALDO": "8,359", "ObjectId": 142}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2017", "MIGRACNE_SALDO": "-4,706", "ObjectId": 143}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2017", "MIGRACNE_SALDO": "10,329", "ObjectId": 144}
+{"MESTSKA_CAST": "Rača", "ROK": "2017", "MIGRACNE_SALDO": "31,377", "ObjectId": 145}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2017", "MIGRACNE_SALDO": "25,391", "ObjectId": 146}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2017", "MIGRACNE_SALDO": "-10,517", "ObjectId": 147}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2017", "MIGRACNE_SALDO": "3,548", "ObjectId": 148}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2017", "MIGRACNE_SALDO": "2,928", "ObjectId": 149}
+{"MESTSKA_CAST": "Devín", "ROK": "2017", "MIGRACNE_SALDO": "102,055", "ObjectId": 150}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2008", "MIGRACNE_SALDO": "43,313", "ObjectId": 151}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2008", "MIGRACNE_SALDO": "-9,081", "ObjectId": 152}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2008", "MIGRACNE_SALDO": "52,948", "ObjectId": 153}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2009", "MIGRACNE_SALDO": "-1,883", "ObjectId": 154}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2009", "MIGRACNE_SALDO": "5,822", "ObjectId": 155}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2009", "MIGRACNE_SALDO": "8,451", "ObjectId": 156}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2009", "MIGRACNE_SALDO": "8,897", "ObjectId": 157}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2009", "MIGRACNE_SALDO": "12,262", "ObjectId": 158}
+{"MESTSKA_CAST": "Rača", "ROK": "2009", "MIGRACNE_SALDO": "3,897", "ObjectId": 159}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2009", "MIGRACNE_SALDO": "32,797", "ObjectId": 160}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2009", "MIGRACNE_SALDO": "-0,994", "ObjectId": 161}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2009", "MIGRACNE_SALDO": "3,930", "ObjectId": 162}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2009", "MIGRACNE_SALDO": "5,132", "ObjectId": 163}
+{"MESTSKA_CAST": "Devín", "ROK": "2009", "MIGRACNE_SALDO": "27,726", "ObjectId": 164}
+{"MESTSKA_CAST": "Lamač", "ROK": "2009", "MIGRACNE_SALDO": "18,397", "ObjectId": 165}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2009", "MIGRACNE_SALDO": "32,391", "ObjectId": 166}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2009", "MIGRACNE_SALDO": "23,933", "ObjectId": 167}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2009", "MIGRACNE_SALDO": "24,836", "ObjectId": 168}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2009", "MIGRACNE_SALDO": "-8,977", "ObjectId": 169}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2009", "MIGRACNE_SALDO": "33,652", "ObjectId": 170}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2010", "MIGRACNE_SALDO": "8,531", "ObjectId": 171}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2010", "MIGRACNE_SALDO": "5,778", "ObjectId": 172}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2010", "MIGRACNE_SALDO": "7,625", "ObjectId": 173}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2010", "MIGRACNE_SALDO": "-0,752", "ObjectId": 174}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2010", "MIGRACNE_SALDO": "8,584", "ObjectId": 175}
+{"MESTSKA_CAST": "Rača", "ROK": "2010", "MIGRACNE_SALDO": "6,216", "ObjectId": 176}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2010", "MIGRACNE_SALDO": "20,200", "ObjectId": 177}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2010", "MIGRACNE_SALDO": "0,123", "ObjectId": 178}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2010", "MIGRACNE_SALDO": "-0,518", "ObjectId": 179}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2010", "MIGRACNE_SALDO": "3,167", "ObjectId": 180}
+{"MESTSKA_CAST": "Devín", "ROK": "2010", "MIGRACNE_SALDO": "22,482", "ObjectId": 181}
+{"MESTSKA_CAST": "Lamač", "ROK": "2010", "MIGRACNE_SALDO": "11,049", "ObjectId": 182}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2010", "MIGRACNE_SALDO": "63,573", "ObjectId": 183}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2010", "MIGRACNE_SALDO": "30,644", "ObjectId": 184}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2010", "MIGRACNE_SALDO": "43,662", "ObjectId": 185}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2010", "MIGRACNE_SALDO": "-12,281", "ObjectId": 186}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2010", "MIGRACNE_SALDO": "28,211", "ObjectId": 187}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2011", "MIGRACNE_SALDO": "6,383", "ObjectId": 188}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2011", "MIGRACNE_SALDO": "11,514", "ObjectId": 189}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2011", "MIGRACNE_SALDO": "9,023", "ObjectId": 190}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2011", "MIGRACNE_SALDO": "1,458", "ObjectId": 191}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2011", "MIGRACNE_SALDO": "11,895", "ObjectId": 192}
+{"MESTSKA_CAST": "Rača", "ROK": "2011", "MIGRACNE_SALDO": "5,773", "ObjectId": 193}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2011", "MIGRACNE_SALDO": "21,554", "ObjectId": 194}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2011", "MIGRACNE_SALDO": "-6,642", "ObjectId": 195}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2011", "MIGRACNE_SALDO": "3,092", "ObjectId": 196}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2011", "MIGRACNE_SALDO": "3,390", "ObjectId": 197}
+{"MESTSKA_CAST": "Devín", "ROK": "2011", "MIGRACNE_SALDO": "29,078", "ObjectId": 198}
+{"MESTSKA_CAST": "Lamač", "ROK": "2011", "MIGRACNE_SALDO": "27,513", "ObjectId": 199}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2011", "MIGRACNE_SALDO": "54,706", "ObjectId": 200}
+{"MESTSKA_CAST": "Lamač", "ROK": "2017", "MIGRACNE_SALDO": "4,711", "ObjectId": 201}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2017", "MIGRACNE_SALDO": "47,472", "ObjectId": 202}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2017", "MIGRACNE_SALDO": "23,868", "ObjectId": 203}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2017", "MIGRACNE_SALDO": "40,000", "ObjectId": 204}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2017", "MIGRACNE_SALDO": "-8,255", "ObjectId": 205}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2017", "MIGRACNE_SALDO": "41,591", "ObjectId": 206}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2018", "MIGRACNE_SALDO": "13,022", "ObjectId": 207}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2018", "MIGRACNE_SALDO": "3,125", "ObjectId": 208}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2018", "MIGRACNE_SALDO": "5,166", "ObjectId": 209}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2018", "MIGRACNE_SALDO": "0,742", "ObjectId": 210}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2018", "MIGRACNE_SALDO": "9,455", "ObjectId": 211}
+{"MESTSKA_CAST": "Rača", "ROK": "2018", "MIGRACNE_SALDO": "37,965", "ObjectId": 212}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2018", "MIGRACNE_SALDO": "12,499", "ObjectId": 213}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2018", "MIGRACNE_SALDO": "-13,971", "ObjectId": 214}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2018", "MIGRACNE_SALDO": "3,684", "ObjectId": 215}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2018", "MIGRACNE_SALDO": "-7,216", "ObjectId": 216}
+{"MESTSKA_CAST": "Devín", "ROK": "2018", "MIGRACNE_SALDO": "54,190", "ObjectId": 217}
+{"MESTSKA_CAST": "Lamač", "ROK": "2018", "MIGRACNE_SALDO": "2,074", "ObjectId": 218}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2018", "MIGRACNE_SALDO": "74,699", "ObjectId": 219}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2018", "MIGRACNE_SALDO": "39,349", "ObjectId": 220}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2018", "MIGRACNE_SALDO": "51,045", "ObjectId": 221}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2018", "MIGRACNE_SALDO": "-7,198", "ObjectId": 222}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2018", "MIGRACNE_SALDO": "32,929", "ObjectId": 223}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2019", "MIGRACNE_SALDO": "19,955", "ObjectId": 224}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2019", "MIGRACNE_SALDO": "1,082", "ObjectId": 225}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2019", "MIGRACNE_SALDO": "7,463", "ObjectId": 226}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2019", "MIGRACNE_SALDO": "-8,914", "ObjectId": 227}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2019", "MIGRACNE_SALDO": "13,112", "ObjectId": 228}
+{"MESTSKA_CAST": "Rača", "ROK": "2019", "MIGRACNE_SALDO": "35,174", "ObjectId": 229}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2019", "MIGRACNE_SALDO": "-4,863", "ObjectId": 230}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2019", "MIGRACNE_SALDO": "-8,858", "ObjectId": 231}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2019", "MIGRACNE_SALDO": "5,155", "ObjectId": 232}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2019", "MIGRACNE_SALDO": "-8,768", "ObjectId": 233}
+{"MESTSKA_CAST": "Devín", "ROK": "2019", "MIGRACNE_SALDO": "25,339", "ObjectId": 234}
+{"MESTSKA_CAST": "Lamač", "ROK": "2019", "MIGRACNE_SALDO": "11,961", "ObjectId": 235}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2019", "MIGRACNE_SALDO": "58,798", "ObjectId": 236}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2019", "MIGRACNE_SALDO": "19,123", "ObjectId": 237}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2019", "MIGRACNE_SALDO": "58,204", "ObjectId": 238}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2019", "MIGRACNE_SALDO": "7,357", "ObjectId": 239}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2019", "MIGRACNE_SALDO": "0,970", "ObjectId": 240}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2020", "MIGRACNE_SALDO": "15,893", "ObjectId": 241}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2020", "MIGRACNE_SALDO": "-3,064", "ObjectId": 242}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2020", "MIGRACNE_SALDO": "5,503", "ObjectId": 243}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2020", "MIGRACNE_SALDO": "-1,690", "ObjectId": 244}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2020", "MIGRACNE_SALDO": "12,922", "ObjectId": 245}
+{"MESTSKA_CAST": "Rača", "ROK": "2020", "MIGRACNE_SALDO": "18,873", "ObjectId": 246}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2020", "MIGRACNE_SALDO": "2,346", "ObjectId": 247}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2020", "MIGRACNE_SALDO": "-1,899", "ObjectId": 248}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2020", "MIGRACNE_SALDO": "1,424", "ObjectId": 249}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2020", "MIGRACNE_SALDO": "-6,729", "ObjectId": 250}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2005", "MIGRACNE_SALDO": "-6,121", "ObjectId": 251}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2005", "MIGRACNE_SALDO": "31,880", "ObjectId": 252}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2006", "MIGRACNE_SALDO": "-9,759", "ObjectId": 253}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2006", "MIGRACNE_SALDO": "11,235", "ObjectId": 254}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2006", "MIGRACNE_SALDO": "11,217", "ObjectId": 255}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2006", "MIGRACNE_SALDO": "5,905", "ObjectId": 256}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2006", "MIGRACNE_SALDO": "4,362", "ObjectId": 257}
+{"MESTSKA_CAST": "Rača", "ROK": "2006", "MIGRACNE_SALDO": "4,610", "ObjectId": 258}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2006", "MIGRACNE_SALDO": "28,063", "ObjectId": 259}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2006", "MIGRACNE_SALDO": "4,825", "ObjectId": 260}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2006", "MIGRACNE_SALDO": "-0,087", "ObjectId": 261}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2006", "MIGRACNE_SALDO": "2,969", "ObjectId": 262}
+{"MESTSKA_CAST": "Devín", "ROK": "2006", "MIGRACNE_SALDO": "20,937", "ObjectId": 263}
+{"MESTSKA_CAST": "Lamač", "ROK": "2006", "MIGRACNE_SALDO": "15,135", "ObjectId": 264}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2006", "MIGRACNE_SALDO": "64,148", "ObjectId": 265}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2006", "MIGRACNE_SALDO": "16,447", "ObjectId": 266}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2006", "MIGRACNE_SALDO": "22,296", "ObjectId": 267}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2006", "MIGRACNE_SALDO": "-9,270", "ObjectId": 268}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2006", "MIGRACNE_SALDO": "57,351", "ObjectId": 269}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2007", "MIGRACNE_SALDO": "-4,245", "ObjectId": 270}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2007", "MIGRACNE_SALDO": "19,579", "ObjectId": 271}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2007", "MIGRACNE_SALDO": "10,120", "ObjectId": 272}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2007", "MIGRACNE_SALDO": "0,935", "ObjectId": 273}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2007", "MIGRACNE_SALDO": "8,701", "ObjectId": 274}
+{"MESTSKA_CAST": "Rača", "ROK": "2007", "MIGRACNE_SALDO": "0,000", "ObjectId": 275}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2007", "MIGRACNE_SALDO": "44,586", "ObjectId": 276}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2007", "MIGRACNE_SALDO": "6,035", "ObjectId": 277}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2007", "MIGRACNE_SALDO": "-6,396", "ObjectId": 278}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2007", "MIGRACNE_SALDO": "-0,236", "ObjectId": 279}
+{"MESTSKA_CAST": "Devín", "ROK": "2007", "MIGRACNE_SALDO": "8,646", "ObjectId": 280}
+{"MESTSKA_CAST": "Lamač", "ROK": "2007", "MIGRACNE_SALDO": "7,910", "ObjectId": 281}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2007", "MIGRACNE_SALDO": "63,922", "ObjectId": 282}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2007", "MIGRACNE_SALDO": "7,471", "ObjectId": 283}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2007", "MIGRACNE_SALDO": "43,239", "ObjectId": 284}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2007", "MIGRACNE_SALDO": "-10,657", "ObjectId": 285}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2007", "MIGRACNE_SALDO": "61,493", "ObjectId": 286}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2008", "MIGRACNE_SALDO": "-2,943", "ObjectId": 287}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2008", "MIGRACNE_SALDO": "10,127", "ObjectId": 288}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2008", "MIGRACNE_SALDO": "9,005", "ObjectId": 289}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2008", "MIGRACNE_SALDO": "7,002", "ObjectId": 290}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2008", "MIGRACNE_SALDO": "10,447", "ObjectId": 291}
+{"MESTSKA_CAST": "Rača", "ROK": "2008", "MIGRACNE_SALDO": "4,299", "ObjectId": 292}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2008", "MIGRACNE_SALDO": "43,515", "ObjectId": 293}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2008", "MIGRACNE_SALDO": "2,245", "ObjectId": 294}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2008", "MIGRACNE_SALDO": "3,662", "ObjectId": 295}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2008", "MIGRACNE_SALDO": "4,230", "ObjectId": 296}
+{"MESTSKA_CAST": "Devín", "ROK": "2008", "MIGRACNE_SALDO": "33,019", "ObjectId": 297}
+{"MESTSKA_CAST": "Lamač", "ROK": "2008", "MIGRACNE_SALDO": "3,639", "ObjectId": 298}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2008", "MIGRACNE_SALDO": "65,905", "ObjectId": 299}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2008", "MIGRACNE_SALDO": "13,830", "ObjectId": 300}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2002", "MIGRACNE_SALDO": "34,743", "ObjectId": 301}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2003", "MIGRACNE_SALDO": "-7,535", "ObjectId": 302}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2003", "MIGRACNE_SALDO": "-1,017", "ObjectId": 303}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2003", "MIGRACNE_SALDO": "4,765", "ObjectId": 304}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2003", "MIGRACNE_SALDO": "1,504", "ObjectId": 305}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2003", "MIGRACNE_SALDO": "1,423", "ObjectId": 306}
+{"MESTSKA_CAST": "Rača", "ROK": "2003", "MIGRACNE_SALDO": "0,246", "ObjectId": 307}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2003", "MIGRACNE_SALDO": "16,879", "ObjectId": 308}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2003", "MIGRACNE_SALDO": "-3,301", "ObjectId": 309}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2003", "MIGRACNE_SALDO": "-5,799", "ObjectId": 310}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2003", "MIGRACNE_SALDO": "-0,060", "ObjectId": 311}
+{"MESTSKA_CAST": "Devín", "ROK": "2003", "MIGRACNE_SALDO": "37,855", "ObjectId": 312}
+{"MESTSKA_CAST": "Lamač", "ROK": "2003", "MIGRACNE_SALDO": "-4,615", "ObjectId": 313}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2003", "MIGRACNE_SALDO": "35,464", "ObjectId": 314}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2003", "MIGRACNE_SALDO": "3,247", "ObjectId": 315}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2003", "MIGRACNE_SALDO": "25,265", "ObjectId": 316}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2003", "MIGRACNE_SALDO": "-9,056", "ObjectId": 317}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2003", "MIGRACNE_SALDO": "19,278", "ObjectId": 318}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2004", "MIGRACNE_SALDO": "-6,765", "ObjectId": 319}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2004", "MIGRACNE_SALDO": "6,146", "ObjectId": 320}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2004", "MIGRACNE_SALDO": "4,714", "ObjectId": 321}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2004", "MIGRACNE_SALDO": "2,938", "ObjectId": 322}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2004", "MIGRACNE_SALDO": "4,777", "ObjectId": 323}
+{"MESTSKA_CAST": "Rača", "ROK": "2004", "MIGRACNE_SALDO": "5,396", "ObjectId": 324}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2004", "MIGRACNE_SALDO": "16,006", "ObjectId": 325}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2004", "MIGRACNE_SALDO": "-4,473", "ObjectId": 326}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2004", "MIGRACNE_SALDO": "-3,990", "ObjectId": 327}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2004", "MIGRACNE_SALDO": "-1,448", "ObjectId": 328}
+{"MESTSKA_CAST": "Devín", "ROK": "2004", "MIGRACNE_SALDO": "17,382", "ObjectId": 329}
+{"MESTSKA_CAST": "Lamač", "ROK": "2004", "MIGRACNE_SALDO": "-2,323", "ObjectId": 330}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2004", "MIGRACNE_SALDO": "33,560", "ObjectId": 331}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2004", "MIGRACNE_SALDO": "-24,096", "ObjectId": 332}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2004", "MIGRACNE_SALDO": "-2,431", "ObjectId": 333}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2004", "MIGRACNE_SALDO": "-4,209", "ObjectId": 334}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2004", "MIGRACNE_SALDO": "20,349", "ObjectId": 335}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2005", "MIGRACNE_SALDO": "-9,468", "ObjectId": 336}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2005", "MIGRACNE_SALDO": "2,909", "ObjectId": 337}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2005", "MIGRACNE_SALDO": "5,477", "ObjectId": 338}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2005", "MIGRACNE_SALDO": "4,172", "ObjectId": 339}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2005", "MIGRACNE_SALDO": "4,036", "ObjectId": 340}
+{"MESTSKA_CAST": "Rača", "ROK": "2005", "MIGRACNE_SALDO": "4,770", "ObjectId": 341}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2005", "MIGRACNE_SALDO": "27,856", "ObjectId": 342}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2005", "MIGRACNE_SALDO": "9,594", "ObjectId": 343}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2005", "MIGRACNE_SALDO": "-0,580", "ObjectId": 344}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2005", "MIGRACNE_SALDO": "7,494", "ObjectId": 345}
+{"MESTSKA_CAST": "Devín", "ROK": "2005", "MIGRACNE_SALDO": "26,236", "ObjectId": 346}
+{"MESTSKA_CAST": "Lamač", "ROK": "2005", "MIGRACNE_SALDO": "10,284", "ObjectId": 347}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2005", "MIGRACNE_SALDO": "38,540", "ObjectId": 348}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2005", "MIGRACNE_SALDO": "6,565", "ObjectId": 349}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2005", "MIGRACNE_SALDO": "-6,467", "ObjectId": 350}
+{"MESTSKA_CAST": "Devín", "ROK": "2020", "MIGRACNE_SALDO": "22,854", "ObjectId": 351}
+{"MESTSKA_CAST": "Lamač", "ROK": "2020", "MIGRACNE_SALDO": "20,853", "ObjectId": 352}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2020", "MIGRACNE_SALDO": "54,493", "ObjectId": 353}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2020", "MIGRACNE_SALDO": "10,359", "ObjectId": 354}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2020", "MIGRACNE_SALDO": "25,197", "ObjectId": 355}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2020", "MIGRACNE_SALDO": "-1,256", "ObjectId": 356}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2020", "MIGRACNE_SALDO": "9,148", "ObjectId": 357}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2021", "MIGRACNE_SALDO": "11,761", "ObjectId": 358}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2021", "MIGRACNE_SALDO": "3,919", "ObjectId": 359}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2021", "MIGRACNE_SALDO": "0,864", "ObjectId": 360}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2021", "MIGRACNE_SALDO": "-5,476", "ObjectId": 361}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2021", "MIGRACNE_SALDO": "3,771", "ObjectId": 362}
+{"MESTSKA_CAST": "Rača", "ROK": "2021", "MIGRACNE_SALDO": "9,943", "ObjectId": 363}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2021", "MIGRACNE_SALDO": "5,587", "ObjectId": 364}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2021", "MIGRACNE_SALDO": "-5,311", "ObjectId": 365}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2021", "MIGRACNE_SALDO": "-2,326", "ObjectId": 366}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2021", "MIGRACNE_SALDO": "-7,289", "ObjectId": 367}
+{"MESTSKA_CAST": "Devín", "ROK": "2021", "MIGRACNE_SALDO": "21,739", "ObjectId": 368}
+{"MESTSKA_CAST": "Lamač", "ROK": "2021", "MIGRACNE_SALDO": "0,900", "ObjectId": 369}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2021", "MIGRACNE_SALDO": "43,216", "ObjectId": 370}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2021", "MIGRACNE_SALDO": "15,138", "ObjectId": 371}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2021", "MIGRACNE_SALDO": "46,159", "ObjectId": 372}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2021", "MIGRACNE_SALDO": "-6,043", "ObjectId": 373}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2021", "MIGRACNE_SALDO": "6,364", "ObjectId": 374}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "-4,849", "ObjectId": 375}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "-1,147", "ObjectId": 376}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "3,386", "ObjectId": 377}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "4,009", "ObjectId": 378}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "3,213", "ObjectId": 379}
+{"MESTSKA_CAST": "Rača", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "3,898", "ObjectId": 380}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "27,148", "ObjectId": 381}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "-2,162", "ObjectId": 382}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "-5,316", "ObjectId": 383}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "1,424", "ObjectId": 384}
+{"MESTSKA_CAST": "Devín", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "37,012", "ObjectId": 385}
+{"MESTSKA_CAST": "Lamač", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "-0,307", "ObjectId": 386}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "43,015", "ObjectId": 387}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "-0,218", "ObjectId": 388}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "9,736", "ObjectId": 389}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "-6,488", "ObjectId": 390}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2000 – 2004", "MIGRACNE_SALDO": "24,975", "ObjectId": 391}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "15,689", "ObjectId": 392}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "1,776", "ObjectId": 393}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "5,462", "ObjectId": 394}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "-4,031", "ObjectId": 395}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "9,980", "ObjectId": 396}
+{"MESTSKA_CAST": "Rača", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "26,229", "ObjectId": 397}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "8,050", "ObjectId": 398}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "-8,238", "ObjectId": 399}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "2,253", "ObjectId": 400}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "-5,506", "ObjectId": 401}
+{"MESTSKA_CAST": "Devín", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "43,198", "ObjectId": 402}
+{"MESTSKA_CAST": "Lamač", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "8,167", "ObjectId": 403}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "55,463", "ObjectId": 404}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "21,365", "ObjectId": 405}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "44,169", "ObjectId": 406}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "-3,188", "ObjectId": 407}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2017 – 2021", "MIGRACNE_SALDO": "17,655", "ObjectId": 408}

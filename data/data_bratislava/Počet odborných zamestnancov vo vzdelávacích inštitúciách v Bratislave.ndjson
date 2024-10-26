@@ -1,0 +1,270 @@
+{"Rok": "2016", "Typ": "Základné školy", "Okres": "Bratislava V", "Prepočítaný_počet": "568.5", "Pedagogickí_zamestnanci": "438.2", "Odborní_zamestnanci": "17.3", "ObjectId": 1}
+{"Rok": "2016", "Typ": "Gymnáziá", "Okres": "Bratislava I", "Prepočítaný_počet": "608", "Pedagogickí_zamestnanci": "489.7", "Odborní_zamestnanci": "5", "ObjectId": 2}
+{"Rok": "2016", "Typ": "Gymnáziá", "Okres": "Bratislava II", "Prepočítaný_počet": "619.7", "Pedagogickí_zamestnanci": "473.4", "Odborní_zamestnanci": "0", "ObjectId": 3}
+{"Rok": "2016", "Typ": "Gymnáziá", "Okres": "Bratislava III", "Prepočítaný_počet": "26.8", "Pedagogickí_zamestnanci": "16.8", "Odborní_zamestnanci": "0", "ObjectId": 4}
+{"Rok": "2016", "Typ": "Gymnáziá", "Okres": "Bratislava IV", "Prepočítaný_počet": "65.4", "Pedagogickí_zamestnanci": "51.4", "Odborní_zamestnanci": "0", "ObjectId": 5}
+{"Rok": "2016", "Typ": "Gymnáziá", "Okres": "Bratislava V", "Prepočítaný_počet": "61.8", "Pedagogickí_zamestnanci": "47.3", "Odborní_zamestnanci": "1.5", "ObjectId": 6}
+{"Rok": "2016", "Typ": "Stredné športové školy", "Okres": "Bratislava I", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 7}
+{"Rok": "2016", "Typ": "Stredné športové školy", "Okres": "Bratislava II", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 8}
+{"Rok": "2016", "Typ": "Stredné športové školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 9}
+{"Rok": "2016", "Typ": "Stredné športové školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 10}
+{"Rok": "2016", "Typ": "Stredné športové školy", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 11}
+{"Rok": "2016", "Typ": "SOŠ", "Okres": "Bratislava I", "Prepočítaný_počet": "94.3", "Pedagogickí_zamestnanci": "67.9", "Odborní_zamestnanci": "1", "ObjectId": 12}
+{"Rok": "2016", "Typ": "SOŠ", "Okres": "Bratislava II", "Prepočítaný_počet": "1762.1", "Pedagogickí_zamestnanci": "1276.9", "Odborní_zamestnanci": "2.9", "ObjectId": 13}
+{"Rok": "2016", "Typ": "SOŠ", "Okres": "Bratislava III", "Prepočítaný_počet": "129", "Pedagogickí_zamestnanci": "103.5", "Odborní_zamestnanci": "0", "ObjectId": 14}
+{"Rok": "2016", "Typ": "SOŠ", "Okres": "Bratislava IV", "Prepočítaný_počet": "53.8", "Pedagogickí_zamestnanci": "47", "Odborní_zamestnanci": "0", "ObjectId": 15}
+{"Rok": "2016", "Typ": "SOŠ", "Okres": "Bratislava V", "Prepočítaný_počet": "45.8", "Pedagogickí_zamestnanci": "12.6", "Odborní_zamestnanci": "0", "ObjectId": 16}
+{"Rok": "2016", "Typ": "Konzervatóriá", "Okres": "Bratislava I", "Prepočítaný_počet": "66.4", "Pedagogickí_zamestnanci": "54.9", "Odborní_zamestnanci": "0", "ObjectId": 17}
+{"Rok": "2016", "Typ": "Konzervatóriá", "Okres": "Bratislava II", "Prepočítaný_počet": "222.1", "Pedagogickí_zamestnanci": "178.7", "Odborní_zamestnanci": "0", "ObjectId": 18}
+{"Rok": "2016", "Typ": "Konzervatóriá", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 19}
+{"Rok": "2016", "Typ": "Konzervatóriá", "Okres": "Bratislava IV", "Prepočítaný_počet": "9.5", "Pedagogickí_zamestnanci": "8.5", "Odborní_zamestnanci": "0", "ObjectId": 20}
+{"Rok": "2016", "Typ": "Konzervatóriá", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 21}
+{"Rok": "2016", "Typ": "Špeciálne školy", "Okres": "Bratislava I", "Prepočítaný_počet": "652.9", "Pedagogickí_zamestnanci": "519.3", "Odborní_zamestnanci": "9.3", "ObjectId": 22}
+{"Rok": "2016", "Typ": "Špeciálne školy", "Okres": "Bratislava II", "Prepočítaný_počet": "130.9", "Pedagogickí_zamestnanci": "113.1", "Odborní_zamestnanci": "1.8", "ObjectId": 23}
+{"Rok": "2016", "Typ": "Špeciálne školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 24}
+{"Rok": "2016", "Typ": "Špeciálne školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 25}
+{"Rok": "2016", "Typ": "Špeciálne školy", "Okres": "Bratislava V", "Prepočítaný_počet": "8", "Pedagogickí_zamestnanci": "8", "Odborní_zamestnanci": "0", "ObjectId": 26}
+{"Rok": "2016", "Typ": "Základné umelecké školy", "Okres": "Bratislava I", "Prepočítaný_počet": "584.1", "Pedagogickí_zamestnanci": "512.7", "Odborní_zamestnanci": "0", "ObjectId": 27}
+{"Rok": "2016", "Typ": "Základné umelecké školy", "Okres": "Bratislava II", "Prepočítaný_počet": "48.6", "Pedagogickí_zamestnanci": "43.6", "Odborní_zamestnanci": "0", "ObjectId": 28}
+{"Rok": "2016", "Typ": "Základné umelecké školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 29}
+{"Rok": "2016", "Typ": "Základné umelecké školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "48.8", "Pedagogickí_zamestnanci": "36.5", "Odborní_zamestnanci": "0", "ObjectId": 30}
+{"Rok": "2016", "Typ": "Základné umelecké školy", "Okres": "Bratislava V", "Prepočítaný_počet": "48.4", "Pedagogickí_zamestnanci": "40.8", "Odborní_zamestnanci": "0", "ObjectId": 31}
+{"Rok": "2016", "Typ": "Centrá voľného času", "Okres": "Bratislava I", "Prepočítaný_počet": "61.7", "Pedagogickí_zamestnanci": "25.1", "Odborní_zamestnanci": "0", "ObjectId": 32}
+{"Rok": "2016", "Typ": "Centrá voľného času", "Okres": "Bratislava II", "Prepočítaný_počet": "7", "Pedagogickí_zamestnanci": "3", "Odborní_zamestnanci": "0", "ObjectId": 33}
+{"Rok": "2016", "Typ": "Centrá voľného času", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 34}
+{"Rok": "2016", "Typ": "Centrá voľného času", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 35}
+{"Rok": "2016", "Typ": "Centrá voľného času", "Okres": "Bratislava V", "Prepočítaný_počet": "1.9", "Pedagogickí_zamestnanci": "0.9", "Odborní_zamestnanci": "0", "ObjectId": 36}
+{"Rok": "2017", "Typ": "Materské školy", "Okres": "Bratislava I", "Prepočítaný_počet": "418.7", "Pedagogickí_zamestnanci": "269.7", "Odborní_zamestnanci": "83.9", "ObjectId": 37}
+{"Rok": "2017", "Typ": "Materské školy", "Okres": "Bratislava II", "Prepočítaný_počet": "498.4", "Pedagogickí_zamestnanci": "380.6", "Odborní_zamestnanci": "3.9", "ObjectId": 38}
+{"Rok": "2017", "Typ": "Materské školy", "Okres": "Bratislava III", "Prepočítaný_počet": "263.2", "Pedagogickí_zamestnanci": "185.9", "Odborní_zamestnanci": "1", "ObjectId": 39}
+{"Rok": "2017", "Typ": "Materské školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "385.6", "Pedagogickí_zamestnanci": "285.8", "Odborní_zamestnanci": "0.3", "ObjectId": 40}
+{"Rok": "2017", "Typ": "Materské školy", "Okres": "Bratislava V", "Prepočítaný_počet": "417.3", "Pedagogickí_zamestnanci": "318.6", "Odborní_zamestnanci": "0", "ObjectId": 41}
+{"Rok": "2017", "Typ": "Základné školy", "Okres": "Bratislava I", "Prepočítaný_počet": "626.3", "Pedagogickí_zamestnanci": "475.2", "Odborní_zamestnanci": "9.2", "ObjectId": 42}
+{"Rok": "2017", "Typ": "Základné školy", "Okres": "Bratislava II", "Prepočítaný_počet": "776.5", "Pedagogickí_zamestnanci": "595.1", "Odborní_zamestnanci": "32", "ObjectId": 43}
+{"Rok": "2017", "Typ": "Základné školy", "Okres": "Bratislava III", "Prepočítaný_počet": "403.8", "Pedagogickí_zamestnanci": "321.7", "Odborní_zamestnanci": "6.6", "ObjectId": 44}
+{"Rok": "2017", "Typ": "Základné školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "602.9", "Pedagogickí_zamestnanci": "449.2", "Odborní_zamestnanci": "6.1", "ObjectId": 45}
+{"Rok": "2017", "Typ": "Základné školy", "Okres": "Bratislava V", "Prepočítaný_počet": "585.8", "Pedagogickí_zamestnanci": "455.2", "Odborní_zamestnanci": "18.8", "ObjectId": 46}
+{"Rok": "2017", "Typ": "Gymnáziá", "Okres": "Bratislava I", "Prepočítaný_počet": "610.9", "Pedagogickí_zamestnanci": "495", "Odborní_zamestnanci": "4", "ObjectId": 47}
+{"Rok": "2017", "Typ": "Gymnáziá", "Okres": "Bratislava II", "Prepočítaný_počet": "659", "Pedagogickí_zamestnanci": "507.1", "Odborní_zamestnanci": "2.3", "ObjectId": 48}
+{"Rok": "2017", "Typ": "Gymnáziá", "Okres": "Bratislava III", "Prepočítaný_počet": "29.6", "Pedagogickí_zamestnanci": "17.3", "Odborní_zamestnanci": "0", "ObjectId": 49}
+{"Rok": "2017", "Typ": "Gymnáziá", "Okres": "Bratislava IV", "Prepočítaný_počet": "64.1", "Pedagogickí_zamestnanci": "63.1", "Odborní_zamestnanci": "0", "ObjectId": 50}
+{"Rok": "2017", "Typ": "Gymnáziá", "Okres": "Bratislava V", "Prepočítaný_počet": "67.8", "Pedagogickí_zamestnanci": "53.7", "Odborní_zamestnanci": "1.1", "ObjectId": 51}
+{"Rok": "2017", "Typ": "Stredné športové školy", "Okres": "Bratislava I", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 52}
+{"Rok": "2017", "Typ": "Stredné športové školy", "Okres": "Bratislava II", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 53}
+{"Rok": "2017", "Typ": "Stredné športové školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 54}
+{"Rok": "2017", "Typ": "Stredné športové školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 55}
+{"Rok": "2017", "Typ": "Stredné športové školy", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 56}
+{"Rok": "2017", "Typ": "SOŠ", "Okres": "Bratislava I", "Prepočítaný_počet": "83.1", "Pedagogickí_zamestnanci": "61", "Odborní_zamestnanci": "0", "ObjectId": 57}
+{"Rok": "2017", "Typ": "SOŠ", "Okres": "Bratislava II", "Prepočítaný_počet": "1716.1", "Pedagogickí_zamestnanci": "1220.2", "Odborní_zamestnanci": "2.9", "ObjectId": 58}
+{"Rok": "2017", "Typ": "SOŠ", "Okres": "Bratislava III", "Prepočítaný_počet": "116.1", "Pedagogickí_zamestnanci": "91.9", "Odborní_zamestnanci": "0", "ObjectId": 59}
+{"Rok": "2017", "Typ": "SOŠ", "Okres": "Bratislava IV", "Prepočítaný_počet": "106", "Pedagogickí_zamestnanci": "80.5", "Odborní_zamestnanci": "0", "ObjectId": 60}
+{"Rok": "2017", "Typ": "SOŠ", "Okres": "Bratislava V", "Prepočítaný_počet": "16.4", "Pedagogickí_zamestnanci": "13.7", "Odborní_zamestnanci": "0", "ObjectId": 61}
+{"Rok": "2017", "Typ": "Konzervatóriá", "Okres": "Bratislava I", "Prepočítaný_počet": "63", "Pedagogickí_zamestnanci": "49.5", "Odborní_zamestnanci": "0", "ObjectId": 62}
+{"Rok": "2017", "Typ": "Konzervatóriá", "Okres": "Bratislava II", "Prepočítaný_počet": "219.1", "Pedagogickí_zamestnanci": "175.8", "Odborní_zamestnanci": "0", "ObjectId": 63}
+{"Rok": "2017", "Typ": "Konzervatóriá", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 64}
+{"Rok": "2017", "Typ": "Konzervatóriá", "Okres": "Bratislava IV", "Prepočítaný_počet": "11.1", "Pedagogickí_zamestnanci": "10.1", "Odborní_zamestnanci": "0", "ObjectId": 65}
+{"Rok": "2017", "Typ": "Konzervatóriá", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 66}
+{"Rok": "2017", "Typ": "Špeciálne školy", "Okres": "Bratislava I", "Prepočítaný_počet": "658.8", "Pedagogickí_zamestnanci": "522.5", "Odborní_zamestnanci": "9.5", "ObjectId": 67}
+{"Rok": "2017", "Typ": "Špeciálne školy", "Okres": "Bratislava II", "Prepočítaný_počet": "53.8", "Pedagogickí_zamestnanci": "48.8", "Odborní_zamestnanci": "2", "ObjectId": 68}
+{"Rok": "2017", "Typ": "Špeciálne školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 69}
+{"Rok": "2015", "Typ": "Materské školy", "Okres": "Bratislava I", "Prepočítaný_počet": "299", "Pedagogickí_zamestnanci": "233.3", "Odborní_zamestnanci": "1.6", "ObjectId": 70}
+{"Rok": "2017", "Typ": "Špeciálne školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 71}
+{"Rok": "2017", "Typ": "Špeciálne školy", "Okres": "Bratislava V", "Prepočítaný_počet": "8", "Pedagogickí_zamestnanci": "8", "Odborní_zamestnanci": "0", "ObjectId": 72}
+{"Rok": "2017", "Typ": "Základné umelecké školy", "Okres": "Bratislava I", "Prepočítaný_počet": "596.2", "Pedagogickí_zamestnanci": "526.8", "Odborní_zamestnanci": "0", "ObjectId": 73}
+{"Rok": "2017", "Typ": "Základné umelecké školy", "Okres": "Bratislava II", "Prepočítaný_počet": "52.4", "Pedagogickí_zamestnanci": "43.4", "Odborní_zamestnanci": "0", "ObjectId": 74}
+{"Rok": "2017", "Typ": "Základné umelecké školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 75}
+{"Rok": "2017", "Typ": "Základné umelecké školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "49.8", "Pedagogickí_zamestnanci": "36.5", "Odborní_zamestnanci": "0", "ObjectId": 76}
+{"Rok": "2017", "Typ": "Základné umelecké školy", "Okres": "Bratislava V", "Prepočítaný_počet": "53.2", "Pedagogickí_zamestnanci": "43.3", "Odborní_zamestnanci": "0", "ObjectId": 77}
+{"Rok": "2017", "Typ": "Centrá voľného času", "Okres": "Bratislava I", "Prepočítaný_počet": "53.9", "Pedagogickí_zamestnanci": "25", "Odborní_zamestnanci": "0", "ObjectId": 78}
+{"Rok": "2017", "Typ": "Centrá voľného času", "Okres": "Bratislava II", "Prepočítaný_počet": "6", "Pedagogickí_zamestnanci": "3", "Odborní_zamestnanci": "0", "ObjectId": 79}
+{"Rok": "2017", "Typ": "Centrá voľného času", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 80}
+{"Rok": "2017", "Typ": "Centrá voľného času", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 81}
+{"Rok": "2017", "Typ": "Centrá voľného času", "Okres": "Bratislava V", "Prepočítaný_počet": "3.4", "Pedagogickí_zamestnanci": "1.3", "Odborní_zamestnanci": "0", "ObjectId": 82}
+{"Rok": "2018", "Typ": "Materské školy", "Okres": "Bratislava I", "Prepočítaný_počet": "319", "Pedagogickí_zamestnanci": "250.4", "Odborní_zamestnanci": "0", "ObjectId": 83}
+{"Rok": "2018", "Typ": "Materské školy", "Okres": "Bratislava II", "Prepočítaný_počet": "525.7", "Pedagogickí_zamestnanci": "399.7", "Odborní_zamestnanci": "4", "ObjectId": 84}
+{"Rok": "2018", "Typ": "Materské školy", "Okres": "Bratislava III", "Prepočítaný_počet": "280.7", "Pedagogickí_zamestnanci": "198.4", "Odborní_zamestnanci": "1", "ObjectId": 85}
+{"Rok": "2018", "Typ": "Materské školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "413.6", "Pedagogickí_zamestnanci": "309.3", "Odborní_zamestnanci": "8", "ObjectId": 86}
+{"Rok": "2018", "Typ": "Materské školy", "Okres": "Bratislava V", "Prepočítaný_počet": "424", "Pedagogickí_zamestnanci": "316.4", "Odborní_zamestnanci": "1", "ObjectId": 87}
+{"Rok": "2018", "Typ": "Základné školy", "Okres": "Bratislava I", "Prepočítaný_počet": "659.6", "Pedagogickí_zamestnanci": "501.8", "Odborní_zamestnanci": "12.6", "ObjectId": 88}
+{"Rok": "2018", "Typ": "Základné školy", "Okres": "Bratislava II", "Prepočítaný_počet": "762", "Pedagogickí_zamestnanci": "575.7", "Odborní_zamestnanci": "35", "ObjectId": 89}
+{"Rok": "2018", "Typ": "Základné školy", "Okres": "Bratislava III", "Prepočítaný_počet": "415.9", "Pedagogickí_zamestnanci": "330.3", "Odborní_zamestnanci": "8.6", "ObjectId": 90}
+{"Rok": "2018", "Typ": "Základné školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "628.2", "Pedagogickí_zamestnanci": "476.1", "Odborní_zamestnanci": "7.9", "ObjectId": 91}
+{"Rok": "2018", "Typ": "Základné školy", "Okres": "Bratislava V", "Prepočítaný_počet": "624.8", "Pedagogickí_zamestnanci": "478.4", "Odborní_zamestnanci": "22.1", "ObjectId": 92}
+{"Rok": "2018", "Typ": "Gymnáziá", "Okres": "Bratislava I", "Prepočítaný_počet": "630.9", "Pedagogickí_zamestnanci": "514", "Odborní_zamestnanci": "5.3", "ObjectId": 93}
+{"Rok": "2018", "Typ": "Gymnáziá", "Okres": "Bratislava II", "Prepočítaný_počet": "676.5", "Pedagogickí_zamestnanci": "519.8", "Odborní_zamestnanci": "1.5", "ObjectId": 94}
+{"Rok": "2018", "Typ": "Gymnáziá", "Okres": "Bratislava III", "Prepočítaný_počet": "33.7", "Pedagogickí_zamestnanci": "21.8", "Odborní_zamestnanci": "0", "ObjectId": 95}
+{"Rok": "2018", "Typ": "Gymnáziá", "Okres": "Bratislava IV", "Prepočítaný_počet": "64.2", "Pedagogickí_zamestnanci": "63.2", "Odborní_zamestnanci": "0", "ObjectId": 96}
+{"Rok": "2018", "Typ": "Gymnáziá", "Okres": "Bratislava V", "Prepočítaný_počet": "78.1", "Pedagogickí_zamestnanci": "64.6", "Odborní_zamestnanci": "1.1", "ObjectId": 97}
+{"Rok": "2018", "Typ": "Stredné športové školy", "Okres": "Bratislava I", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 98}
+{"Rok": "2018", "Typ": "Stredné športové školy", "Okres": "Bratislava II", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 99}
+{"Rok": "2018", "Typ": "Stredné športové školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 100}
+{"Rok": "2018", "Typ": "Stredné športové školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 101}
+{"Rok": "2018", "Typ": "Stredné športové školy", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 102}
+{"Rok": "2018", "Typ": "SOŠ", "Okres": "Bratislava I", "Prepočítaný_počet": "74.7", "Pedagogickí_zamestnanci": "51.4", "Odborní_zamestnanci": "0.5", "ObjectId": 103}
+{"Rok": "2018", "Typ": "SOŠ", "Okres": "Bratislava II", "Prepočítaný_počet": "1702.3", "Pedagogickí_zamestnanci": "1216", "Odborní_zamestnanci": "10.8", "ObjectId": 104}
+{"Rok": "2018", "Typ": "SOŠ", "Okres": "Bratislava III", "Prepočítaný_počet": "47.9", "Pedagogickí_zamestnanci": "38.3", "Odborní_zamestnanci": "0", "ObjectId": 105}
+{"Rok": "2018", "Typ": "SOŠ", "Okres": "Bratislava IV", "Prepočítaný_počet": "107.5", "Pedagogickí_zamestnanci": "82.5", "Odborní_zamestnanci": "0", "ObjectId": 106}
+{"Rok": "2018", "Typ": "SOŠ", "Okres": "Bratislava V", "Prepočítaný_počet": "18", "Pedagogickí_zamestnanci": "15", "Odborní_zamestnanci": "0", "ObjectId": 107}
+{"Rok": "2018", "Typ": "Konzervatóriá", "Okres": "Bratislava I", "Prepočítaný_počet": "51.7", "Pedagogickí_zamestnanci": "39.4", "Odborní_zamestnanci": "0", "ObjectId": 108}
+{"Rok": "2018", "Typ": "Konzervatóriá", "Okres": "Bratislava II", "Prepočítaný_počet": "223.1", "Pedagogickí_zamestnanci": "180.8", "Odborní_zamestnanci": "0", "ObjectId": 109}
+{"Rok": "2015", "Typ": "Materské školy", "Okres": "Bratislava II", "Prepočítaný_počet": "475", "Pedagogickí_zamestnanci": "363.3", "Odborní_zamestnanci": "2", "ObjectId": 110}
+{"Rok": "2015", "Typ": "Materské školy", "Okres": "Bratislava III", "Prepočítaný_počet": "266.9", "Pedagogickí_zamestnanci": "179.1", "Odborní_zamestnanci": "0", "ObjectId": 111}
+{"Rok": "2015", "Typ": "Materské školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "375", "Pedagogickí_zamestnanci": "280.2", "Odborní_zamestnanci": "0.4", "ObjectId": 112}
+{"Rok": "2015", "Typ": "Materské školy", "Okres": "Bratislava V", "Prepočítaný_počet": "360.4", "Pedagogickí_zamestnanci": "278.3", "Odborní_zamestnanci": "0", "ObjectId": 113}
+{"Rok": "2015", "Typ": "Základné školy", "Okres": "Bratislava I", "Prepočítaný_počet": "579.4", "Pedagogickí_zamestnanci": "449.6", "Odborní_zamestnanci": "6.7", "ObjectId": 114}
+{"Rok": "2015", "Typ": "Základné školy", "Okres": "Bratislava II", "Prepočítaný_počet": "692", "Pedagogickí_zamestnanci": "534", "Odborní_zamestnanci": "23.5", "ObjectId": 115}
+{"Rok": "2015", "Typ": "Základné školy", "Okres": "Bratislava III", "Prepočítaný_počet": "381.3", "Pedagogickí_zamestnanci": "296.8", "Odborní_zamestnanci": "8", "ObjectId": 116}
+{"Rok": "2015", "Typ": "Základné školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "576.5", "Pedagogickí_zamestnanci": "426.9", "Odborní_zamestnanci": "5.3", "ObjectId": 117}
+{"Rok": "2015", "Typ": "Základné školy", "Okres": "Bratislava V", "Prepočítaný_počet": "540.6", "Pedagogickí_zamestnanci": "399.7", "Odborní_zamestnanci": "16", "ObjectId": 118}
+{"Rok": "2015", "Typ": "Gymnáziá", "Okres": "Bratislava I", "Prepočítaný_počet": "609.7", "Pedagogickí_zamestnanci": "490.1", "Odborní_zamestnanci": "5.7", "ObjectId": 119}
+{"Rok": "2015", "Typ": "Gymnáziá", "Okres": "Bratislava II", "Prepočítaný_počet": "615.7", "Pedagogickí_zamestnanci": "472.8", "Odborní_zamestnanci": "0", "ObjectId": 120}
+{"Rok": "2015", "Typ": "Gymnáziá", "Okres": "Bratislava III", "Prepočítaný_počet": "28", "Pedagogickí_zamestnanci": "18", "Odborní_zamestnanci": "0", "ObjectId": 121}
+{"Rok": "2015", "Typ": "Gymnáziá", "Okres": "Bratislava IV", "Prepočítaný_počet": "72", "Pedagogickí_zamestnanci": "62.5", "Odborní_zamestnanci": "0", "ObjectId": 122}
+{"Rok": "2015", "Typ": "Gymnáziá", "Okres": "Bratislava V", "Prepočítaný_počet": "60.2", "Pedagogickí_zamestnanci": "45.9", "Odborní_zamestnanci": "1.2", "ObjectId": 123}
+{"Rok": "2015", "Typ": "Stredné športové školy", "Okres": "Bratislava I", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 124}
+{"Rok": "2015", "Typ": "Stredné športové školy", "Okres": "Bratislava II", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0.1", "ObjectId": 125}
+{"Rok": "2015", "Typ": "Stredné športové školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 126}
+{"Rok": "2015", "Typ": "Stredné športové školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 127}
+{"Rok": "2015", "Typ": "Stredné športové školy", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 128}
+{"Rok": "2015", "Typ": "SOŠ", "Okres": "Bratislava I", "Prepočítaný_počet": "100.7", "Pedagogickí_zamestnanci": "77.8", "Odborní_zamestnanci": "0", "ObjectId": 129}
+{"Rok": "2015", "Typ": "SOŠ", "Okres": "Bratislava II", "Prepočítaný_počet": "1794.2", "Pedagogickí_zamestnanci": "1309", "Odborní_zamestnanci": "3.2", "ObjectId": 130}
+{"Rok": "2015", "Typ": "SOŠ", "Okres": "Bratislava III", "Prepočítaný_počet": "148.6", "Pedagogickí_zamestnanci": "114.4", "Odborní_zamestnanci": "0", "ObjectId": 131}
+{"Rok": "2015", "Typ": "SOŠ", "Okres": "Bratislava IV", "Prepočítaný_počet": "53.1", "Pedagogickí_zamestnanci": "47.1", "Odborní_zamestnanci": "0", "ObjectId": 132}
+{"Rok": "2015", "Typ": "SOŠ", "Okres": "Bratislava V", "Prepočítaný_počet": "17.7", "Pedagogickí_zamestnanci": "9.6", "Odborní_zamestnanci": "0", "ObjectId": 133}
+{"Rok": "2015", "Typ": "Konzervatóriá", "Okres": "Bratislava I", "Prepočítaný_počet": "83.7", "Pedagogickí_zamestnanci": "64.4", "Odborní_zamestnanci": "0", "ObjectId": 134}
+{"Rok": "2015", "Typ": "Konzervatóriá", "Okres": "Bratislava II", "Prepočítaný_počet": "217.3", "Pedagogickí_zamestnanci": "175.1", "Odborní_zamestnanci": "0", "ObjectId": 135}
+{"Rok": "2015", "Typ": "Konzervatóriá", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 136}
+{"Rok": "2015", "Typ": "Konzervatóriá", "Okres": "Bratislava IV", "Prepočítaný_počet": "10.8", "Pedagogickí_zamestnanci": "9.8", "Odborní_zamestnanci": "0", "ObjectId": 137}
+{"Rok": "2015", "Typ": "Konzervatóriá", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 138}
+{"Rok": "2015", "Typ": "Špeciálne školy", "Okres": "Bratislava I", "Prepočítaný_počet": "666", "Pedagogickí_zamestnanci": "522.5", "Odborní_zamestnanci": "12.3", "ObjectId": 139}
+{"Rok": "2015", "Typ": "Špeciálne školy", "Okres": "Bratislava II", "Prepočítaný_počet": "108.2", "Pedagogickí_zamestnanci": "90.1", "Odborní_zamestnanci": "1.9", "ObjectId": 140}
+{"Rok": "2015", "Typ": "Špeciálne školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 141}
+{"Rok": "2015", "Typ": "Špeciálne školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 142}
+{"Rok": "2015", "Typ": "Špeciálne školy", "Okres": "Bratislava V", "Prepočítaný_počet": "7", "Pedagogickí_zamestnanci": "7", "Odborní_zamestnanci": "0", "ObjectId": 143}
+{"Rok": "2015", "Typ": "Základné umelecké školy", "Okres": "Bratislava I", "Prepočítaný_počet": "560.9", "Pedagogickí_zamestnanci": "492.3", "Odborní_zamestnanci": "0", "ObjectId": 144}
+{"Rok": "2015", "Typ": "Základné umelecké školy", "Okres": "Bratislava II", "Prepočítaný_počet": "48", "Pedagogickí_zamestnanci": "40", "Odborní_zamestnanci": "0", "ObjectId": 145}
+{"Rok": "2015", "Typ": "Základné umelecké školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 146}
+{"Rok": "2015", "Typ": "Základné umelecké školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "37.1", "Pedagogickí_zamestnanci": "27.6", "Odborní_zamestnanci": "0", "ObjectId": 147}
+{"Rok": "2015", "Typ": "Základné umelecké školy", "Okres": "Bratislava V", "Prepočítaný_počet": "36.3", "Pedagogickí_zamestnanci": "32.5", "Odborní_zamestnanci": "0", "ObjectId": 148}
+{"Rok": "2015", "Typ": "Centrá voľného času", "Okres": "Bratislava I", "Prepočítaný_počet": "63.4", "Pedagogickí_zamestnanci": "26.9", "Odborní_zamestnanci": "0", "ObjectId": 149}
+{"Rok": "2015", "Typ": "Centrá voľného času", "Okres": "Bratislava II", "Prepočítaný_počet": "8", "Pedagogickí_zamestnanci": "4", "Odborní_zamestnanci": "0", "ObjectId": 150}
+{"Rok": "2015", "Typ": "Centrá voľného času", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 151}
+{"Rok": "2015", "Typ": "Centrá voľného času", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 152}
+{"Rok": "2015", "Typ": "Centrá voľného času", "Okres": "Bratislava V", "Prepočítaný_počet": "5.4", "Pedagogickí_zamestnanci": "3.7", "Odborní_zamestnanci": "0", "ObjectId": 153}
+{"Rok": "2016", "Typ": "Materské školy", "Okres": "Bratislava I", "Prepočítaný_počet": "309", "Pedagogickí_zamestnanci": "241.2", "Odborní_zamestnanci": "1.6", "ObjectId": 154}
+{"Rok": "2016", "Typ": "Materské školy", "Okres": "Bratislava II", "Prepočítaný_počet": "496.6", "Pedagogickí_zamestnanci": "382.7", "Odborní_zamestnanci": "3", "ObjectId": 155}
+{"Rok": "2016", "Typ": "Materské školy", "Okres": "Bratislava III", "Prepočítaný_počet": "264.3", "Pedagogickí_zamestnanci": "182.7", "Odborní_zamestnanci": "0", "ObjectId": 156}
+{"Rok": "2016", "Typ": "Materské školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "379.8", "Pedagogickí_zamestnanci": "279.4", "Odborní_zamestnanci": "0", "ObjectId": 157}
+{"Rok": "2016", "Typ": "Materské školy", "Okres": "Bratislava V", "Prepočítaný_počet": "390.9", "Pedagogickí_zamestnanci": "300.2", "Odborní_zamestnanci": "0", "ObjectId": 158}
+{"Rok": "2016", "Typ": "Základné školy", "Okres": "Bratislava I", "Prepočítaný_počet": "618.5", "Pedagogickí_zamestnanci": "475.4", "Odborní_zamestnanci": "7.7", "ObjectId": 159}
+{"Rok": "2016", "Typ": "Základné školy", "Okres": "Bratislava II", "Prepočítaný_počet": "716.9", "Pedagogickí_zamestnanci": "552.3", "Odborní_zamestnanci": "26", "ObjectId": 160}
+{"Rok": "2016", "Typ": "Základné školy", "Okres": "Bratislava III", "Prepočítaný_počet": "390.1", "Pedagogickí_zamestnanci": "304.2", "Odborní_zamestnanci": "8.8", "ObjectId": 161}
+{"Rok": "2016", "Typ": "Základné školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "592.7", "Pedagogickí_zamestnanci": "431.1", "Odborní_zamestnanci": "5.6", "ObjectId": 162}
+{"Rok": "2019", "Typ": "Základné umelecké školy", "Okres": "Bratislava II", "Prepočítaný_počet": "46.6", "Pedagogickí_zamestnanci": "38.6", "Odborní_zamestnanci": "0", "ObjectId": 163}
+{"Rok": "2019", "Typ": "Základné umelecké školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 164}
+{"Rok": "2019", "Typ": "Základné umelecké školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "52.5", "Pedagogickí_zamestnanci": "40.7", "Odborní_zamestnanci": "0", "ObjectId": 165}
+{"Rok": "2019", "Typ": "Základné umelecké školy", "Okres": "Bratislava V", "Prepočítaný_počet": "48.5", "Pedagogickí_zamestnanci": "38.9", "Odborní_zamestnanci": "0", "ObjectId": 166}
+{"Rok": "2019", "Typ": "Centrá voľného času", "Okres": "Bratislava I", "Prepočítaný_počet": "53.9", "Pedagogickí_zamestnanci": "25", "Odborní_zamestnanci": "0", "ObjectId": 167}
+{"Rok": "2019", "Typ": "Centrá voľného času", "Okres": "Bratislava II", "Prepočítaný_počet": "8.7", "Pedagogickí_zamestnanci": "3.1", "Odborní_zamestnanci": "0", "ObjectId": 168}
+{"Rok": "2019", "Typ": "Centrá voľného času", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 169}
+{"Rok": "2019", "Typ": "Centrá voľného času", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 170}
+{"Rok": "2019", "Typ": "Centrá voľného času", "Okres": "Bratislava V", "Prepočítaný_počet": "3.2", "Pedagogickí_zamestnanci": "1.3", "Odborní_zamestnanci": "0", "ObjectId": 171}
+{"Rok": "2020", "Typ": "Materské školy", "Okres": "Bratislava I", "Prepočítaný_počet": "332.6", "Pedagogickí_zamestnanci": "266.6", "Odborní_zamestnanci": "2", "ObjectId": 172}
+{"Rok": "2020", "Typ": "Materské školy", "Okres": "Bratislava II", "Prepočítaný_počet": "556.6", "Pedagogickí_zamestnanci": "424.6", "Odborní_zamestnanci": "4.7", "ObjectId": 173}
+{"Rok": "2020", "Typ": "Materské školy", "Okres": "Bratislava III", "Prepočítaný_počet": "293.7", "Pedagogickí_zamestnanci": "207.6", "Odborní_zamestnanci": "0", "ObjectId": 174}
+{"Rok": "2020", "Typ": "Materské školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "427.5", "Pedagogickí_zamestnanci": "325", "Odborní_zamestnanci": "5", "ObjectId": 175}
+{"Rok": "2020", "Typ": "Materské školy", "Okres": "Bratislava V", "Prepočítaný_počet": "466.3", "Pedagogickí_zamestnanci": "353.1", "Odborní_zamestnanci": "0", "ObjectId": 176}
+{"Rok": "2020", "Typ": "Základné školy", "Okres": "Bratislava I", "Prepočítaný_počet": "683.8", "Pedagogickí_zamestnanci": "536.1", "Odborní_zamestnanci": "13.6", "ObjectId": 177}
+{"Rok": "2020", "Typ": "Základné školy", "Okres": "Bratislava II", "Prepočítaný_počet": "829.2", "Pedagogickí_zamestnanci": "637.4", "Odborní_zamestnanci": "24", "ObjectId": 178}
+{"Rok": "2020", "Typ": "Základné školy", "Okres": "Bratislava III", "Prepočítaný_počet": "469.4", "Pedagogickí_zamestnanci": "274.6", "Odborní_zamestnanci": "11.1", "ObjectId": 179}
+{"Rok": "2020", "Typ": "Základné školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "692.4", "Pedagogickí_zamestnanci": "527.8", "Odborní_zamestnanci": "8.3", "ObjectId": 180}
+{"Rok": "2020", "Typ": "Základné školy", "Okres": "Bratislava V", "Prepočítaný_počet": "687.6", "Pedagogickí_zamestnanci": "518.9", "Odborní_zamestnanci": "28.5", "ObjectId": 181}
+{"Rok": "2020", "Typ": "Gymnáziá", "Okres": "Bratislava I", "Prepočítaný_počet": "253.7", "Pedagogickí_zamestnanci": "201.6", "Odborní_zamestnanci": "0.5", "ObjectId": 182}
+{"Rok": "2020", "Typ": "Gymnáziá", "Okres": "Bratislava II", "Prepočítaný_počet": "673.9", "Pedagogickí_zamestnanci": "515.3", "Odborní_zamestnanci": "3.3", "ObjectId": 183}
+{"Rok": "2020", "Typ": "Gymnáziá", "Okres": "Bratislava III", "Prepočítaný_počet": "446.8", "Pedagogickí_zamestnanci": "354.9", "Odborní_zamestnanci": "4.5", "ObjectId": 184}
+{"Rok": "2020", "Typ": "Gymnáziá", "Okres": "Bratislava IV", "Prepočítaný_počet": "37.4", "Pedagogickí_zamestnanci": "37.4", "Odborní_zamestnanci": "0", "ObjectId": 185}
+{"Rok": "2020", "Typ": "Gymnáziá", "Okres": "Bratislava V", "Prepočítaný_počet": "86.5", "Pedagogickí_zamestnanci": "74.6", "Odborní_zamestnanci": "1", "ObjectId": 186}
+{"Rok": "2020", "Typ": "Stredné športové školy", "Okres": "Bratislava I", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 187}
+{"Rok": "2020", "Typ": "Stredné športové školy", "Okres": "Bratislava II", "Prepočítaný_počet": "48.2", "Pedagogickí_zamestnanci": "36.4", "Odborní_zamestnanci": "0", "ObjectId": 188}
+{"Rok": "2020", "Typ": "Stredné športové školy", "Okres": "Bratislava III", "Prepočítaný_počet": "1", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 189}
+{"Rok": "2020", "Typ": "Stredné športové školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "11.8", "Pedagogickí_zamestnanci": "11", "Odborní_zamestnanci": "0", "ObjectId": 190}
+{"Rok": "2020", "Typ": "Stredné športové školy", "Okres": "Bratislava V", "Prepočítaný_počet": "17", "Pedagogickí_zamestnanci": "15", "Odborní_zamestnanci": "0", "ObjectId": 191}
+{"Rok": "2020", "Typ": "SOŠ", "Okres": "Bratislava I", "Prepočítaný_počet": "29", "Pedagogickí_zamestnanci": "17.5", "Odborní_zamestnanci": "1", "ObjectId": 192}
+{"Rok": "2020", "Typ": "SOŠ", "Okres": "Bratislava II", "Prepočítaný_počet": "1716.1", "Pedagogickí_zamestnanci": "1220.2", "Odborní_zamestnanci": "4", "ObjectId": 193}
+{"Rok": "2020", "Typ": "SOŠ", "Okres": "Bratislava III", "Prepočítaný_počet": "98.2", "Pedagogickí_zamestnanci": "75.4", "Odborní_zamestnanci": "0", "ObjectId": 194}
+{"Rok": "2020", "Typ": "SOŠ", "Okres": "Bratislava IV", "Prepočítaný_počet": "123.4", "Pedagogickí_zamestnanci": "96", "Odborní_zamestnanci": "0", "ObjectId": 195}
+{"Rok": "2020", "Typ": "SOŠ", "Okres": "Bratislava V", "Prepočítaný_počet": "4", "Pedagogickí_zamestnanci": "4", "Odborní_zamestnanci": "0", "ObjectId": 196}
+{"Rok": "2020", "Typ": "Konzervatóriá", "Okres": "Bratislava I", "Prepočítaný_počet": "53.4", "Pedagogickí_zamestnanci": "46.9", "Odborní_zamestnanci": "0.3", "ObjectId": 197}
+{"Rok": "2020", "Typ": "Konzervatóriá", "Okres": "Bratislava II", "Prepočítaný_počet": "226.8", "Pedagogickí_zamestnanci": "183.2", "Odborní_zamestnanci": "0", "ObjectId": 198}
+{"Rok": "2020", "Typ": "Konzervatóriá", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 199}
+{"Rok": "2020", "Typ": "Konzervatóriá", "Okres": "Bratislava IV", "Prepočítaný_počet": "7.7", "Pedagogickí_zamestnanci": "6.7", "Odborní_zamestnanci": "0", "ObjectId": 200}
+{"Rok": "2020", "Typ": "Konzervatóriá", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 201}
+{"Rok": "2020", "Typ": "Špeciálne školy", "Okres": "Bratislava I", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 202}
+{"Rok": "2020", "Typ": "Špeciálne školy", "Okres": "Bratislava II", "Prepočítaný_počet": "108.6", "Pedagogickí_zamestnanci": "82.6", "Odborní_zamestnanci": "10.4", "ObjectId": 203}
+{"Rok": "2020", "Typ": "Špeciálne školy", "Okres": "Bratislava III", "Prepočítaný_počet": "644.3", "Pedagogickí_zamestnanci": "519.3", "Odborní_zamestnanci": "5.4", "ObjectId": 204}
+{"Rok": "2020", "Typ": "Špeciálne školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 205}
+{"Rok": "2020", "Typ": "Špeciálne školy", "Okres": "Bratislava V", "Prepočítaný_počet": "10", "Pedagogickí_zamestnanci": "10", "Odborní_zamestnanci": "0", "ObjectId": 206}
+{"Rok": "2020", "Typ": "Základné umelecké školy", "Okres": "Bratislava I", "Prepočítaný_počet": "635.1", "Pedagogickí_zamestnanci": "561.7", "Odborní_zamestnanci": "0", "ObjectId": 207}
+{"Rok": "2020", "Typ": "Základné umelecké školy", "Okres": "Bratislava II", "Prepočítaný_počet": "52.4", "Pedagogickí_zamestnanci": "44.4", "Odborní_zamestnanci": "0", "ObjectId": 208}
+{"Rok": "2020", "Typ": "Základné umelecké školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 209}
+{"Rok": "2020", "Typ": "Základné umelecké školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "51.4", "Pedagogickí_zamestnanci": "42", "Odborní_zamestnanci": "0", "ObjectId": 210}
+{"Rok": "2020", "Typ": "Základné umelecké školy", "Okres": "Bratislava V", "Prepočítaný_počet": "48.6", "Pedagogickí_zamestnanci": "36.9", "Odborní_zamestnanci": "0", "ObjectId": 211}
+{"Rok": "2020", "Typ": "Centrá voľného času", "Okres": "Bratislava I", "Prepočítaný_počet": "59.2", "Pedagogickí_zamestnanci": "26.7", "Odborní_zamestnanci": "0", "ObjectId": 212}
+{"Rok": "2020", "Typ": "Centrá voľného času", "Okres": "Bratislava II", "Prepočítaný_počet": "8.2", "Pedagogickí_zamestnanci": "2.2", "Odborní_zamestnanci": "0", "ObjectId": 213}
+{"Rok": "2020", "Typ": "Centrá voľného času", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 214}
+{"Rok": "2020", "Typ": "Centrá voľného času", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 215}
+{"Rok": "2020", "Typ": "Centrá voľného času", "Okres": "Bratislava V", "Prepočítaný_počet": "3", "Pedagogickí_zamestnanci": "1.1", "Odborní_zamestnanci": "0", "ObjectId": 216}
+{"Rok": "2018", "Typ": "Konzervatóriá", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 217}
+{"Rok": "2018", "Typ": "Konzervatóriá", "Okres": "Bratislava IV", "Prepočítaný_počet": "8.8", "Pedagogickí_zamestnanci": "7.8", "Odborní_zamestnanci": "0", "ObjectId": 218}
+{"Rok": "2018", "Typ": "Konzervatóriá", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 219}
+{"Rok": "2018", "Typ": "Špeciálne školy", "Okres": "Bratislava I", "Prepočítaný_počet": "658.6", "Pedagogickí_zamestnanci": "525.5", "Odborní_zamestnanci": "7.9", "ObjectId": 220}
+{"Rok": "2018", "Typ": "Špeciálne školy", "Okres": "Bratislava II", "Prepočítaný_počet": "88.7", "Pedagogickí_zamestnanci": "81.3", "Odborní_zamestnanci": "1.4", "ObjectId": 221}
+{"Rok": "2018", "Typ": "Špeciálne školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 222}
+{"Rok": "2018", "Typ": "Špeciálne školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 223}
+{"Rok": "2018", "Typ": "Špeciálne školy", "Okres": "Bratislava V", "Prepočítaný_počet": "8", "Pedagogickí_zamestnanci": "8", "Odborní_zamestnanci": "0", "ObjectId": 224}
+{"Rok": "2018", "Typ": "Základné umelecké školy", "Okres": "Bratislava I", "Prepočítaný_počet": "610.1", "Pedagogickí_zamestnanci": "537.4", "Odborní_zamestnanci": "0", "ObjectId": 225}
+{"Rok": "2018", "Typ": "Základné umelecké školy", "Okres": "Bratislava II", "Prepočítaný_počet": "57.5", "Pedagogickí_zamestnanci": "50.7", "Odborní_zamestnanci": "0", "ObjectId": 226}
+{"Rok": "2018", "Typ": "Základné umelecké školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 227}
+{"Rok": "2018", "Typ": "Základné umelecké školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "58.4", "Pedagogickí_zamestnanci": "43.4", "Odborní_zamestnanci": "0", "ObjectId": 228}
+{"Rok": "2018", "Typ": "Základné umelecké školy", "Okres": "Bratislava V", "Prepočítaný_počet": "48.8", "Pedagogickí_zamestnanci": "36.1", "Odborní_zamestnanci": "0", "ObjectId": 229}
+{"Rok": "2018", "Typ": "Centrá voľného času", "Okres": "Bratislava I", "Prepočítaný_počet": "54.6", "Pedagogickí_zamestnanci": "24.8", "Odborní_zamestnanci": "0", "ObjectId": 230}
+{"Rok": "2018", "Typ": "Centrá voľného času", "Okres": "Bratislava II", "Prepočítaný_počet": "9.2", "Pedagogickí_zamestnanci": "3.2", "Odborní_zamestnanci": "0", "ObjectId": 231}
+{"Rok": "2018", "Typ": "Centrá voľného času", "Okres": "Bratislava III", "Prepočítaný_počet": "4.2", "Pedagogickí_zamestnanci": "4.2", "Odborní_zamestnanci": "0", "ObjectId": 232}
+{"Rok": "2018", "Typ": "Centrá voľného času", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 233}
+{"Rok": "2018", "Typ": "Centrá voľného času", "Okres": "Bratislava V", "Prepočítaný_počet": "3.4", "Pedagogickí_zamestnanci": "1.5", "Odborní_zamestnanci": "0", "ObjectId": 234}
+{"Rok": "2019", "Typ": "Materské školy", "Okres": "Bratislava I", "Prepočítaný_počet": "325.2", "Pedagogickí_zamestnanci": "257.8", "Odborní_zamestnanci": "2", "ObjectId": 235}
+{"Rok": "2019", "Typ": "Materské školy", "Okres": "Bratislava II", "Prepočítaný_počet": "522.1", "Pedagogickí_zamestnanci": "397.1", "Odborní_zamestnanci": "4", "ObjectId": 236}
+{"Rok": "2019", "Typ": "Materské školy", "Okres": "Bratislava III", "Prepočítaný_počet": "301.1", "Pedagogickí_zamestnanci": "213.1", "Odborní_zamestnanci": "0", "ObjectId": 237}
+{"Rok": "2019", "Typ": "Materské školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "429.2", "Pedagogickí_zamestnanci": "318.6", "Odborní_zamestnanci": "4", "ObjectId": 238}
+{"Rok": "2019", "Typ": "Materské školy", "Okres": "Bratislava V", "Prepočítaný_počet": "446", "Pedagogickí_zamestnanci": "338.6", "Odborní_zamestnanci": "0", "ObjectId": 239}
+{"Rok": "2019", "Typ": "Základné školy", "Okres": "Bratislava I", "Prepočítaný_počet": "667.4", "Pedagogickí_zamestnanci": "513.7", "Odborní_zamestnanci": "12.6", "ObjectId": 240}
+{"Rok": "2019", "Typ": "Základné školy", "Okres": "Bratislava II", "Prepočítaný_počet": "765.4", "Pedagogickí_zamestnanci": "583.9", "Odborní_zamestnanci": "25.9", "ObjectId": 241}
+{"Rok": "2019", "Typ": "Základné školy", "Okres": "Bratislava III", "Prepočítaný_počet": "441.4", "Pedagogickí_zamestnanci": "354.9", "Odborní_zamestnanci": "11.4", "ObjectId": 242}
+{"Rok": "2019", "Typ": "Základné školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "667.7", "Pedagogickí_zamestnanci": "506.5", "Odborní_zamestnanci": "10.8", "ObjectId": 243}
+{"Rok": "2019", "Typ": "Základné školy", "Okres": "Bratislava V", "Prepočítaný_počet": "649.3", "Pedagogickí_zamestnanci": "492.6", "Odborní_zamestnanci": "27.3", "ObjectId": 244}
+{"Rok": "2019", "Typ": "Gymnáziá", "Okres": "Bratislava I", "Prepočítaný_počet": "229.7", "Pedagogickí_zamestnanci": "191.9", "Odborní_zamestnanci": "0.5", "ObjectId": 245}
+{"Rok": "2019", "Typ": "Gymnáziá", "Okres": "Bratislava II", "Prepočítaný_počet": "652.3", "Pedagogickí_zamestnanci": "503.1", "Odborní_zamestnanci": "3", "ObjectId": 246}
+{"Rok": "2019", "Typ": "Gymnáziá", "Okres": "Bratislava III", "Prepočítaný_počet": "442.1", "Pedagogickí_zamestnanci": "348.6", "Odborní_zamestnanci": "4.5", "ObjectId": 247}
+{"Rok": "2019", "Typ": "Gymnáziá", "Okres": "Bratislava IV", "Prepočítaný_počet": "37.9", "Pedagogickí_zamestnanci": "37.9", "Odborní_zamestnanci": "0", "ObjectId": 248}
+{"Rok": "2019", "Typ": "Gymnáziá", "Okres": "Bratislava V", "Prepočítaný_počet": "84.8", "Pedagogickí_zamestnanci": "73.1", "Odborní_zamestnanci": "0.6", "ObjectId": 249}
+{"Rok": "2019", "Typ": "Stredné športové školy", "Okres": "Bratislava I", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 250}
+{"Rok": "2019", "Typ": "Stredné športové školy", "Okres": "Bratislava II", "Prepočítaný_počet": "50.7", "Pedagogickí_zamestnanci": "38.7", "Odborní_zamestnanci": "0", "ObjectId": 251}
+{"Rok": "2019", "Typ": "Stredné športové školy", "Okres": "Bratislava III", "Prepočítaný_počet": "0.9", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 252}
+{"Rok": "2019", "Typ": "Stredné športové školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "10.5", "Pedagogickí_zamestnanci": "9.5", "Odborní_zamestnanci": "0", "ObjectId": 253}
+{"Rok": "2019", "Typ": "Stredné športové školy", "Okres": "Bratislava V", "Prepočítaný_počet": "17", "Pedagogickí_zamestnanci": "15", "Odborní_zamestnanci": "0", "ObjectId": 254}
+{"Rok": "2019", "Typ": "SOŠ", "Okres": "Bratislava I", "Prepočítaný_počet": "28.2", "Pedagogickí_zamestnanci": "15.1", "Odborní_zamestnanci": "1", "ObjectId": 255}
+{"Rok": "2019", "Typ": "SOŠ", "Okres": "Bratislava II", "Prepočítaný_počet": "1683.6", "Pedagogickí_zamestnanci": "1200", "Odborní_zamestnanci": "2.9", "ObjectId": 256}
+{"Rok": "2019", "Typ": "SOŠ", "Okres": "Bratislava III", "Prepočítaný_počet": "96.8", "Pedagogickí_zamestnanci": "75.4", "Odborní_zamestnanci": "0", "ObjectId": 257}
+{"Rok": "2019", "Typ": "SOŠ", "Okres": "Bratislava IV", "Prepočítaný_počet": "107.8", "Pedagogickí_zamestnanci": "82.2", "Odborní_zamestnanci": "0", "ObjectId": 258}
+{"Rok": "2019", "Typ": "SOŠ", "Okres": "Bratislava V", "Prepočítaný_počet": "4", "Pedagogickí_zamestnanci": "4", "Odborní_zamestnanci": "0", "ObjectId": 259}
+{"Rok": "2019", "Typ": "Konzervatóriá", "Okres": "Bratislava I", "Prepočítaný_počet": "53.8", "Pedagogickí_zamestnanci": "43.6", "Odborní_zamestnanci": "0.5", "ObjectId": 260}
+{"Rok": "2019", "Typ": "Konzervatóriá", "Okres": "Bratislava II", "Prepočítaný_počet": "228.7", "Pedagogickí_zamestnanci": "187.2", "Odborní_zamestnanci": "0", "ObjectId": 261}
+{"Rok": "2019", "Typ": "Konzervatóriá", "Okres": "Bratislava III", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 262}
+{"Rok": "2019", "Typ": "Konzervatóriá", "Okres": "Bratislava IV", "Prepočítaný_počet": "8.9", "Pedagogickí_zamestnanci": "7.9", "Odborní_zamestnanci": "0", "ObjectId": 263}
+{"Rok": "2019", "Typ": "Konzervatóriá", "Okres": "Bratislava V", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 264}
+{"Rok": "2019", "Typ": "Špeciálne školy", "Okres": "Bratislava I", "Prepočítaný_počet": "3.8", "Pedagogickí_zamestnanci": "3", "Odborní_zamestnanci": "0", "ObjectId": 265}
+{"Rok": "2019", "Typ": "Špeciálne školy", "Okres": "Bratislava II", "Prepočítaný_počet": "88", "Pedagogickí_zamestnanci": "71", "Odborní_zamestnanci": "10", "ObjectId": 266}
+{"Rok": "2019", "Typ": "Špeciálne školy", "Okres": "Bratislava III", "Prepočítaný_počet": "655.9", "Pedagogickí_zamestnanci": "524.4", "Odborní_zamestnanci": "8.6", "ObjectId": 267}
+{"Rok": "2019", "Typ": "Špeciálne školy", "Okres": "Bratislava IV", "Prepočítaný_počet": "0", "Pedagogickí_zamestnanci": "0", "Odborní_zamestnanci": "0", "ObjectId": 268}
+{"Rok": "2019", "Typ": "Špeciálne školy", "Okres": "Bratislava V", "Prepočítaný_počet": "8", "Pedagogickí_zamestnanci": "8", "Odborní_zamestnanci": "0", "ObjectId": 269}
+{"Rok": "2019", "Typ": "Základné umelecké školy", "Okres": "Bratislava I", "Prepočítaný_počet": "615.6", "Pedagogickí_zamestnanci": "544.9", "Odborní_zamestnanci": "0", "ObjectId": 270}
