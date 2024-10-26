@@ -3,6 +3,7 @@ import json
 import re
 import requests
 import pandas as pd
+import contextlib
 
 from fastapi import FastAPI, status, HTTPException
 from fastapi.responses import StreamingResponse
@@ -103,9 +104,9 @@ async def post_generate_answer(
         body, limit=limit
     )
 
-    rag_content = "\n".join([' '.join([rag_obj.title, rag_obj.description])  for rag_obj in rag_objects])
-    rag_sources = list(chain(*[rag_obj.source for rag_obj in rag_objects]))
-
+    rag_content = "\n------------------------------\n".join([' '.join([rag_obj.title, rag_obj.description])  for rag_obj in rag_objects])
+    rag_sources = [rag_obj.source for rag_obj in rag_objects]
+    print(rag_content)
     user_prompt = f"You are given this query: {body.model_dump().get("prompt")}. Additional information that you must use to answer the query are provided here: {rag_content}"
 
     llm_response = await ollama_async_client.generate(
@@ -114,23 +115,30 @@ async def post_generate_answer(
 
     print(f"llm_res: {llm_response["response"]}")
 
-    if "action" in llm_response["response"]:
+    if "action" in llm_response["response"].lower():
         # Extract parameters for aggregation
-        match = re.search(pattern_json, llm_response["response"], re.DOTALL)
-        if match:
-            json_str = match.group()
-            json_data = json.loads(json_str)
-            response_ = await process_data_with_pandas(rag_objects, user_prompt, json_data)
-            return _RAGResponseBody(
-                llm_answer="Action:" + response_, sources=list(set(rag_sources))
-            )
-        else:
-            print("No valid JSON found in the response.")
-            return _RAGResponseBody(
-                llm_answer="No valid JSON found in the response", sources=list(set(rag_sources))
-            )
+        _llm_response = llm_response
+        for _ in range(5):
+            try:
+                match = re.search(pattern_json, _llm_response["response"], re.DOTALL)
+                json_str = match.group()
+                json_data = json.loads(json_str)
+                response_, source_ = await process_data_with_pandas(rag_objects, user_prompt, json_data)
+                return _RAGResponseBody(
+                    llm_answer="Action:" + response_, sources=[source_]
+                )
+            except Exception:        
+                _llm_response = await ollama_async_client.generate(
+                    model=model, prompt=user_prompt, system=system_prompt, stream=stream
+                )
+                print("\nretry\n")
+                continue
 
-    return _RAGResponseBody(
+        return _RAGResponseBody(
+            llm_answer="No valid JSON found in the response", sources=["no source"]
+        )
+    else:
+        return _RAGResponseBody(
             llm_answer=llm_response["response"], sources=list(set(rag_sources))
         )
 
@@ -157,12 +165,16 @@ async def root():
 
 
 async def process_data_with_pandas(rag_objects, prompt, json_data) -> dict:
+    print('\n IM IN \n')
     titles = [rag_object.title for rag_object in rag_objects]
-    user_prompt_tables = f"Which table is most relevant for query: {prompt}. Table names: {titles}. Return just title of table you recommend no other text."
+    user_prompt_tables = f"You are given titles of tables separated by ',': {titles}. Which table title is most relevant for query: {prompt}. Return just title of table you recommend no other text. Do not add any toher characters or symbols. Be exact."
     llm_response = await ollama_async_client.generate(
-        model="llama3.1", prompt=user_prompt_tables, stream=False
+        model="llama3.1", prompt=user_prompt_tables, stream=False, options={'temperature': 0.0, "num_ctx": 4024}
     )
-    table_name = llm_response["response"].replace('"', "")
+    table_name = llm_response["response"]
+    print(f"table_name: {table_name}")
+    print(f"titles: {titles}")
+
 
     table_url = None
     for i in rag_objects:
@@ -170,20 +182,17 @@ async def process_data_with_pandas(rag_objects, prompt, json_data) -> dict:
             table_url = i.table
             break
 
-    def process_data_with_pandas(table_url, json_data) -> dict:
+    def _process_data_with_pandas(table_url, json_data) -> dict:
         print(f"table: {table_url}")
         print(f"json_data: {json_data}")
-        try:
-            table_json = requests.get("https://services8.arcgis.com/pRlN1m0su5BYaFAS/ArcGIS/rest/services/Emisie_z%C3%A1kladn%C3%BDch_zne%C4%8Dis%C5%A5uj%C3%BAcich_l%C3%A1tok_pod%C4%BEa_monitorovac%C3%ADch_stan%C3%ADc_od_roku_2017/FeatureServer/0/query?where=1%3D1&outFields=*&returnGeometry=false&outSR=&f=json")
-            rows = [row.get('attributes') for row in table_json.json().get('features')]
-        
-            df = pd.json_normalize(rows)
-            df["Hodnota"] = pd.to_numeric(df["Hodnota"], errors='coerce').astype(float)
-            print(f"{df}")
-            df_filtered = df[df["Látka"] == "CO**"]
-        except Exception as e:
-            print(f'No features in {e}')
-            return None
+        table_json = requests.get(table_url)
+        rows = [row.get('attributes') for row in table_json.json().get('features')]
+    
+        df = pd.json_normalize(rows)
+        df["Hodnota"] = pd.to_numeric(df["Hodnota"], errors='coerce').astype(float)
+        print(f"{df}")
+        df_filtered = df[df["Látka"] == "CO**"]
+
 
         if json_data["action"] == "min":
             result_row = df_filtered.loc[df_filtered["Hodnota"].idxmin()]
@@ -198,19 +207,19 @@ async def process_data_with_pandas(rag_objects, prompt, json_data) -> dict:
             "value": result_row["Hodnota"]
         }
 
-    ret_val = process_data_with_pandas(table_url, json_data)
+    ret_val = _process_data_with_pandas(table_url, json_data)
 
     print(f"ret_val: {ret_val}")
 
     question_prompt = f"""
     Question was: {prompt}
     The response that needs to be summarized is in the json. Please, transfer it to one
-    answer as a continuous text.
+    answer as a continuous text. Limit answer to 10 words.
     Response: {ret_val}
     """
     second_iteration_prompt = """
     You are an intelligent assistant. Summarize the response as an answer that will
-    be shown to the end user.
+    be shown to the end user. Always limit answer to 10 words.
     """
     
     response = await post_generate_answer(
@@ -220,4 +229,4 @@ async def process_data_with_pandas(rag_objects, prompt, json_data) -> dict:
         )
     )
     print(response)
-    return response.llm_answer
+    return response.llm_answer, table_url

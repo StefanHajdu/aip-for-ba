@@ -17,7 +17,7 @@ args = parser.parse_args()
 translate = args.translate
 path = args.path
 
-collection_name = "bratislava_data_100"
+collection_name = "bratislava_data_101"
 
 def ingest_to_weaviate(client: weaviate.WeaviateClient, data: list[DataObj]) -> Collection:
     try:
@@ -102,7 +102,7 @@ if __name__ == "__main__":
             texts_json_translated = translator.transform_to_eng(texts_json)
             
         with open(path+"_translated"+".json", 'w') as f:
-            json.dump(texts_json_translated, f)
+            json.dump(texts_json_translated, f, ensure_ascii=False) 
     else:
         with open(path+".json", "r") as f:
             texts_json_translated = json.load(f)
