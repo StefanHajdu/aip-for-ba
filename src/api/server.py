@@ -83,8 +83,8 @@ async def post_near_text(
         _WeaviateObjectsResponseBody(
             title=title if (title := obj.properties["title"]) else "no title",
             description=description if (description := obj.properties["description"]) else "no description",
-            source=source if (source := obj.properties["sources"]) else "no source",
-            table=table if (table := obj.properties["table"]) else "no table",
+            source=source if (source := obj.properties["source"]) else "no source",
+            table="no table",
         )
         for obj in response.objects
     ]
@@ -110,37 +110,14 @@ async def post_generate_answer(
     user_prompt = f"You are given this query: {body.model_dump().get("prompt")}. Additional information that you must use to answer the query are provided here: {rag_content}"
 
     llm_response = await ollama_async_client.generate(
-        model=model, prompt=user_prompt, system=system_prompt, stream=stream
+        model=model, prompt=user_prompt, stream=False
     )
 
     print(f"llm_res: {llm_response["response"]}")
 
-    if "action" in llm_response["response"].lower():
-        # Extract parameters for aggregation
-        _llm_response = llm_response
-        for _ in range(5):
-            try:
-                match = re.search(pattern_json, _llm_response["response"], re.DOTALL)
-                json_str = match.group()
-                json_data = json.loads(json_str)
-                response_, source_ = await process_data_with_pandas(rag_objects, user_prompt, json_data)
-                return _RAGResponseBody(
-                    llm_answer="Action:" + response_, sources=[source_]
-                )
-            except Exception:        
-                _llm_response = await ollama_async_client.generate(
-                    model=model, prompt=user_prompt, system=system_prompt, stream=stream
-                )
-                print("\nretry\n")
-                continue
-
-        return _RAGResponseBody(
-            llm_answer="No valid JSON found in the response", sources=["no source"]
-        )
-    else:
-        return _RAGResponseBody(
-            llm_answer=llm_response["response"], sources=list(set(rag_sources))
-        )
+    return _RAGResponseBody(
+        llm_answer=llm_response["response"], sources=list(set(rag_sources))
+    )
 
 
 

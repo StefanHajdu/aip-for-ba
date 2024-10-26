@@ -10,11 +10,12 @@
 
   $: prompt = "";
   $: answer = "";
+  $: sources = [];
   $: awaitingAnswer = false;
   $: chatBubbles = [
-    { id: 1, role: "bot", text: "Welcome from bot!" },
+    { id: 1, role: "bot", text: "Welcome from bot!", sources: ["https://www.example.org/"] },
     { id: 2, role: "user", text: "User Q" },
-    { id: 3, role: "bot", text: "Bot A" },
+    { id: 3, role: "bot", text: "Bot A", sources: ["https://www.example.org/"] },
   ];
   $: numOfchatBubbles = chatBubbles.length;
 
@@ -29,9 +30,10 @@
     chatBubbles = [
       ...chatBubbles,
       { id: numOfchatBubbles + 1, role: "user", text: prompt },
-      { id: numOfchatBubbles + 2, role: "bot", text: answer },
+      { id: numOfchatBubbles + 2, role: "bot", text: answer, sources: sources },
     ];
     answer = "";
+    sources = [];
     prompt = "";
     awaitingAnswer = false;
   }
@@ -87,9 +89,10 @@
 
     if (response && response.body) {
       const responseJSON = await response.json();
-      answer = responseJSON.llm_answer + responseJSON.sources.toString();
+      answer = responseJSON.llm_answer;
+      sources = responseJSON.sources;
     } else {
-      answer = "Invalid answer!";
+      answer = "Invalid answer";
     }
   }
 </script>
@@ -100,7 +103,7 @@
   {#if !awaitingAnswer}
     {#each chatBubbles as chatBubble}
       {#if chatBubble.role === "bot"}
-        <BotA answer={chatBubble.text} />
+        <BotA answer={chatBubble.text} sources={chatBubble.sources} />
       {:else if chatBubble.role === "user"}
         <UserQ question={chatBubble.text} />
       {/if}
@@ -108,13 +111,13 @@
   {:else}
     {#each chatBubbles as chatBubble}
       {#if chatBubble.role === "bot"}
-        <BotA answer={chatBubble.text} />
+        <BotA answer={chatBubble.text} sources={chatBubble.sources} />
       {:else if chatBubble.role === "user"}
         <UserQ question={chatBubble.text} />
       {/if}
     {/each}
     <UserQ question={prompt} />
-    <BotA {answer} />
+    <BotA answer={answer} sources={["https://bratislava.sk/vyhladavanie?keyword=266"]} />
   {/if}
 </div>
 

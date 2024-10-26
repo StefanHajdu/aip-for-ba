@@ -17,7 +17,7 @@ args = parser.parse_args()
 translate = args.translate
 path = args.path
 
-collection_name = "bratislava_data_101"
+collection_name = "bratislava_pages_006"
 
 def ingest_to_weaviate(client: weaviate.WeaviateClient, data: list[DataObj]) -> Collection:
     try:
@@ -41,16 +41,6 @@ def ingest_to_weaviate(client: weaviate.WeaviateClient, data: list[DataObj]) -> 
                 # disabled indexing for source urls
                 Property(
                     name="sources",
-                    data_type=DataType.TEXT,
-                    vectorize_property_name=False,
-                    skip_vectorization=True,
-                    index_filterable=False,
-                    index_range_filters=False,
-                    index_searchable=False,
-                ),
-                # disabled indexing for table urls
-                Property(
-                    name="table",
                     data_type=DataType.TEXT,
                     vectorize_property_name=False,
                     skip_vectorization=True,

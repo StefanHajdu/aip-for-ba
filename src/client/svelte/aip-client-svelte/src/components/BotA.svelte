@@ -1,5 +1,10 @@
 <script lang="ts">
   export let answer;
+  export let sources;
+
+  sources = (!sources) ? [] : sources
+
+  console.log(sources)
 </script>
 
 <div class="grid gap-4">
@@ -18,6 +23,9 @@
       <p class="py-2.5 text-sm font-normal text-gray-900 dark:text-white">
         {answer}
       </p>
+      {#each sources as src, i}
+        <a href={src} rel="discussion" title={src} accesskey="t"><span>reference: {i}</span></a>
+      {/each}
     </div>
   </div>
 </div>

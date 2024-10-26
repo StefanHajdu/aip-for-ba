@@ -11,10 +11,11 @@ class Translator:
         self.system = "You are translator, that accepts Slovak language and return same content translated to English. Retrun just translation, do not include any other information to your answer"
         self.prompt = "Translate from Slovak to English this text: {text}"
         self.ollama_kwargs = ollama_kwargs
-        self.translatables = ["title"]
+        self.translatables = ["title", "description"]
 
     def _translate_to_eng(self, data_obj: DataObj) -> DataObj:
         translated = {}
+        print(data_obj["title"])
         for key, value in data_obj.items():
             if key in self.translatables:
                 response = self.client.generate(
