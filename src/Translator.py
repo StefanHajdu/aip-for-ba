@@ -11,7 +11,7 @@ class Translator:
         self.system = "You are translator, that accepts Slovak language and return same content translated to English. Retrun just translation, do not include any other information to your answer"
         self.prompt = "Translate from Slovak to English this text: {text}"
         self.ollama_kwargs = ollama_kwargs
-        self.translatables = ["title", "paragraph"]
+        self.translatables = ["title"]
 
     def _translate_to_eng(self, data_obj: DataObj) -> DataObj:
         translated = {}
@@ -19,7 +19,7 @@ class Translator:
             if key in self.translatables:
                 response = self.client.generate(
                     model=self.model,
-                    prompt=self.prompt.format_map({"text": value}),
+                    prompt=self.prompt.format_map({"text": value.replace("_", " ")}),
                     system=self.system,
                     stream=False,
                 )

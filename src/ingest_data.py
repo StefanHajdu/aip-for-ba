@@ -8,7 +8,16 @@ from weaviate.util import generate_uuid5
 from Translator import Translator
 from custom_types import DataObj
 
-collection_name = "bratislava_articles_example"
+import argparse
+parser = argparse.ArgumentParser()
+parser.add_argument("-t", "--translate", action='store_true')
+parser.add_argument("-p", "--path")
+
+args = parser.parse_args()
+translate = args.translate
+path = args.path
+
+collection_name = "bratislava_data_100"
 
 def ingest_to_weaviate(client: weaviate.WeaviateClient, data: list[DataObj]) -> Collection:
     try:
@@ -23,7 +32,7 @@ def ingest_to_weaviate(client: weaviate.WeaviateClient, data: list[DataObj]) -> 
                     index_searchable=True,
                 ),
                 Property(
-                    name="paragraph",
+                    name="description",
                     data_type=DataType.TEXT,
                     vectorize_property_name=False,
                     tokenization=Tokenization.WORD,
@@ -32,7 +41,17 @@ def ingest_to_weaviate(client: weaviate.WeaviateClient, data: list[DataObj]) -> 
                 # disabled indexing for source urls
                 Property(
                     name="sources",
-                    data_type=DataType.TEXT_ARRAY,
+                    data_type=DataType.TEXT,
+                    vectorize_property_name=False,
+                    skip_vectorization=True,
+                    index_filterable=False,
+                    index_range_filters=False,
+                    index_searchable=False,
+                ),
+                # disabled indexing for table urls
+                Property(
+                    name="table",
+                    data_type=DataType.TEXT,
                     vectorize_property_name=False,
                     skip_vectorization=True,
                     index_filterable=False,
@@ -58,9 +77,10 @@ def ingest_to_weaviate(client: weaviate.WeaviateClient, data: list[DataObj]) -> 
             ),
         )
         with created_collection.batch.dynamic() as batch:
-            for data_obj in data:
-                try:
-                     batch.add_object(
+            for idx, data_obj in enumerate(data):
+                print(f"{idx} ingested")
+                try: 
+                    batch.add_object(
                         properties=data_obj,
                         uuid=generate_uuid5(data_obj)
                     )
@@ -75,11 +95,18 @@ def ingest_to_weaviate(client: weaviate.WeaviateClient, data: list[DataObj]) -> 
         return client.collections.get(collection_name)
 
 if __name__ == "__main__":
-    with open("src/index/data/ingest_data_example.json") as f:
-        texts_json = json.load(f)
+    translator = Translator()
+    if translate:
+        with open(path+".json", "r") as f:
+            texts_json = json.load(f)
+            texts_json_translated = translator.transform_to_eng(texts_json)
+            
+        with open(path+"_translated"+".json", 'w') as f:
+            json.dump(texts_json_translated, f)
+    else:
+        with open(path+".json", "r") as f:
+            texts_json_translated = json.load(f)
 
-    translator = Translator(stream=False)
-    texts_json_translated = translator.transform_to_eng(texts_json)
     print(f"{len(texts_json_translated)} samples ready to ingest")
 
     weaviate_client = weaviate.connect_to_local()
