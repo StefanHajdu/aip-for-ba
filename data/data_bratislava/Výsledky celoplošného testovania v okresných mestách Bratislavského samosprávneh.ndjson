@@ -1,0 +1,4 @@
+{"Mesto": "Bratislava", "Počet_testovaných": "186786", "Počet_pozitívnych": "1507", "Percento_pozitívnych": "0.81", "ObjectId": 1}
+{"Mesto": "Malacky", "Počet_testovaných": "13154", "Počet_pozitívnych": "134", "Percento_pozitívnych": "1.02", "ObjectId": 2}
+{"Mesto": "Pezinok", "Počet_testovaných": "14668", "Počet_pozitívnych": "206", "Percento_pozitívnych": "1.40", "ObjectId": 3}
+{"Mesto": "Senec", "Počet_testovaných": "10577", "Počet_pozitívnych": "192", "Percento_pozitívnych": "1.82", "ObjectId": 4}

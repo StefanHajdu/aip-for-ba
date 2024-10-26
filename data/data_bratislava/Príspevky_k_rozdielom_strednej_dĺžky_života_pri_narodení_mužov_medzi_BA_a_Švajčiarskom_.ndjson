@@ -1,0 +1,10 @@
+{"TYP_PRISPEVKU": "príspevok (roky)", "VEK": "0 – 19", "PRISPEVOK": null, "ObjectId": 1}
+{"TYP_PRISPEVKU": "príspevok (v %)", "VEK": "0 – 19", "PRISPEVOK": null, "ObjectId": 2}
+{"TYP_PRISPEVKU": "príspevok (roky)", "VEK": "20 – 49", "PRISPEVOK": null, "ObjectId": 3}
+{"TYP_PRISPEVKU": "príspevok (v %)", "VEK": "20 – 49", "PRISPEVOK": null, "ObjectId": 4}
+{"TYP_PRISPEVKU": "príspevok (roky)", "VEK": "50 – 64", "PRISPEVOK": null, "ObjectId": 5}
+{"TYP_PRISPEVKU": "príspevok (v %)", "VEK": "50 – 64", "PRISPEVOK": null, "ObjectId": 6}
+{"TYP_PRISPEVKU": "príspevok (roky)", "VEK": "65 – 84", "PRISPEVOK": null, "ObjectId": 7}
+{"TYP_PRISPEVKU": "príspevok (v %)", "VEK": "65 – 84", "PRISPEVOK": null, "ObjectId": 8}
+{"TYP_PRISPEVKU": "príspevok (roky)", "VEK": "85+", "PRISPEVOK": null, "ObjectId": 9}
+{"TYP_PRISPEVKU": "príspevok (v %)", "VEK": "85+", "PRISPEVOK": null, "ObjectId": 10}

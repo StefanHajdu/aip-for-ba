@@ -1,0 +1,215 @@
+<html lang="en">
+<head>
+  <title>Create Replica : (DEMOEuroveaAGOL)</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">Home</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">services</a> </span>> <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/DEMOEuroveaAGOL/FeatureServer">DEMOEuroveaAGOL (FeatureServer)</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/DEMOEuroveaAGOL/FeatureServer/createReplica"><i>createReplica</i></a> </td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div class='restHeader'>
+<h2>Create Replica : (DEMOEuroveaAGOL)</h2>
+</div>
+<div class='restBody'>
+<i>
+Note: This operation is only supported via POST
+</i>
+<form method='post'>
+<table class='formTable'>
+<tr>
+<td>
+Replica Name:
+</td>
+<td>
+<input type="text" name="replicaName" value="" size="25" />
+</td>
+</tr>
+<tr>
+<td>
+Layers:
+</td>
+<td>
+<input type="text" name="layers" value="" size="75" />
+</td>
+</tr>
+<tr>
+<td>LayerQueries:</td>
+<td><textarea name='layerQueries' rows='5' cols='55' ></textarea></td>
+</tr>
+<tr>
+<td>Geometry:</td>
+<td><textarea name='geometry' rows='5' cols='55' ></textarea></td>
+</tr>
+<tr>
+<td>Geometry Type:</td>
+<td>
+<select name="geometryType">
+<option value="esriGeometryEnvelope" selected='true'>Envelope</option>
+<option value="esriGeometryPoint">Point</option>
+<option value="esriGeometryPolyline">Polyline</option>
+<option value="esriGeometryPolygon">Polygon</option>
+<option value="esriGeometryMultipoint">Multipoint</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+Input Spatial Reference:
+</td>
+<td>
+<input type="text" name="inSR" value="" size="75" />
+</td>
+</tr>
+<tr>
+<td>
+Replica Spatial Reference:
+</td>
+<td>
+<input type="text" name="replicaSR" value="" size="75" />
+</td>
+</tr>
+<tr>
+<td>
+Datum Transformation:
+</td>
+<td>
+<input type="text" name="datumTransformation" value="" size="75" />
+</td>
+</tr>
+<tr>
+<td>Transport Type:</td>
+<td>
+<select name="transportType">
+<option value="esriTransportTypeUrl" selected='true'>Url</option>
+<option value="esriTransportTypeEmbedded" >Embedded</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>Return Attachments:</td>
+<td>
+<input type="radio" name="returnAttachments" value="true"/>True&nbsp;
+<input type="radio" name="returnAttachments" value="false" checked='true'/>False</td>
+</tr>
+<tr>
+<td>Return Attachments Data By Url:</td>
+<td>
+<input type="radio" name="returnAttachmentsDataByUrl" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="returnAttachmentsDataByUrl" value="false"/>False</td>
+</tr>
+<tr>
+<td>Create Replica Asynchronously:</td>
+<td>
+<input type="radio" name="async" value="true"/>True&nbsp;
+<input type="radio" name="async" value="false" checked='true'/>False</td>
+</tr>
+<tr>
+<td>Sync Model:</td>
+<td>
+<select name="syncModel">
+<option value="perReplica" >perReplica</option>
+<option value="perLayer" selected='true'>perLayer</option>
+<option value="none" >none</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>Target Type:</td>
+<td>
+<select name="targetType">
+<option value="client" selected='true'>Client</option>
+<option value="server" >Server</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>Sync Direction:</td>
+<td>
+<select name="syncDirection">
+<option value="bidirectional" >bidirectional</option>
+<option value="upload" >upload</option>
+<option value="download" >download</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>Attachments Sync Direction:</td>
+<td>
+<select name="attachmentsSyncDirection">
+<option value="bidirectional" >bidirectional</option>
+<option value="none" selected='true'>none</option>
+<option value="upload" >upload</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>Replica Options:</td>
+<td><textarea name='replicaOptions' rows='5' cols='55' ></textarea></td>
+</tr>
+<tr>
+<td>Data Format:</td>
+<td>
+<select name="dataFormat">
+<option value="sqlite" >SQLITE</option>
+<option value="geoPackage" >GeoPackage</option>
+<option value="filegdb" >FILEGDB</option>
+<option value="shapefile" >SHAPEFILE</option>
+<option value="csv" >CSV</option>
+<option value="json" selected='true'>JSON</option>
+<option value="geojson" >GEOJSON</option>
+<option value="kml" >KML</option>
+<option value="excel" >EXCEL</option>
+<option value="featureCollection" >FEATURECOLLECTION</option>
+</select>
+</td>
+</tr>
+<tr id="formatComboRow">
+<td>Format: </td>
+<td>
+<select name="f">
+<option value="html" selected='true'>HTML</option>
+<option value="pjson">JSON</option>
+</select>
+</td>
+</tr>
+<tr><td colspan='2' align='left'>
+<input type='submit' value='Create Replica' />
+</td></tr>
+</table>
+<input type="hidden" id="token" name="token" value="" />
+</form>
+<script>
+function removeElement(id) {
+element = document.getElementById(id);
+if (element != null) {
+element.parentNode.removeChild(element);
+}}
+if ( window.location !== window.parent.location ){
+removeElement('homeBreadcrumbs');
+removeElement('servicesBreadcrumb');
+removeElement('viewInSection');
+jsonLinkTable = document.getElementById('jsonLinkTable'); 
+if (jsonLinkTable != null) {
+jsonLinkTable.innerHTML = '<table><tr><td class="apiref"><a href="?f=pjson&token=" target="_self">JSON</a></td></tr></table>'; 
+}
+removeElement('userTable');
+}
+</script>
+</div>
+</body>
+</html>

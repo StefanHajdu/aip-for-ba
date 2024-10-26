@@ -1,0 +1,108 @@
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Čunovo", "PODIEL": "0", "ObjectId": 1}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Čunovo", "PODIEL": "10,6", "ObjectId": 2}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Čunovo", "PODIEL": "10,8", "ObjectId": 3}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Čunovo", "PODIEL": "30,6", "ObjectId": 4}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Čunovo", "PODIEL": "5,9", "ObjectId": 5}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Čunovo", "PODIEL": "42,2", "ObjectId": 6}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Devín", "PODIEL": "0,1", "ObjectId": 7}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Devín", "PODIEL": "8,4", "ObjectId": 8}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Devín", "PODIEL": "9,1", "ObjectId": 9}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Devín", "PODIEL": "26", "ObjectId": 10}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Devín", "PODIEL": "7,1", "ObjectId": 11}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Devín", "PODIEL": "49,4", "ObjectId": 12}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL": "0,1", "ObjectId": 13}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL": "8,8", "ObjectId": 14}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL": "12,4", "ObjectId": 15}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL": "30,6", "ObjectId": 16}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL": "7", "ObjectId": 17}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Devínska Nová Ves", "PODIEL": "41,1", "ObjectId": 18}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Dúbravka", "PODIEL": "0,1", "ObjectId": 19}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Dúbravka", "PODIEL": "8,3", "ObjectId": 20}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Dúbravka", "PODIEL": "10,7", "ObjectId": 21}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Dúbravka", "PODIEL": "29,9", "ObjectId": 22}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Dúbravka", "PODIEL": "6,5", "ObjectId": 23}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Dúbravka", "PODIEL": "44,5", "ObjectId": 24}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Jarovce", "PODIEL": "0,3", "ObjectId": 25}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Jarovce", "PODIEL": "11,4", "ObjectId": 26}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Jarovce", "PODIEL": "11,3", "ObjectId": 27}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Jarovce", "PODIEL": "26,4", "ObjectId": 28}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Jarovce", "PODIEL": "6,8", "ObjectId": 29}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Jarovce", "PODIEL": "43,8", "ObjectId": 30}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Karlova Ves", "PODIEL": "0,1", "ObjectId": 31}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Karlova Ves", "PODIEL": "6,3", "ObjectId": 32}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Karlova Ves", "PODIEL": "6,9", "ObjectId": 33}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Karlova Ves", "PODIEL": "26,8", "ObjectId": 34}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Karlova Ves", "PODIEL": "5,6", "ObjectId": 35}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Karlova Ves", "PODIEL": "54,3", "ObjectId": 36}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Lamač", "PODIEL": "0,2", "ObjectId": 37}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Lamač", "PODIEL": "6,6", "ObjectId": 38}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Lamač", "PODIEL": "8,5", "ObjectId": 39}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Lamač", "PODIEL": "29", "ObjectId": 40}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Lamač", "PODIEL": "6,7", "ObjectId": 41}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Lamač", "PODIEL": "48,9", "ObjectId": 42}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Nové Mesto", "PODIEL": "0,1", "ObjectId": 43}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Nové Mesto", "PODIEL": "7,1", "ObjectId": 44}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Nové Mesto", "PODIEL": "7,7", "ObjectId": 45}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Nové Mesto", "PODIEL": "24,6", "ObjectId": 46}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Nové Mesto", "PODIEL": "5,4", "ObjectId": 47}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Nové Mesto", "PODIEL": "55,1", "ObjectId": 48}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Petržalka", "PODIEL": "0,1", "ObjectId": 49}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Petržalka", "PODIEL": "7,9", "ObjectId": 50}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Petržalka", "PODIEL": "12,3", "ObjectId": 51}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Petržalka", "PODIEL": "30,3", "ObjectId": 52}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Petržalka", "PODIEL": "7,2", "ObjectId": 53}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Petržalka", "PODIEL": "42,2", "ObjectId": 54}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL": "0,3", "ObjectId": 55}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL": "12,4", "ObjectId": 56}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL": "14,9", "ObjectId": 57}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL": "33,3", "ObjectId": 58}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL": "7,2", "ObjectId": 59}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Podunajské Biskupice", "PODIEL": "31,9", "ObjectId": 60}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Rača", "PODIEL": "0,1", "ObjectId": 61}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Rača", "PODIEL": "8,6", "ObjectId": 62}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Rača", "PODIEL": "11,8", "ObjectId": 63}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Rača", "PODIEL": "30", "ObjectId": 64}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Rača", "PODIEL": "6,5", "ObjectId": 65}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Rača", "PODIEL": "43,1", "ObjectId": 66}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Rusovce", "PODIEL": "0,2", "ObjectId": 67}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Rusovce", "PODIEL": "12,7", "ObjectId": 68}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Rusovce", "PODIEL": "9,9", "ObjectId": 69}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Rusovce", "PODIEL": "24,9", "ObjectId": 70}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Rusovce", "PODIEL": "6,2", "ObjectId": 71}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Rusovce", "PODIEL": "46,2", "ObjectId": 72}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Ružinov", "PODIEL": "0,1", "ObjectId": 73}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Ružinov", "PODIEL": "7,7", "ObjectId": 74}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Ružinov", "PODIEL": "8,8", "ObjectId": 75}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Ružinov", "PODIEL": "27,1", "ObjectId": 76}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Ružinov", "PODIEL": "5,9", "ObjectId": 77}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Ružinov", "PODIEL": "50,5", "ObjectId": 78}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Staré Mesto", "PODIEL": "0", "ObjectId": 79}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Staré Mesto", "PODIEL": "5,8", "ObjectId": 80}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Staré Mesto", "PODIEL": "5,1", "ObjectId": 81}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Staré Mesto", "PODIEL": "21,1", "ObjectId": 82}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Staré Mesto", "PODIEL": "5,1", "ObjectId": 83}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Staré Mesto", "PODIEL": "62,9", "ObjectId": 84}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Vajnory", "PODIEL": "0,1", "ObjectId": 85}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Vajnory", "PODIEL": "9,8", "ObjectId": 86}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Vajnory", "PODIEL": "13,2", "ObjectId": 87}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Vajnory", "PODIEL": "32,7", "ObjectId": 88}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Vajnory", "PODIEL": "7,2", "ObjectId": 89}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Vajnory", "PODIEL": "37", "ObjectId": 90}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Vrakuňa", "PODIEL": "0,1", "ObjectId": 91}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Vrakuňa", "PODIEL": "11,2", "ObjectId": 92}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Vrakuňa", "PODIEL": "14,1", "ObjectId": 93}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Vrakuňa", "PODIEL": "32,3", "ObjectId": 94}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Vrakuňa", "PODIEL": "7,6", "ObjectId": 95}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Vrakuňa", "PODIEL": "34,6", "ObjectId": 96}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL": "0", "ObjectId": 97}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL": "8,6", "ObjectId": 98}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL": "8,8", "ObjectId": 99}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL": "24", "ObjectId": 100}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL": "5,4", "ObjectId": 101}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Záhorská Bystrica", "PODIEL": "53,2", "ObjectId": 102}
+{"VZDELANIE": "bez vzdelania", "MESTSKA_CAST": "Bratislava", "PODIEL": "0,1", "ObjectId": 103}
+{"VZDELANIE": "základná škola", "MESTSKA_CAST": "Bratislava", "PODIEL": "8", "ObjectId": 104}
+{"VZDELANIE": "stredná škola bez maturity", "MESTSKA_CAST": "Bratislava", "PODIEL": "10,1", "ObjectId": 105}
+{"VZDELANIE": "stredná škola s maturitou", "MESTSKA_CAST": "Bratislava", "PODIEL": "28,1", "ObjectId": 106}
+{"VZDELANIE": "vyššia odborná škola", "MESTSKA_CAST": "Bratislava", "PODIEL": "6,4", "ObjectId": 107}
+{"VZDELANIE": "vysoká škola", "MESTSKA_CAST": "Bratislava", "PODIEL": "47,3", "ObjectId": 108}

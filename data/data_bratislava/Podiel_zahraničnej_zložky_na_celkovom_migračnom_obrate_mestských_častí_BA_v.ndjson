@@ -1,0 +1,408 @@
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2000", "PODIEL": "7,15256", "ObjectId": 1}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2000", "PODIEL": "5,47397", "ObjectId": 2}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2000", "PODIEL": "6,10487", "ObjectId": 3}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2000", "PODIEL": "4,10448", "ObjectId": 4}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2000", "PODIEL": "5,22265", "ObjectId": 5}
+{"MESTSKA_CAST": "Rača", "ROK": "2000", "PODIEL": "3,80117", "ObjectId": 6}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2000", "PODIEL": "4,52261", "ObjectId": 7}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2000", "PODIEL": "4,97512", "ObjectId": 8}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2000", "PODIEL": "4,09639", "ObjectId": 9}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2000", "PODIEL": "6,13333", "ObjectId": 10}
+{"MESTSKA_CAST": "Devín", "ROK": "2000", "PODIEL": "8,92857", "ObjectId": 11}
+{"MESTSKA_CAST": "Lamač", "ROK": "2000", "PODIEL": "6,66667", "ObjectId": 12}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2000", "PODIEL": "3,00752", "ObjectId": 13}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2000", "PODIEL": "5,88235", "ObjectId": 14}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2000", "PODIEL": "3,84615", "ObjectId": 15}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2000", "PODIEL": "4,72886", "ObjectId": 16}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2000", "PODIEL": "2,73973", "ObjectId": 17}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2001", "PODIEL": "5,72195", "ObjectId": 18}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2001", "PODIEL": "4,49102", "ObjectId": 19}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2001", "PODIEL": "4,65199", "ObjectId": 20}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2001", "PODIEL": "4,02299", "ObjectId": 21}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2001", "PODIEL": "4,47174", "ObjectId": 22}
+{"MESTSKA_CAST": "Rača", "ROK": "2001", "PODIEL": "2,71186", "ObjectId": 23}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2001", "PODIEL": "1,80180", "ObjectId": 24}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2001", "PODIEL": "3,07692", "ObjectId": 25}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2001", "PODIEL": "5,18697", "ObjectId": 26}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2001", "PODIEL": "4,22713", "ObjectId": 27}
+{"MESTSKA_CAST": "Devín", "ROK": "2001", "PODIEL": "0,00000", "ObjectId": 28}
+{"MESTSKA_CAST": "Lamač", "ROK": "2001", "PODIEL": "4,16667", "ObjectId": 29}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2001", "PODIEL": "3,64964", "ObjectId": 30}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2001", "PODIEL": "0,00000", "ObjectId": 31}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2001", "PODIEL": "0,00000", "ObjectId": 32}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2001", "PODIEL": "3,16678", "ObjectId": 33}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2001", "PODIEL": "3,53982", "ObjectId": 34}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2002", "PODIEL": "5,34884", "ObjectId": 35}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2002", "PODIEL": "4,28241", "ObjectId": 36}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2002", "PODIEL": "5,34619", "ObjectId": 37}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2002", "PODIEL": "5,00000", "ObjectId": 38}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2002", "PODIEL": "5,05095", "ObjectId": 39}
+{"MESTSKA_CAST": "Rača", "ROK": "2002", "PODIEL": "5,79399", "ObjectId": 40}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2002", "PODIEL": "8,72727", "ObjectId": 41}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2002", "PODIEL": "2,86832", "ObjectId": 42}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2002", "PODIEL": "4,58716", "ObjectId": 43}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2002", "PODIEL": "6,38646", "ObjectId": 44}
+{"MESTSKA_CAST": "Devín", "ROK": "2002", "PODIEL": "2,53165", "ObjectId": 45}
+{"MESTSKA_CAST": "Lamač", "ROK": "2002", "PODIEL": "5,94901", "ObjectId": 46}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2002", "PODIEL": "4,94505", "ObjectId": 47}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2002", "PODIEL": "0,00000", "ObjectId": 48}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2002", "PODIEL": "2,77778", "ObjectId": 49}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2002", "PODIEL": "4,88277", "ObjectId": 50}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2005", "PODIEL": "5,27003", "ObjectId": 51}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2005", "PODIEL": "3,57143", "ObjectId": 52}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2006", "PODIEL": "12,75139", "ObjectId": 53}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2006", "PODIEL": "2,82443", "ObjectId": 54}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2006", "PODIEL": "5,49863", "ObjectId": 55}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2006", "PODIEL": "2,47748", "ObjectId": 56}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2006", "PODIEL": "5,12821", "ObjectId": 57}
+{"MESTSKA_CAST": "Rača", "ROK": "2006", "PODIEL": "4,23012", "ObjectId": 58}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2006", "PODIEL": "2,03390", "ObjectId": 59}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2006", "PODIEL": "3,94089", "ObjectId": 60}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2006", "PODIEL": "3,48897", "ObjectId": 61}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2006", "PODIEL": "6,14035", "ObjectId": 62}
+{"MESTSKA_CAST": "Devín", "ROK": "2006", "PODIEL": "1,57480", "ObjectId": 63}
+{"MESTSKA_CAST": "Lamač", "ROK": "2006", "PODIEL": "4,38799", "ObjectId": 64}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2006", "PODIEL": "5,58140", "ObjectId": 65}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2006", "PODIEL": "7,54717", "ObjectId": 66}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2006", "PODIEL": "0,00000", "ObjectId": 67}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2006", "PODIEL": "3,60161", "ObjectId": 68}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2006", "PODIEL": "5,08475", "ObjectId": 69}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2007", "PODIEL": "17,13043", "ObjectId": 70}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2007", "PODIEL": "3,97686", "ObjectId": 71}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2007", "PODIEL": "8,38678", "ObjectId": 72}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2007", "PODIEL": "4,19929", "ObjectId": 73}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2007", "PODIEL": "8,68972", "ObjectId": 74}
+{"MESTSKA_CAST": "Rača", "ROK": "2007", "PODIEL": "7,19352", "ObjectId": 75}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2007", "PODIEL": "9,35065", "ObjectId": 76}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2007", "PODIEL": "4,44444", "ObjectId": 77}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2007", "PODIEL": "4,16889", "ObjectId": 78}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2007", "PODIEL": "8,28729", "ObjectId": 79}
+{"MESTSKA_CAST": "Devín", "ROK": "2007", "PODIEL": "19,69697", "ObjectId": 80}
+{"MESTSKA_CAST": "Lamač", "ROK": "2007", "PODIEL": "4,19162", "ObjectId": 81}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2007", "PODIEL": "11,63793", "ObjectId": 82}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2007", "PODIEL": "28,12500", "ObjectId": 83}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2007", "PODIEL": "9,63855", "ObjectId": 84}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2007", "PODIEL": "4,77053", "ObjectId": 85}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2007", "PODIEL": "6,07477", "ObjectId": 86}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2008", "PODIEL": "18,93414", "ObjectId": 87}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2008", "PODIEL": "4,18956", "ObjectId": 88}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2008", "PODIEL": "9,37039", "ObjectId": 89}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2008", "PODIEL": "3,12273", "ObjectId": 90}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2008", "PODIEL": "9,61050", "ObjectId": 91}
+{"MESTSKA_CAST": "Rača", "ROK": "2008", "PODIEL": "9,77011", "ObjectId": 92}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2008", "PODIEL": "6,84211", "ObjectId": 93}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2008", "PODIEL": "5,94966", "ObjectId": 94}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2008", "PODIEL": "6,61080", "ObjectId": 95}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2008", "PODIEL": "9,88056", "ObjectId": 96}
+{"MESTSKA_CAST": "Devín", "ROK": "2008", "PODIEL": "23,21429", "ObjectId": 97}
+{"MESTSKA_CAST": "Lamač", "ROK": "2008", "PODIEL": "8,71795", "ObjectId": 98}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2008", "PODIEL": "9,92908", "ObjectId": 99}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2008", "PODIEL": "4,44444", "ObjectId": 100}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2011", "PODIEL": "2,70270", "ObjectId": 101}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2011", "PODIEL": "0,91743", "ObjectId": 102}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2011", "PODIEL": "4,63983", "ObjectId": 103}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2011", "PODIEL": "1,85185", "ObjectId": 104}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2012", "PODIEL": "9,20984", "ObjectId": 105}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2012", "PODIEL": "2,53807", "ObjectId": 106}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2012", "PODIEL": "5,95677", "ObjectId": 107}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2002", "PODIEL": "3,96040", "ObjectId": 108}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2012", "PODIEL": "2,12940", "ObjectId": 109}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2012", "PODIEL": "4,47298", "ObjectId": 110}
+{"MESTSKA_CAST": "Rača", "ROK": "2012", "PODIEL": "7,73241", "ObjectId": 111}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2012", "PODIEL": "1,03093", "ObjectId": 112}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2012", "PODIEL": "3,10263", "ObjectId": 113}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2012", "PODIEL": "4,37431", "ObjectId": 114}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2012", "PODIEL": "5,38510", "ObjectId": 115}
+{"MESTSKA_CAST": "Devín", "ROK": "2012", "PODIEL": "4,81928", "ObjectId": 116}
+{"MESTSKA_CAST": "Lamač", "ROK": "2012", "PODIEL": "4,42478", "ObjectId": 117}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2012", "PODIEL": "1,72911", "ObjectId": 118}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2012", "PODIEL": "1,58730", "ObjectId": 119}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2012", "PODIEL": "2,47934", "ObjectId": 120}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2012", "PODIEL": "4,83909", "ObjectId": 121}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2012", "PODIEL": "0,46729", "ObjectId": 122}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2013", "PODIEL": "4,93454", "ObjectId": 123}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2013", "PODIEL": "3,03738", "ObjectId": 124}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2013", "PODIEL": "4,57450", "ObjectId": 125}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2013", "PODIEL": "3,96367", "ObjectId": 126}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2013", "PODIEL": "3,38016", "ObjectId": 127}
+{"MESTSKA_CAST": "Rača", "ROK": "2013", "PODIEL": "3,62454", "ObjectId": 128}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2013", "PODIEL": "4,07524", "ObjectId": 129}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2013", "PODIEL": "0,95368", "ObjectId": 130}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2013", "PODIEL": "2,36814", "ObjectId": 131}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2013", "PODIEL": "3,06373", "ObjectId": 132}
+{"MESTSKA_CAST": "Devín", "ROK": "2013", "PODIEL": "4,54545", "ObjectId": 133}
+{"MESTSKA_CAST": "Lamač", "ROK": "2013", "PODIEL": "2,24439", "ObjectId": 134}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2013", "PODIEL": "3,04183", "ObjectId": 135}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2013", "PODIEL": "0,00000", "ObjectId": 136}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2013", "PODIEL": "0,56818", "ObjectId": 137}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2013", "PODIEL": "1,64377", "ObjectId": 138}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2013", "PODIEL": "0,35336", "ObjectId": 139}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2014", "PODIEL": "4,79452", "ObjectId": 140}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2014", "PODIEL": "2,77585", "ObjectId": 141}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2014", "PODIEL": "3,72278", "ObjectId": 142}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2014", "PODIEL": "3,53201", "ObjectId": 143}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2014", "PODIEL": "3,08277", "ObjectId": 144}
+{"MESTSKA_CAST": "Rača", "ROK": "2014", "PODIEL": "2,36461", "ObjectId": 145}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2014", "PODIEL": "3,59281", "ObjectId": 146}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2014", "PODIEL": "2,37069", "ObjectId": 147}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2014", "PODIEL": "4,15225", "ObjectId": 148}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2014", "PODIEL": "4,51578", "ObjectId": 149}
+{"MESTSKA_CAST": "Devín", "ROK": "2014", "PODIEL": "4,58716", "ObjectId": 150}
+{"MESTSKA_CAST": "Lamač", "ROK": "2014", "PODIEL": "4,83092", "ObjectId": 151}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2003", "PODIEL": "4,79926", "ObjectId": 152}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2003", "PODIEL": "4,46194", "ObjectId": 153}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2003", "PODIEL": "4,52599", "ObjectId": 154}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2003", "PODIEL": "3,66197", "ObjectId": 155}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2003", "PODIEL": "4,12844", "ObjectId": 156}
+{"MESTSKA_CAST": "Rača", "ROK": "2003", "PODIEL": "3,05523", "ObjectId": 157}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2003", "PODIEL": "3,27103", "ObjectId": 158}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2003", "PODIEL": "2,88462", "ObjectId": 159}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2003", "PODIEL": "2,43337", "ObjectId": 160}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2003", "PODIEL": "4,20054", "ObjectId": 161}
+{"MESTSKA_CAST": "Devín", "ROK": "2003", "PODIEL": "5,88235", "ObjectId": 162}
+{"MESTSKA_CAST": "Lamač", "ROK": "2003", "PODIEL": "1,97183", "ObjectId": 163}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2003", "PODIEL": "5,14706", "ObjectId": 164}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2003", "PODIEL": "3,12500", "ObjectId": 165}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2003", "PODIEL": "0,00000", "ObjectId": 166}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2003", "PODIEL": "3,17726", "ObjectId": 167}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2003", "PODIEL": "0,00000", "ObjectId": 168}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2004", "PODIEL": "6,10413", "ObjectId": 169}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2004", "PODIEL": "2,96496", "ObjectId": 170}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2004", "PODIEL": "8,74266", "ObjectId": 171}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2004", "PODIEL": "6,14793", "ObjectId": 172}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2004", "PODIEL": "9,70976", "ObjectId": 173}
+{"MESTSKA_CAST": "Rača", "ROK": "2004", "PODIEL": "5,13419", "ObjectId": 174}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2004", "PODIEL": "6,00858", "ObjectId": 175}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2004", "PODIEL": "2,96896", "ObjectId": 176}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2004", "PODIEL": "4,46694", "ObjectId": 177}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2004", "PODIEL": "5,07813", "ObjectId": 178}
+{"MESTSKA_CAST": "Devín", "ROK": "2004", "PODIEL": "1,25000", "ObjectId": 179}
+{"MESTSKA_CAST": "Lamač", "ROK": "2004", "PODIEL": "6,40244", "ObjectId": 180}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2004", "PODIEL": "0,64935", "ObjectId": 181}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2004", "PODIEL": "0,00000", "ObjectId": 182}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2004", "PODIEL": "0,00000", "ObjectId": 183}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2004", "PODIEL": "6,33922", "ObjectId": 184}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2004", "PODIEL": "5,15464", "ObjectId": 185}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2005", "PODIEL": "11,56606", "ObjectId": 186}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2005", "PODIEL": "4,60960", "ObjectId": 187}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2005", "PODIEL": "6,78648", "ObjectId": 188}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2005", "PODIEL": "3,56522", "ObjectId": 189}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2005", "PODIEL": "9,00607", "ObjectId": 190}
+{"MESTSKA_CAST": "Rača", "ROK": "2005", "PODIEL": "7,29847", "ObjectId": 191}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2005", "PODIEL": "7,11111", "ObjectId": 192}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2005", "PODIEL": "5,39877", "ObjectId": 193}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2005", "PODIEL": "4,44553", "ObjectId": 194}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2005", "PODIEL": "5,47875", "ObjectId": 195}
+{"MESTSKA_CAST": "Devín", "ROK": "2005", "PODIEL": "16,66667", "ObjectId": 196}
+{"MESTSKA_CAST": "Lamač", "ROK": "2005", "PODIEL": "8,02139", "ObjectId": 197}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2005", "PODIEL": "4,57516", "ObjectId": 198}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2005", "PODIEL": "16,66667", "ObjectId": 199}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2005", "PODIEL": "9,52381", "ObjectId": 200}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2014", "PODIEL": "4,34783", "ObjectId": 201}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2014", "PODIEL": "1,55039", "ObjectId": 202}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2014", "PODIEL": "0,00000", "ObjectId": 203}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2014", "PODIEL": "5,82696", "ObjectId": 204}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2014", "PODIEL": "1,02389", "ObjectId": 205}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2015", "PODIEL": "20,25924", "ObjectId": 206}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2015", "PODIEL": "5,76389", "ObjectId": 207}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2015", "PODIEL": "10,93713", "ObjectId": 208}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2015", "PODIEL": "4,50070", "ObjectId": 209}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2015", "PODIEL": "9,17856", "ObjectId": 210}
+{"MESTSKA_CAST": "Rača", "ROK": "2015", "PODIEL": "6,54664", "ObjectId": 211}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2015", "PODIEL": "7,79661", "ObjectId": 212}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2015", "PODIEL": "8,93921", "ObjectId": 213}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2015", "PODIEL": "7,83730", "ObjectId": 214}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2015", "PODIEL": "7,53463", "ObjectId": 215}
+{"MESTSKA_CAST": "Devín", "ROK": "2015", "PODIEL": "7,60870", "ObjectId": 216}
+{"MESTSKA_CAST": "Lamač", "ROK": "2015", "PODIEL": "10,15625", "ObjectId": 217}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2015", "PODIEL": "5,19481", "ObjectId": 218}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2015", "PODIEL": "0,00000", "ObjectId": 219}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2015", "PODIEL": "4,45860", "ObjectId": 220}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2015", "PODIEL": "6,90602", "ObjectId": 221}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2015", "PODIEL": "6,61479", "ObjectId": 222}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2016", "PODIEL": "11,96787", "ObjectId": 223}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2016", "PODIEL": "3,19149", "ObjectId": 224}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2016", "PODIEL": "6,01081", "ObjectId": 225}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2016", "PODIEL": "2,17391", "ObjectId": 226}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2016", "PODIEL": "6,43123", "ObjectId": 227}
+{"MESTSKA_CAST": "Rača", "ROK": "2016", "PODIEL": "4,60307", "ObjectId": 228}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2016", "PODIEL": "4,56026", "ObjectId": 229}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2016", "PODIEL": "7,37327", "ObjectId": 230}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2016", "PODIEL": "5,06823", "ObjectId": 231}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2016", "PODIEL": "6,68842", "ObjectId": 232}
+{"MESTSKA_CAST": "Devín", "ROK": "2016", "PODIEL": "5,26316", "ObjectId": 233}
+{"MESTSKA_CAST": "Lamač", "ROK": "2016", "PODIEL": "4,61165", "ObjectId": 234}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2016", "PODIEL": "3,34572", "ObjectId": 235}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2016", "PODIEL": "5,55556", "ObjectId": 236}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2016", "PODIEL": "6,56934", "ObjectId": 237}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2016", "PODIEL": "6,49129", "ObjectId": 238}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2016", "PODIEL": "7,48899", "ObjectId": 239}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2017", "PODIEL": "18,72579", "ObjectId": 240}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2017", "PODIEL": "3,55030", "ObjectId": 241}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2017", "PODIEL": "6,28272", "ObjectId": 242}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2017", "PODIEL": "2,10368", "ObjectId": 243}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2017", "PODIEL": "7,48683", "ObjectId": 244}
+{"MESTSKA_CAST": "Rača", "ROK": "2017", "PODIEL": "4,46735", "ObjectId": 245}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2017", "PODIEL": "4,49102", "ObjectId": 246}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2017", "PODIEL": "7,63260", "ObjectId": 247}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2017", "PODIEL": "3,41566", "ObjectId": 248}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2017", "PODIEL": "6,15224", "ObjectId": 249}
+{"MESTSKA_CAST": "Devín", "ROK": "2017", "PODIEL": "3,68421", "ObjectId": 250}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2008", "PODIEL": "3,26087", "ObjectId": 251}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2008", "PODIEL": "5,15524", "ObjectId": 252}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2008", "PODIEL": "3,78378", "ObjectId": 253}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2009", "PODIEL": "22,55723", "ObjectId": 254}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2009", "PODIEL": "5,57157", "ObjectId": 255}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2009", "PODIEL": "8,49858", "ObjectId": 256}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2009", "PODIEL": "3,59712", "ObjectId": 257}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2009", "PODIEL": "9,95692", "ObjectId": 258}
+{"MESTSKA_CAST": "Rača", "ROK": "2009", "PODIEL": "7,45273", "ObjectId": 259}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2009", "PODIEL": "8,79121", "ObjectId": 260}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2009", "PODIEL": "10,38407", "ObjectId": 261}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2009", "PODIEL": "4,78781", "ObjectId": 262}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2009", "PODIEL": "15,40470", "ObjectId": 263}
+{"MESTSKA_CAST": "Devín", "ROK": "2009", "PODIEL": "12,00000", "ObjectId": 264}
+{"MESTSKA_CAST": "Lamač", "ROK": "2009", "PODIEL": "7,10227", "ObjectId": 265}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2009", "PODIEL": "6,02410", "ObjectId": 266}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2009", "PODIEL": "9,37500", "ObjectId": 267}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2009", "PODIEL": "14,28571", "ObjectId": 268}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2009", "PODIEL": "5,05995", "ObjectId": 269}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2009", "PODIEL": "5,51181", "ObjectId": 270}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2010", "PODIEL": "13,70826", "ObjectId": 271}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2010", "PODIEL": "3,44000", "ObjectId": 272}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2010", "PODIEL": "5,48751", "ObjectId": 273}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2010", "PODIEL": "2,91339", "ObjectId": 274}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2010", "PODIEL": "6,22601", "ObjectId": 275}
+{"MESTSKA_CAST": "Rača", "ROK": "2010", "PODIEL": "4,05157", "ObjectId": 276}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2010", "PODIEL": "3,36700", "ObjectId": 277}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2010", "PODIEL": "4,48113", "ObjectId": 278}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2010", "PODIEL": "3,57698", "ObjectId": 279}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2010", "PODIEL": "7,72421", "ObjectId": 280}
+{"MESTSKA_CAST": "Devín", "ROK": "2010", "PODIEL": "4,16667", "ObjectId": 281}
+{"MESTSKA_CAST": "Lamač", "ROK": "2010", "PODIEL": "3,56347", "ObjectId": 282}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2010", "PODIEL": "5,14469", "ObjectId": 283}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2010", "PODIEL": "4,61538", "ObjectId": 284}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2010", "PODIEL": "2,85714", "ObjectId": 285}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2010", "PODIEL": "4,23005", "ObjectId": 286}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2010", "PODIEL": "5,96026", "ObjectId": 287}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2011", "PODIEL": "15,67275", "ObjectId": 288}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2011", "PODIEL": "2,33258", "ObjectId": 289}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2011", "PODIEL": "5,79053", "ObjectId": 290}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2011", "PODIEL": "3,79182", "ObjectId": 291}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2011", "PODIEL": "8,01577", "ObjectId": 292}
+{"MESTSKA_CAST": "Rača", "ROK": "2011", "PODIEL": "6,19098", "ObjectId": 293}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2011", "PODIEL": "5,73477", "ObjectId": 294}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2011", "PODIEL": "4,46927", "ObjectId": 295}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2011", "PODIEL": "2,44565", "ObjectId": 296}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2011", "PODIEL": "7,38372", "ObjectId": 297}
+{"MESTSKA_CAST": "Devín", "ROK": "2011", "PODIEL": "12,12121", "ObjectId": 298}
+{"MESTSKA_CAST": "Lamač", "ROK": "2011", "PODIEL": "3,66133", "ObjectId": 299}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2011", "PODIEL": "4,00000", "ObjectId": 300}
+{"MESTSKA_CAST": "Devín", "ROK": "2020", "PODIEL": "12,79070", "ObjectId": 301}
+{"MESTSKA_CAST": "Lamač", "ROK": "2020", "PODIEL": "4,72103", "ObjectId": 302}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2020", "PODIEL": "5,35373", "ObjectId": 303}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2020", "PODIEL": "8,69565", "ObjectId": 304}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2020", "PODIEL": "4,81928", "ObjectId": 305}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2020", "PODIEL": "5,51709", "ObjectId": 306}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2020", "PODIEL": "5,20833", "ObjectId": 307}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2021", "PODIEL": "8,91473", "ObjectId": 308}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2021", "PODIEL": "3,68732", "ObjectId": 309}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2021", "PODIEL": "4,16018", "ObjectId": 310}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2021", "PODIEL": "3,10403", "ObjectId": 311}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2021", "PODIEL": "4,84165", "ObjectId": 312}
+{"MESTSKA_CAST": "Rača", "ROK": "2021", "PODIEL": "3,08176", "ObjectId": 313}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2021", "PODIEL": "5,92885", "ObjectId": 314}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2021", "PODIEL": "3,71661", "ObjectId": 315}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2021", "PODIEL": "3,35498", "ObjectId": 316}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2021", "PODIEL": "4,92669", "ObjectId": 317}
+{"MESTSKA_CAST": "Devín", "ROK": "2021", "PODIEL": "7,52688", "ObjectId": 318}
+{"MESTSKA_CAST": "Lamač", "ROK": "2021", "PODIEL": "5,19802", "ObjectId": 319}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2021", "PODIEL": "1,63934", "ObjectId": 320}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2021", "PODIEL": "8,95522", "ObjectId": 321}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2021", "PODIEL": "0,96154", "ObjectId": 322}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2021", "PODIEL": "4,89804", "ObjectId": 323}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2021", "PODIEL": "4,49438", "ObjectId": 324}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2000 – 2004", "PODIEL": "5,81385", "ObjectId": 325}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2000 – 2004", "PODIEL": "4,21078", "ObjectId": 326}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2000 – 2004", "PODIEL": "5,88998", "ObjectId": 327}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2000 – 2004", "PODIEL": "4,78647", "ObjectId": 328}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2000 – 2004", "PODIEL": "5,66814", "ObjectId": 329}
+{"MESTSKA_CAST": "Rača", "ROK": "2000 – 2004", "PODIEL": "4,13400", "ObjectId": 330}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2000 – 2004", "PODIEL": "5,07437", "ObjectId": 331}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2000 – 2004", "PODIEL": "3,29207", "ObjectId": 332}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2000 – 2004", "PODIEL": "4,16713", "ObjectId": 333}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2000 – 2004", "PODIEL": "5,24656", "ObjectId": 334}
+{"MESTSKA_CAST": "Devín", "ROK": "2000 – 2004", "PODIEL": "3,47003", "ObjectId": 335}
+{"MESTSKA_CAST": "Lamač", "ROK": "2000 – 2004", "PODIEL": "4,96815", "ObjectId": 336}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2000 – 2004", "PODIEL": "3,50404", "ObjectId": 337}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2000 – 2004", "PODIEL": "1,89873", "ObjectId": 338}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2000 – 2004", "PODIEL": "1,39860", "ObjectId": 339}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2000 – 2004", "PODIEL": "4,45507", "ObjectId": 340}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2000 – 2004", "PODIEL": "3,17125", "ObjectId": 341}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2017 – 2021", "PODIEL": "12,84751", "ObjectId": 342}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2017 – 2021", "PODIEL": "3,77525", "ObjectId": 343}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2017 – 2021", "PODIEL": "5,61139", "ObjectId": 344}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2017 – 2021", "PODIEL": "3,13096", "ObjectId": 345}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2017 – 2021", "PODIEL": "6,12304", "ObjectId": 346}
+{"MESTSKA_CAST": "Rača", "ROK": "2017 – 2021", "PODIEL": "3,67383", "ObjectId": 347}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2017 – 2021", "PODIEL": "5,27778", "ObjectId": 348}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2017 – 2021", "PODIEL": "5,28880", "ObjectId": 349}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2017 – 2021", "PODIEL": "3,65210", "ObjectId": 350}
+{"MESTSKA_CAST": "Lamač", "ROK": "2017", "PODIEL": "6,44258", "ObjectId": 351}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2017", "PODIEL": "6,22120", "ObjectId": 352}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2017", "PODIEL": "2,85714", "ObjectId": 353}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2017", "PODIEL": "4,47761", "ObjectId": 354}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2017", "PODIEL": "6,28426", "ObjectId": 355}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2017", "PODIEL": "5,09259", "ObjectId": 356}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2018", "PODIEL": "9,59264", "ObjectId": 357}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2018", "PODIEL": "3,13808", "ObjectId": 358}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2018", "PODIEL": "4,90610", "ObjectId": 359}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2018", "PODIEL": "3,03260", "ObjectId": 360}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2018", "PODIEL": "5,00379", "ObjectId": 361}
+{"MESTSKA_CAST": "Rača", "ROK": "2018", "PODIEL": "2,78330", "ObjectId": 362}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2018", "PODIEL": "4,84848", "ObjectId": 363}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2018", "PODIEL": "5,47046", "ObjectId": 364}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2018", "PODIEL": "3,21730", "ObjectId": 365}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2018", "PODIEL": "4,83146", "ObjectId": 366}
+{"MESTSKA_CAST": "Devín", "ROK": "2018", "PODIEL": "0,69930", "ObjectId": 367}
+{"MESTSKA_CAST": "Lamač", "ROK": "2018", "PODIEL": "5,27778", "ObjectId": 368}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2018", "PODIEL": "2,43506", "ObjectId": 369}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2018", "PODIEL": "4,54545", "ObjectId": 370}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2018", "PODIEL": "2,32558", "ObjectId": 371}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2018", "PODIEL": "5,46936", "ObjectId": 372}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2018", "PODIEL": "2,29885", "ObjectId": 373}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2019", "PODIEL": "14,37524", "ObjectId": 374}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2019", "PODIEL": "4,46549", "ObjectId": 375}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2019", "PODIEL": "6,47169", "ObjectId": 376}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2019", "PODIEL": "3,52941", "ObjectId": 377}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2019", "PODIEL": "6,80611", "ObjectId": 378}
+{"MESTSKA_CAST": "Rača", "ROK": "2019", "PODIEL": "3,30106", "ObjectId": 379}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2019", "PODIEL": "4,24837", "ObjectId": 380}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2019", "PODIEL": "5,11111", "ObjectId": 381}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2019", "PODIEL": "3,57483", "ObjectId": 382}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2019", "PODIEL": "7,16316", "ObjectId": 383}
+{"MESTSKA_CAST": "Devín", "ROK": "2019", "PODIEL": "4,67290", "ObjectId": 384}
+{"MESTSKA_CAST": "Lamač", "ROK": "2019", "PODIEL": "5,16796", "ObjectId": 385}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2019", "PODIEL": "2,59259", "ObjectId": 386}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2019", "PODIEL": "4,59770", "ObjectId": 387}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2019", "PODIEL": "1,84332", "ObjectId": 388}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2019", "PODIEL": "5,60634", "ObjectId": 389}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2019", "PODIEL": "2,10970", "ObjectId": 390}
+{"MESTSKA_CAST": "Staré Mesto", "ROK": "2020", "PODIEL": "12,85781", "ObjectId": 391}
+{"MESTSKA_CAST": "Podunajské Biskupice", "ROK": "2020", "PODIEL": "4,04823", "ObjectId": 392}
+{"MESTSKA_CAST": "Ružinov", "ROK": "2020", "PODIEL": "6,21581", "ObjectId": 393}
+{"MESTSKA_CAST": "Vrakuňa", "ROK": "2020", "PODIEL": "4,03670", "ObjectId": 394}
+{"MESTSKA_CAST": "Nové Mesto", "ROK": "2020", "PODIEL": "6,41261", "ObjectId": 395}
+{"MESTSKA_CAST": "Rača", "ROK": "2020", "PODIEL": "5,08693", "ObjectId": 396}
+{"MESTSKA_CAST": "Vajnory", "ROK": "2020", "PODIEL": "7,83410", "ObjectId": 397}
+{"MESTSKA_CAST": "Devínska Nová Ves", "ROK": "2020", "PODIEL": "4,75087", "ObjectId": 398}
+{"MESTSKA_CAST": "Dúbravka", "ROK": "2020", "PODIEL": "4,80046", "ObjectId": 399}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2020", "PODIEL": "7,28065", "ObjectId": 400}
+{"MESTSKA_CAST": "Karlova Ves", "ROK": "2017 – 2021", "PODIEL": "6,05542", "ObjectId": 401}
+{"MESTSKA_CAST": "Devín", "ROK": "2017 – 2021", "PODIEL": "5,00808", "ObjectId": 402}
+{"MESTSKA_CAST": "Lamač", "ROK": "2017 – 2021", "PODIEL": "5,31915", "ObjectId": 403}
+{"MESTSKA_CAST": "Záhorská Bystrica", "ROK": "2017 – 2021", "PODIEL": "3,49361", "ObjectId": 404}
+{"MESTSKA_CAST": "Čunovo", "ROK": "2017 – 2021", "PODIEL": "5,58659", "ObjectId": 405}
+{"MESTSKA_CAST": "Jarovce", "ROK": "2017 – 2021", "PODIEL": "2,67559", "ObjectId": 406}
+{"MESTSKA_CAST": "Petržalka", "ROK": "2017 – 2021", "PODIEL": "5,56102", "ObjectId": 407}
+{"MESTSKA_CAST": "Rusovce", "ROK": "2017 – 2021", "PODIEL": "3,69004", "ObjectId": 408}

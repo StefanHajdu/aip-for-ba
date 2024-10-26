@@ -1,0 +1,404 @@
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "0", "POCET_OBYVATELOV": -46, "ObjectId": 1}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "75", "POCET_OBYVATELOV": -61, "ObjectId": 2}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "12", "POCET_OBYVATELOV": -43, "ObjectId": 3}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "50", "POCET_OBYVATELOV": -53, "ObjectId": 4}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "37", "POCET_OBYVATELOV": -59, "ObjectId": 5}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "75", "POCET_OBYVATELOV": 70, "ObjectId": 6}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "0", "POCET_OBYVATELOV": 46, "ObjectId": 7}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "37", "POCET_OBYVATELOV": 67, "ObjectId": 8}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "50", "POCET_OBYVATELOV": 45, "ObjectId": 9}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "12", "POCET_OBYVATELOV": 46, "ObjectId": 10}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "75", "POCET_OBYVATELOV": -13, "ObjectId": 11}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "0", "POCET_OBYVATELOV": -55, "ObjectId": 12}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "38", "POCET_OBYVATELOV": -50, "ObjectId": 13}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "50", "POCET_OBYVATELOV": -51, "ObjectId": 14}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "13", "POCET_OBYVATELOV": -38, "ObjectId": 15}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "75", "POCET_OBYVATELOV": 18, "ObjectId": 16}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "0", "POCET_OBYVATELOV": 54, "ObjectId": 17}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "38", "POCET_OBYVATELOV": 68, "ObjectId": 18}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "50", "POCET_OBYVATELOV": 40, "ObjectId": 19}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "13", "POCET_OBYVATELOV": 41, "ObjectId": 20}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "76", "POCET_OBYVATELOV": -34, "ObjectId": 21}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "38", "POCET_OBYVATELOV": -58, "ObjectId": 22}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "1", "POCET_OBYVATELOV": -26, "ObjectId": 23}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "51", "POCET_OBYVATELOV": -42, "ObjectId": 24}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "13", "POCET_OBYVATELOV": -54, "ObjectId": 25}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "76", "POCET_OBYVATELOV": 52, "ObjectId": 26}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "38", "POCET_OBYVATELOV": 78, "ObjectId": 27}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "1", "POCET_OBYVATELOV": 40, "ObjectId": 28}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "51", "POCET_OBYVATELOV": 31, "ObjectId": 29}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "13", "POCET_OBYVATELOV": 43, "ObjectId": 30}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "76", "POCET_OBYVATELOV": -13, "ObjectId": 31}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "1", "POCET_OBYVATELOV": -57, "ObjectId": 32}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "39", "POCET_OBYVATELOV": -51, "ObjectId": 33}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "51", "POCET_OBYVATELOV": -37, "ObjectId": 34}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "14", "POCET_OBYVATELOV": -38, "ObjectId": 35}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "76", "POCET_OBYVATELOV": 11, "ObjectId": 36}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "1", "POCET_OBYVATELOV": 62, "ObjectId": 37}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "39", "POCET_OBYVATELOV": 58, "ObjectId": 38}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "51", "POCET_OBYVATELOV": 47, "ObjectId": 39}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "14", "POCET_OBYVATELOV": 34, "ObjectId": 40}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "77", "POCET_OBYVATELOV": -30, "ObjectId": 41}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "2", "POCET_OBYVATELOV": -45, "ObjectId": 42}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "39", "POCET_OBYVATELOV": -65, "ObjectId": 43}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "52", "POCET_OBYVATELOV": -46, "ObjectId": 44}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "14", "POCET_OBYVATELOV": -49, "ObjectId": 45}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "77", "POCET_OBYVATELOV": 57, "ObjectId": 46}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "2", "POCET_OBYVATELOV": 49, "ObjectId": 47}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "39", "POCET_OBYVATELOV": 83, "ObjectId": 48}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "52", "POCET_OBYVATELOV": 35, "ObjectId": 49}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "14", "POCET_OBYVATELOV": 40, "ObjectId": 50}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "77", "POCET_OBYVATELOV": -14, "ObjectId": 51}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "2", "POCET_OBYVATELOV": -51, "ObjectId": 52}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "40", "POCET_OBYVATELOV": -55, "ObjectId": 53}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "52", "POCET_OBYVATELOV": -42, "ObjectId": 54}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "15", "POCET_OBYVATELOV": -37, "ObjectId": 55}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "77", "POCET_OBYVATELOV": 20, "ObjectId": 56}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "40", "POCET_OBYVATELOV": 51, "ObjectId": 57}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "52", "POCET_OBYVATELOV": 42, "ObjectId": 58}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "2", "POCET_OBYVATELOV": 56, "ObjectId": 59}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "15", "POCET_OBYVATELOV": 35, "ObjectId": 60}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "78", "POCET_OBYVATELOV": -34, "ObjectId": 61}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "40", "POCET_OBYVATELOV": -68, "ObjectId": 62}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "53", "POCET_OBYVATELOV": -37, "ObjectId": 63}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "3", "POCET_OBYVATELOV": -60, "ObjectId": 64}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "15", "POCET_OBYVATELOV": -42, "ObjectId": 65}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "78", "POCET_OBYVATELOV": 52, "ObjectId": 66}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "40", "POCET_OBYVATELOV": 62, "ObjectId": 67}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "53", "POCET_OBYVATELOV": 39, "ObjectId": 68}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "3", "POCET_OBYVATELOV": 40, "ObjectId": 69}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "78", "POCET_OBYVATELOV": -10, "ObjectId": 70}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "41", "POCET_OBYVATELOV": -69, "ObjectId": 71}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "15", "POCET_OBYVATELOV": 33, "ObjectId": 72}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "53", "POCET_OBYVATELOV": -47, "ObjectId": 73}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "3", "POCET_OBYVATELOV": -64, "ObjectId": 74}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "78", "POCET_OBYVATELOV": 11, "ObjectId": 75}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "41", "POCET_OBYVATELOV": 74, "ObjectId": 76}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "16", "POCET_OBYVATELOV": -52, "ObjectId": 77}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "53", "POCET_OBYVATELOV": 34, "ObjectId": 78}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "3", "POCET_OBYVATELOV": 69, "ObjectId": 79}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "41", "POCET_OBYVATELOV": -71, "ObjectId": 80}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "79", "POCET_OBYVATELOV": -29, "ObjectId": 81}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "16", "POCET_OBYVATELOV": 23, "ObjectId": 82}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "54", "POCET_OBYVATELOV": -29, "ObjectId": 83}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "4", "POCET_OBYVATELOV": -50, "ObjectId": 84}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "41", "POCET_OBYVATELOV": 66, "ObjectId": 85}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "79", "POCET_OBYVATELOV": 41, "ObjectId": 86}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "16", "POCET_OBYVATELOV": -46, "ObjectId": 87}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "54", "POCET_OBYVATELOV": 46, "ObjectId": 88}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "4", "POCET_OBYVATELOV": 43, "ObjectId": 89}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "42", "POCET_OBYVATELOV": -76, "ObjectId": 90}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "16", "POCET_OBYVATELOV": 33, "ObjectId": 91}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "79", "POCET_OBYVATELOV": -12, "ObjectId": 92}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "54", "POCET_OBYVATELOV": -40, "ObjectId": 93}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "4", "POCET_OBYVATELOV": -60, "ObjectId": 94}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "42", "POCET_OBYVATELOV": 89, "ObjectId": 95}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "17", "POCET_OBYVATELOV": -31, "ObjectId": 96}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "79", "POCET_OBYVATELOV": 16, "ObjectId": 97}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "54", "POCET_OBYVATELOV": 42, "ObjectId": 98}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "4", "POCET_OBYVATELOV": 58, "ObjectId": 99}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "42", "POCET_OBYVATELOV": -65, "ObjectId": 100}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "17", "POCET_OBYVATELOV": 38, "ObjectId": 101}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "80", "POCET_OBYVATELOV": -18, "ObjectId": 102}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "55", "POCET_OBYVATELOV": -46, "ObjectId": 103}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "5", "POCET_OBYVATELOV": -51, "ObjectId": 104}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "42", "POCET_OBYVATELOV": 81, "ObjectId": 105}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "17", "POCET_OBYVATELOV": -26, "ObjectId": 106}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "80", "POCET_OBYVATELOV": 40, "ObjectId": 107}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "55", "POCET_OBYVATELOV": 31, "ObjectId": 108}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "43", "POCET_OBYVATELOV": -72, "ObjectId": 109}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "5", "POCET_OBYVATELOV": 47, "ObjectId": 110}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "17", "POCET_OBYVATELOV": 33, "ObjectId": 111}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "80", "POCET_OBYVATELOV": -6, "ObjectId": 112}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "55", "POCET_OBYVATELOV": -36, "ObjectId": 113}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "43", "POCET_OBYVATELOV": 76, "ObjectId": 114}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "5", "POCET_OBYVATELOV": -54, "ObjectId": 115}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "18", "POCET_OBYVATELOV": -27, "ObjectId": 116}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "43", "POCET_OBYVATELOV": -63, "ObjectId": 117}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "55", "POCET_OBYVATELOV": 26, "ObjectId": 118}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "80", "POCET_OBYVATELOV": 9, "ObjectId": 119}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "43", "POCET_OBYVATELOV": 76, "ObjectId": 120}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "5", "POCET_OBYVATELOV": 63, "ObjectId": 121}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "81", "POCET_OBYVATELOV": -13, "ObjectId": 122}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "56", "POCET_OBYVATELOV": -36, "ObjectId": 123}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "18", "POCET_OBYVATELOV": 37, "ObjectId": 124}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "44", "POCET_OBYVATELOV": -89, "ObjectId": 125}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "56", "POCET_OBYVATELOV": 43, "ObjectId": 126}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "6", "POCET_OBYVATELOV": -47, "ObjectId": 127}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "18", "POCET_OBYVATELOV": -28, "ObjectId": 128}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "81", "POCET_OBYVATELOV": 38, "ObjectId": 129}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "44", "POCET_OBYVATELOV": 76, "ObjectId": 130}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "56", "POCET_OBYVATELOV": -30, "ObjectId": 131}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "6", "POCET_OBYVATELOV": 42, "ObjectId": 132}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "18", "POCET_OBYVATELOV": 29, "ObjectId": 133}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "81", "POCET_OBYVATELOV": -9, "ObjectId": 134}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "44", "POCET_OBYVATELOV": -76, "ObjectId": 135}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "56", "POCET_OBYVATELOV": 39, "ObjectId": 136}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "6", "POCET_OBYVATELOV": -63, "ObjectId": 137}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "19", "POCET_OBYVATELOV": -25, "ObjectId": 138}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "81", "POCET_OBYVATELOV": 21, "ObjectId": 139}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "44", "POCET_OBYVATELOV": 60, "ObjectId": 140}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "57", "POCET_OBYVATELOV": -36, "ObjectId": 141}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "6", "POCET_OBYVATELOV": 61, "ObjectId": 142}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "19", "POCET_OBYVATELOV": 23, "ObjectId": 143}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "82", "POCET_OBYVATELOV": -20, "ObjectId": 144}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "45", "POCET_OBYVATELOV": -74, "ObjectId": 145}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "57", "POCET_OBYVATELOV": 44, "ObjectId": 146}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "7", "POCET_OBYVATELOV": -47, "ObjectId": 147}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "19", "POCET_OBYVATELOV": -25, "ObjectId": 148}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "82", "POCET_OBYVATELOV": 23, "ObjectId": 149}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "45", "POCET_OBYVATELOV": 86, "ObjectId": 150}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "57", "POCET_OBYVATELOV": -38, "ObjectId": 151}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "7", "POCET_OBYVATELOV": 45, "ObjectId": 152}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "19", "POCET_OBYVATELOV": 29, "ObjectId": 153}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "82", "POCET_OBYVATELOV": -7, "ObjectId": 154}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "45", "POCET_OBYVATELOV": -65, "ObjectId": 155}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "57", "POCET_OBYVATELOV": 37, "ObjectId": 156}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "7", "POCET_OBYVATELOV": -64, "ObjectId": 157}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "20", "POCET_OBYVATELOV": -26, "ObjectId": 158}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "82", "POCET_OBYVATELOV": 9, "ObjectId": 159}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "45", "POCET_OBYVATELOV": 81, "ObjectId": 160}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "58", "POCET_OBYVATELOV": -26, "ObjectId": 161}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "7", "POCET_OBYVATELOV": 58, "ObjectId": 162}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "20", "POCET_OBYVATELOV": 14, "ObjectId": 163}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "83", "POCET_OBYVATELOV": -15, "ObjectId": 164}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "46", "POCET_OBYVATELOV": -74, "ObjectId": 165}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "58", "POCET_OBYVATELOV": 25, "ObjectId": 166}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "8", "POCET_OBYVATELOV": -50, "ObjectId": 167}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "20", "POCET_OBYVATELOV": -26, "ObjectId": 168}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "83", "POCET_OBYVATELOV": 27, "ObjectId": 169}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "46", "POCET_OBYVATELOV": 88, "ObjectId": 170}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "58", "POCET_OBYVATELOV": -48, "ObjectId": 171}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "8", "POCET_OBYVATELOV": 33, "ObjectId": 172}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "20", "POCET_OBYVATELOV": 34, "ObjectId": 173}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "83", "POCET_OBYVATELOV": -6, "ObjectId": 174}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "46", "POCET_OBYVATELOV": -62, "ObjectId": 175}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "58", "POCET_OBYVATELOV": 39, "ObjectId": 176}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "8", "POCET_OBYVATELOV": -57, "ObjectId": 177}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "21", "POCET_OBYVATELOV": -16, "ObjectId": 178}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "83", "POCET_OBYVATELOV": 12, "ObjectId": 179}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "46", "POCET_OBYVATELOV": 73, "ObjectId": 180}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "59", "POCET_OBYVATELOV": -31, "ObjectId": 181}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "8", "POCET_OBYVATELOV": 55, "ObjectId": 182}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "21", "POCET_OBYVATELOV": 23, "ObjectId": 183}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "84", "POCET_OBYVATELOV": -14, "ObjectId": 184}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "47", "POCET_OBYVATELOV": -86, "ObjectId": 185}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "59", "POCET_OBYVATELOV": 23, "ObjectId": 186}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "9", "POCET_OBYVATELOV": -54, "ObjectId": 187}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "21", "POCET_OBYVATELOV": -27, "ObjectId": 188}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "84", "POCET_OBYVATELOV": 20, "ObjectId": 189}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "47", "POCET_OBYVATELOV": 63, "ObjectId": 190}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "59", "POCET_OBYVATELOV": -40, "ObjectId": 191}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "9", "POCET_OBYVATELOV": 45, "ObjectId": 192}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "21", "POCET_OBYVATELOV": 30, "ObjectId": 193}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "84", "POCET_OBYVATELOV": -5, "ObjectId": 194}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "47", "POCET_OBYVATELOV": -71, "ObjectId": 195}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "59", "POCET_OBYVATELOV": 29, "ObjectId": 196}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "9", "POCET_OBYVATELOV": -60, "ObjectId": 197}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "22", "POCET_OBYVATELOV": -24, "ObjectId": 198}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "84", "POCET_OBYVATELOV": 16, "ObjectId": 199}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "47", "POCET_OBYVATELOV": 62, "ObjectId": 200}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "60", "POCET_OBYVATELOV": -24, "ObjectId": 201}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "9", "POCET_OBYVATELOV": 55, "ObjectId": 202}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "22", "POCET_OBYVATELOV": 25, "ObjectId": 203}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "85", "POCET_OBYVATELOV": -7, "ObjectId": 204}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "48", "POCET_OBYVATELOV": -88, "ObjectId": 205}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "60", "POCET_OBYVATELOV": 32, "ObjectId": 206}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "10", "POCET_OBYVATELOV": -41, "ObjectId": 207}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "22", "POCET_OBYVATELOV": -23, "ObjectId": 208}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "85", "POCET_OBYVATELOV": 14, "ObjectId": 209}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "48", "POCET_OBYVATELOV": 79, "ObjectId": 210}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "60", "POCET_OBYVATELOV": -26, "ObjectId": 211}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "10", "POCET_OBYVATELOV": 36, "ObjectId": 212}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "22", "POCET_OBYVATELOV": 29, "ObjectId": 213}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "85", "POCET_OBYVATELOV": -6, "ObjectId": 214}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "48", "POCET_OBYVATELOV": -57, "ObjectId": 215}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "60", "POCET_OBYVATELOV": 32, "ObjectId": 216}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "10", "POCET_OBYVATELOV": -53, "ObjectId": 217}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "23", "POCET_OBYVATELOV": -24, "ObjectId": 218}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "85", "POCET_OBYVATELOV": 8, "ObjectId": 219}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "48", "POCET_OBYVATELOV": 55, "ObjectId": 220}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "61", "POCET_OBYVATELOV": -15, "ObjectId": 221}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "10", "POCET_OBYVATELOV": 44, "ObjectId": 222}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "23", "POCET_OBYVATELOV": 19, "ObjectId": 223}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "86", "POCET_OBYVATELOV": -10, "ObjectId": 224}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "49", "POCET_OBYVATELOV": -64, "ObjectId": 225}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "11", "POCET_OBYVATELOV": -31, "ObjectId": 226}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "61", "POCET_OBYVATELOV": 29, "ObjectId": 227}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "23", "POCET_OBYVATELOV": -25, "ObjectId": 228}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "86", "POCET_OBYVATELOV": 17, "ObjectId": 229}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "49", "POCET_OBYVATELOV": 61, "ObjectId": 230}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "23", "POCET_OBYVATELOV": 21, "ObjectId": 231}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "86", "POCET_OBYVATELOV": -2, "ObjectId": 232}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "61", "POCET_OBYVATELOV": -36, "ObjectId": 233}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "11", "POCET_OBYVATELOV": 44, "ObjectId": 234}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "49", "POCET_OBYVATELOV": -36, "ObjectId": 235}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "24", "POCET_OBYVATELOV": -22, "ObjectId": 236}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "86", "POCET_OBYVATELOV": 7, "ObjectId": 237}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "61", "POCET_OBYVATELOV": 27, "ObjectId": 238}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "11", "POCET_OBYVATELOV": -47, "ObjectId": 239}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "49", "POCET_OBYVATELOV": 44, "ObjectId": 240}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "24", "POCET_OBYVATELOV": 18, "ObjectId": 241}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "87", "POCET_OBYVATELOV": -7, "ObjectId": 242}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "62", "POCET_OBYVATELOV": -41, "ObjectId": 243}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "11", "POCET_OBYVATELOV": 64, "ObjectId": 244}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "24", "POCET_OBYVATELOV": -27, "ObjectId": 245}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "87", "POCET_OBYVATELOV": 6, "ObjectId": 246}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "62", "POCET_OBYVATELOV": 22, "ObjectId": 247}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "12", "POCET_OBYVATELOV": -45, "ObjectId": 248}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "24", "POCET_OBYVATELOV": 16, "ObjectId": 249}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "12", "POCET_OBYVATELOV": 43, "ObjectId": 250}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "87", "POCET_OBYVATELOV": -4, "ObjectId": 251}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "87", "POCET_OBYVATELOV": 5, "ObjectId": 252}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "88", "POCET_OBYVATELOV": -6, "ObjectId": 253}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "88", "POCET_OBYVATELOV": 13, "ObjectId": 254}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "88", "POCET_OBYVATELOV": 0, "ObjectId": 255}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "88", "POCET_OBYVATELOV": 8, "ObjectId": 256}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "89", "POCET_OBYVATELOV": -5, "ObjectId": 257}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "25", "POCET_OBYVATELOV": -20, "ObjectId": 258}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "89", "POCET_OBYVATELOV": 11, "ObjectId": 259}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "89", "POCET_OBYVATELOV": -1, "ObjectId": 260}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "89", "POCET_OBYVATELOV": 3, "ObjectId": 261}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "90", "POCET_OBYVATELOV": -2, "ObjectId": 262}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "25", "POCET_OBYVATELOV": 33, "ObjectId": 263}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "90", "POCET_OBYVATELOV": 13, "ObjectId": 264}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "25", "POCET_OBYVATELOV": -24, "ObjectId": 265}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "90", "POCET_OBYVATELOV": 0, "ObjectId": 266}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "25", "POCET_OBYVATELOV": 20, "ObjectId": 267}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "90", "POCET_OBYVATELOV": 2, "ObjectId": 268}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "26", "POCET_OBYVATELOV": -33, "ObjectId": 269}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "91", "POCET_OBYVATELOV": -4, "ObjectId": 270}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "26", "POCET_OBYVATELOV": 27, "ObjectId": 271}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "91", "POCET_OBYVATELOV": 12, "ObjectId": 272}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "26", "POCET_OBYVATELOV": -24, "ObjectId": 273}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "91", "POCET_OBYVATELOV": -3, "ObjectId": 274}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "26", "POCET_OBYVATELOV": 26, "ObjectId": 275}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "91", "POCET_OBYVATELOV": 5, "ObjectId": 276}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "27", "POCET_OBYVATELOV": -36, "ObjectId": 277}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "92", "POCET_OBYVATELOV": 0, "ObjectId": 278}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "27", "POCET_OBYVATELOV": 31, "ObjectId": 279}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "92", "POCET_OBYVATELOV": 9, "ObjectId": 280}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "27", "POCET_OBYVATELOV": -20, "ObjectId": 281}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "92", "POCET_OBYVATELOV": 0, "ObjectId": 282}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "27", "POCET_OBYVATELOV": 27, "ObjectId": 283}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "92", "POCET_OBYVATELOV": 3, "ObjectId": 284}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "28", "POCET_OBYVATELOV": -37, "ObjectId": 285}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "93", "POCET_OBYVATELOV": -3, "ObjectId": 286}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "28", "POCET_OBYVATELOV": 56, "ObjectId": 287}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "93", "POCET_OBYVATELOV": 5, "ObjectId": 288}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "28", "POCET_OBYVATELOV": -36, "ObjectId": 289}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "93", "POCET_OBYVATELOV": -1, "ObjectId": 290}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "28", "POCET_OBYVATELOV": 40, "ObjectId": 291}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "93", "POCET_OBYVATELOV": 2, "ObjectId": 292}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "29", "POCET_OBYVATELOV": -50, "ObjectId": 293}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "94", "POCET_OBYVATELOV": -1, "ObjectId": 294}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "29", "POCET_OBYVATELOV": 33, "ObjectId": 295}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "94", "POCET_OBYVATELOV": 6, "ObjectId": 296}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "29", "POCET_OBYVATELOV": -44, "ObjectId": 297}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "94", "POCET_OBYVATELOV": -1, "ObjectId": 298}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "29", "POCET_OBYVATELOV": 47, "ObjectId": 299}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "94", "POCET_OBYVATELOV": 0, "ObjectId": 300}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "30", "POCET_OBYVATELOV": -36, "ObjectId": 301}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "95", "POCET_OBYVATELOV": -2, "ObjectId": 302}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "30", "POCET_OBYVATELOV": 44, "ObjectId": 303}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "95", "POCET_OBYVATELOV": 5, "ObjectId": 304}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "30", "POCET_OBYVATELOV": -40, "ObjectId": 305}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "95", "POCET_OBYVATELOV": -1, "ObjectId": 306}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "30", "POCET_OBYVATELOV": 40, "ObjectId": 307}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "95", "POCET_OBYVATELOV": 0, "ObjectId": 308}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "31", "POCET_OBYVATELOV": -41, "ObjectId": 309}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "96", "POCET_OBYVATELOV": 0, "ObjectId": 310}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "31", "POCET_OBYVATELOV": 44, "ObjectId": 311}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "96", "POCET_OBYVATELOV": 5, "ObjectId": 312}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "31", "POCET_OBYVATELOV": -49, "ObjectId": 313}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "96", "POCET_OBYVATELOV": 0, "ObjectId": 314}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "31", "POCET_OBYVATELOV": 51, "ObjectId": 315}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "96", "POCET_OBYVATELOV": 0, "ObjectId": 316}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "32", "POCET_OBYVATELOV": -46, "ObjectId": 317}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "97", "POCET_OBYVATELOV": -1, "ObjectId": 318}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "32", "POCET_OBYVATELOV": 48, "ObjectId": 319}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "97", "POCET_OBYVATELOV": 1, "ObjectId": 320}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "32", "POCET_OBYVATELOV": -35, "ObjectId": 321}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "97", "POCET_OBYVATELOV": 0, "ObjectId": 322}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "32", "POCET_OBYVATELOV": 60, "ObjectId": 323}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "97", "POCET_OBYVATELOV": 0, "ObjectId": 324}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "33", "POCET_OBYVATELOV": -61, "ObjectId": 325}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "98", "POCET_OBYVATELOV": -1, "ObjectId": 326}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "33", "POCET_OBYVATELOV": 57, "ObjectId": 327}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "98", "POCET_OBYVATELOV": 4, "ObjectId": 328}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "33", "POCET_OBYVATELOV": -33, "ObjectId": 329}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "98", "POCET_OBYVATELOV": 0, "ObjectId": 330}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "33", "POCET_OBYVATELOV": 60, "ObjectId": 331}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "98", "POCET_OBYVATELOV": 0, "ObjectId": 332}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "34", "POCET_OBYVATELOV": -38, "ObjectId": 333}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "99", "POCET_OBYVATELOV": -3, "ObjectId": 334}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "99", "POCET_OBYVATELOV": 0, "ObjectId": 335}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "99", "POCET_OBYVATELOV": 0, "ObjectId": 336}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "99", "POCET_OBYVATELOV": 0, "ObjectId": 337}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "34", "POCET_OBYVATELOV": 47, "ObjectId": 338}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "34", "POCET_OBYVATELOV": -54, "ObjectId": 339}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "34", "POCET_OBYVATELOV": 71, "ObjectId": 340}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "35", "POCET_OBYVATELOV": -55, "ObjectId": 341}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "35", "POCET_OBYVATELOV": 47, "ObjectId": 342}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "35", "POCET_OBYVATELOV": -39, "ObjectId": 343}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "35", "POCET_OBYVATELOV": 48, "ObjectId": 344}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "36", "POCET_OBYVATELOV": -45, "ObjectId": 345}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "36", "POCET_OBYVATELOV": 59, "ObjectId": 346}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "36", "POCET_OBYVATELOV": -56, "ObjectId": 347}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "36", "POCET_OBYVATELOV": 65, "ObjectId": 348}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "37", "POCET_OBYVATELOV": -42, "ObjectId": 349}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "37", "POCET_OBYVATELOV": 60, "ObjectId": 350}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "62", "POCET_OBYVATELOV": -23, "ObjectId": 351}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "62", "POCET_OBYVATELOV": 29, "ObjectId": 352}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "63", "POCET_OBYVATELOV": -20, "ObjectId": 353}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "63", "POCET_OBYVATELOV": 37, "ObjectId": 354}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "63", "POCET_OBYVATELOV": -28, "ObjectId": 355}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "63", "POCET_OBYVATELOV": 22, "ObjectId": 356}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "64", "POCET_OBYVATELOV": -23, "ObjectId": 357}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "64", "POCET_OBYVATELOV": 32, "ObjectId": 358}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "64", "POCET_OBYVATELOV": -31, "ObjectId": 359}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "64", "POCET_OBYVATELOV": 30, "ObjectId": 360}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "65", "POCET_OBYVATELOV": -30, "ObjectId": 361}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "65", "POCET_OBYVATELOV": 40, "ObjectId": 362}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "65", "POCET_OBYVATELOV": -34, "ObjectId": 363}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "65", "POCET_OBYVATELOV": 42, "ObjectId": 364}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "66", "POCET_OBYVATELOV": -18, "ObjectId": 365}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "66", "POCET_OBYVATELOV": 48, "ObjectId": 366}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "66", "POCET_OBYVATELOV": -28, "ObjectId": 367}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "66", "POCET_OBYVATELOV": 29, "ObjectId": 368}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "67", "POCET_OBYVATELOV": -36, "ObjectId": 369}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "67", "POCET_OBYVATELOV": 60, "ObjectId": 370}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "67", "POCET_OBYVATELOV": -37, "ObjectId": 371}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "67", "POCET_OBYVATELOV": 31, "ObjectId": 372}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "68", "POCET_OBYVATELOV": -41, "ObjectId": 373}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "68", "POCET_OBYVATELOV": 63, "ObjectId": 374}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "68", "POCET_OBYVATELOV": -22, "ObjectId": 375}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "68", "POCET_OBYVATELOV": 29, "ObjectId": 376}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "69", "POCET_OBYVATELOV": -53, "ObjectId": 377}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "69", "POCET_OBYVATELOV": 67, "ObjectId": 378}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "69", "POCET_OBYVATELOV": -24, "ObjectId": 379}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "69", "POCET_OBYVATELOV": 33, "ObjectId": 380}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "70", "POCET_OBYVATELOV": -49, "ObjectId": 381}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "70", "POCET_OBYVATELOV": 96, "ObjectId": 382}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "70", "POCET_OBYVATELOV": -22, "ObjectId": 383}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "70", "POCET_OBYVATELOV": 28, "ObjectId": 384}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "71", "POCET_OBYVATELOV": -47, "ObjectId": 385}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "71", "POCET_OBYVATELOV": 100, "ObjectId": 386}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "71", "POCET_OBYVATELOV": -35, "ObjectId": 387}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "71", "POCET_OBYVATELOV": 16, "ObjectId": 388}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "72", "POCET_OBYVATELOV": -57, "ObjectId": 389}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "72", "POCET_OBYVATELOV": 95, "ObjectId": 390}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "72", "POCET_OBYVATELOV": -26, "ObjectId": 391}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "72", "POCET_OBYVATELOV": 26, "ObjectId": 392}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "73", "POCET_OBYVATELOV": -54, "ObjectId": 393}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "73", "POCET_OBYVATELOV": 101, "ObjectId": 394}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "73", "POCET_OBYVATELOV": -27, "ObjectId": 395}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "73", "POCET_OBYVATELOV": 32, "ObjectId": 396}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "74", "POCET_OBYVATELOV": -53, "ObjectId": 397}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "74", "POCET_OBYVATELOV": 91, "ObjectId": 398}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "74", "POCET_OBYVATELOV": -15, "ObjectId": 399}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "74", "POCET_OBYVATELOV": 22, "ObjectId": 400}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Lamač", "VEK": "100+", "POCET_OBYVATELOV": -3, "ObjectId": 401}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Lamač", "VEK": "100+", "POCET_OBYVATELOV": 0, "ObjectId": 402}
+{"POHLAVIE": "muži", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "100+", "POCET_OBYVATELOV": 0, "ObjectId": 403}
+{"POHLAVIE": "ženy", "MESTSKA_CAST": "Záhorská Bystrica", "VEK": "100+", "POCET_OBYVATELOV": 0, "ObjectId": 404}

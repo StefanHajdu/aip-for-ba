@@ -1,0 +1,103 @@
+{"ID_Stanice": "1", "Názov": "Avion", "GPSlat": "48.1666760000", "GPSlon": "17.1798230000", "ObjectId": 1}
+{"ID_Stanice": "3", "Názov": "Kollárovo námestie", "GPSlat": "48.1493500000", "GPSlon": "17.1135000000", "ObjectId": 2}
+{"ID_Stanice": "4", "Názov": "Hodžovo námestie", "GPSlat": "48.1486500000", "GPSlon": "17.1081000000", "ObjectId": 3}
+{"ID_Stanice": "5", "Názov": "Hlavná stanica", "GPSlat": "48.1578840000", "GPSlon": "17.1058300000", "ObjectId": 4}
+{"ID_Stanice": "6", "Názov": "Mýtna - Slovenský rozhlas", "GPSlat": "48.1532200000", "GPSlon": "17.1141340000", "ObjectId": 5}
+{"ID_Stanice": "8", "Názov": "Pribinova", "GPSlat": "48.1412090000", "GPSlon": "17.1187990000", "ObjectId": 6}
+{"ID_Stanice": "10", "Názov": "Legionárska / Krížna", "GPSlat": "48.1557100000", "GPSlon": "17.1244200000", "ObjectId": 7}
+{"ID_Stanice": "11", "Názov": "Záhradnícka - Justièný palác", "GPSlat": "48.1522740000", "GPSlon": "17.1217970000", "ObjectId": 8}
+{"ID_Stanice": "12", "Názov": "Záhradnícka / Karadžièova - križovatka", "GPSlat": "48.1538200000", "GPSlon": "17.1252400000", "ObjectId": 9}
+{"ID_Stanice": "13", "Názov": "Most SNP", "GPSlat": "48.1399340000", "GPSlon": "17.1044600000", "ObjectId": 10}
+{"ID_Stanice": "14", "Názov": "Romanova ulica", "GPSlat": "48.1174900000", "GPSlon": "17.1100130000", "ObjectId": 11}
+{"ID_Stanice": "15", "Názov": "Starohájska / Osuského", "GPSlat": "48.1196400000", "GPSlon": "17.1176900000", "ObjectId": 12}
+{"ID_Stanice": "16", "Názov": "Furdekova / Šustekova", "GPSlat": "48.1262500000", "GPSlon": "17.1236100000", "ObjectId": 13}
+{"ID_Stanice": "18", "Názov": "Lachova / Furdekova - zástavka MHD", "GPSlat": "48.1242900000", "GPSlon": "17.1200600000", "ObjectId": 14}
+{"ID_Stanice": "20", "Názov": "Budatínska / Šintavská", "GPSlat": "48.1068300000", "GPSlon": "17.0985200000", "ObjectId": 15}
+{"ID_Stanice": "21", "Názov": "Holíèska / Šintavská", "GPSlat": "48.1072100000", "GPSlon": "17.1033900000", "ObjectId": 16}
+{"ID_Stanice": "22", "Názov": "Šintavská / Jantárova cesta", "GPSlat": "48.1066210000", "GPSlon": "17.1055890000", "ObjectId": 17}
+{"ID_Stanice": "23", "Názov": "Lietavská", "GPSlat": "48.1004160000", "GPSlon": "17.1057250000", "ObjectId": 18}
+{"ID_Stanice": "24", "Názov": "Ovsište / námestie", "GPSlat": "48.1199500000", "GPSlon": "17.1306000000", "ObjectId": 19}
+{"ID_Stanice": "26", "Názov": "Jantárová cesta", "GPSlat": "48.1270000000", "GPSlon": "17.1159700000", "ObjectId": 20}
+{"ID_Stanice": "27", "Názov": "Hállova", "GPSlat": "48.1224400000", "GPSlon": "17.1068900000", "ObjectId": 21}
+{"ID_Stanice": "28", "Názov": "Starohájska / Dudova", "GPSlat": "48.1165200000", "GPSlon": "17.1210200000", "ObjectId": 22}
+{"ID_Stanice": "29", "Názov": "Ševèenkova", "GPSlat": "48.1202400000", "GPSlon": "17.1019000000", "ObjectId": 23}
+{"ID_Stanice": "31", "Názov": "Romanova / Kutlíkova", "GPSlat": "48.1108900000", "GPSlon": "17.1123540000", "ObjectId": 24}
+{"ID_Stanice": "32", "Názov": "Gettingova / Mamateyova", "GPSlat": "48.1241600000", "GPSlon": "17.1294200000", "ObjectId": 25}
+{"ID_Stanice": "33", "Názov": "Osuského / Hrobákova", "GPSlat": "48.1189200000", "GPSlon": "17.1154300000", "ObjectId": 26}
+{"ID_Stanice": "35", "Názov": "Sabinovská / Drieòová", "GPSlat": "48.1601600000", "GPSlon": "17.1493300000", "ObjectId": 27}
+{"ID_Stanice": "37", "Názov": "Prievozská / Miletièova", "GPSlat": "48.1474800000", "GPSlon": "17.1415800000", "ObjectId": 28}
+{"ID_Stanice": "38", "Názov": "Mlynské nivy - východ", "GPSlat": "48.1445500000", "GPSlon": "17.1422300000", "ObjectId": 29}
+{"ID_Stanice": "39", "Názov": "Ružinovská koniec - zast. Astronomická", "GPSlat": "48.1587300000", "GPSlon": "17.1765400000", "ObjectId": 30}
+{"ID_Stanice": "40", "Názov": "Križovatka Trnavská / Bajkalská", "GPSlat": "48.1619700000", "GPSlon": "17.1417400000", "ObjectId": 31}
+{"ID_Stanice": "41", "Názov": "Záhradnícka / Svätoplukova", "GPSlat": "48.1542300000", "GPSlon": "17.1290500000", "ObjectId": 32}
+{"ID_Stanice": "42", "Názov": "Bajzova / Prešovská", "GPSlat": "48.1584900000", "GPSlon": "17.1397200000", "ObjectId": 33}
+{"ID_Stanice": "43", "Názov": "Dulovo námestie", "GPSlat": "48.1499600000", "GPSlon": "17.1339600000", "ObjectId": 34}
+{"ID_Stanice": "44", "Názov": "Mierová - miestny úrad Ružinov", "GPSlat": "48.1492500000", "GPSlon": "17.1640400000", "ObjectId": 35}
+{"ID_Stanice": "45", "Názov": "Miletièova / Trenèianska", "GPSlat": "48.1511300000", "GPSlon": "17.1389600000", "ObjectId": 36}
+{"ID_Stanice": "46", "Názov": "Miletièova / Záhradnícka", "GPSlat": "48.1544300000", "GPSlon": "17.1344600000", "ObjectId": 37}
+{"ID_Stanice": "47", "Názov": "Prievozská / Bajkalská", "GPSlat": "48.1487200000", "GPSlon": "17.1473000000", "ObjectId": 38}
+{"ID_Stanice": "48", "Názov": "Ružinovská - Štrkovec", "GPSlat": "48.1567000000", "GPSlon": "17.1499600000", "ObjectId": 39}
+{"ID_Stanice": "49", "Názov": "Súmraèná - Astronomická / Tomášikova", "GPSlat": "48.1581900000", "GPSlon": "17.1682300000", "ObjectId": 40}
+{"ID_Stanice": "50", "Názov": "Trnavská cesta / Max. Hella", "GPSlat": "48.1649100000", "GPSlon": "17.1624000000", "ObjectId": 41}
+{"ID_Stanice": "51", "Názov": "Trenèianska / Priemyselná", "GPSlat": "48.1535200000", "GPSlon": "17.1443300000", "ObjectId": 42}
+{"ID_Stanice": "52", "Názov": "Raèianske Mýto", "GPSlat": "48.1579900000", "GPSlon": "17.1193700000", "ObjectId": 43}
+{"ID_Stanice": "53", "Názov": "IKEA", "GPSlat": "48.1680670000", "GPSlon": "17.1822890000", "ObjectId": 44}
+{"ID_Stanice": "54", "Názov": "Zimný Štadión", "GPSlat": "48.1601280000", "GPSlon": "17.1347430000", "ObjectId": 45}
+{"ID_Stanice": "56", "Názov": "Vajnorská / Tehelná", "GPSlat": "48.1625660000", "GPSlon": "17.1321080000", "ObjectId": 46}
+{"ID_Stanice": "57", "Názov": "Vajnorská / Jarošova", "GPSlat": "48.1656900000", "GPSlon": "17.1357800000", "ObjectId": 47}
+{"ID_Stanice": "58", "Názov": "Trnavské mýto", "GPSlat": "48.1577800000", "GPSlon": "17.1269500000", "ObjectId": 48}
+{"ID_Stanice": "60", "Názov": "Tomášikova / Trnavská", "GPSlat": "48.1651200000", "GPSlon": "17.1493600000", "ObjectId": 49}
+{"ID_Stanice": "61", "Názov": "Bajkalská", "GPSlat": "48.1539700000", "GPSlon": "17.1473500000", "ObjectId": 50}
+{"ID_Stanice": "62", "Názov": "Botanická", "GPSlat": "48.1480700000", "GPSlon": "17.0660100000", "ObjectId": 51}
+{"ID_Stanice": "63", "Názov": "Bratská", "GPSlat": "48.1108100000", "GPSlon": "17.1002000000", "ObjectId": 52}
+{"ID_Stanice": "64", "Názov": "Dolnozemská", "GPSlat": "48.1161400000", "GPSlon": "17.1322900000", "ObjectId": 53}
+{"ID_Stanice": "66", "Názov": "Planckova", "GPSlat": "48.1298290000", "GPSlon": "17.0967190000", "ObjectId": 54}
+{"ID_Stanice": "67", "Názov": "Prístavná Nivy", "GPSlat": "48.1422700000", "GPSlon": "17.1345100000", "ObjectId": 55}
+{"ID_Stanice": "69", "Názov": "Korytnická Podunajské Biskupice", "GPSlat": "48.1316200000", "GPSlon": "17.2086200000", "ObjectId": 56}
+{"ID_Stanice": "70", "Názov": "Blumentál / Americké nám.", "GPSlat": "48.1513600000", "GPSlon": "17.1189000000", "ObjectId": 57}
+{"ID_Stanice": "71", "Názov": "Promenáda Riverpark", "GPSlat": "48.1405182200", "GPSlon": "17.0932488600", "ObjectId": 58}
+{"ID_Stanice": "72", "Názov": "Promenáda PKO", "GPSlat": "48.1422756000", "GPSlon": "17.0847479400", "ObjectId": 59}
+{"ID_Stanice": "73", "Názov": "Slovnaft hlavný vchod", "GPSlat": "48.1285380000", "GPSlon": "17.1765060000", "ObjectId": 60}
+{"ID_Stanice": "74", "Názov": "Tomášikova", "GPSlat": "48.1644055000", "GPSlon": "17.1517369000", "ObjectId": 61}
+{"ID_Stanice": "75", "Názov": "FTVŠ - Nábr. Arm. Gen. Ludvíka Svobodu", "GPSlat": "48.1447340000", "GPSlon": "17.0787690000", "ObjectId": 62}
+{"ID_Stanice": "76", "Názov": "Viedenská - pod mostom SNP", "GPSlat": "48.1369330000", "GPSlon": "17.1050940000", "ObjectId": 63}
+{"ID_Stanice": "77", "Názov": "Hurbanovo námestie", "GPSlat": "48.1461178460", "GPSlon": "17.1074034130", "ObjectId": 64}
+{"ID_Stanice": "78", "Názov": "Kapucínska - Župné námestie", "GPSlat": "48.1456723950", "GPSlon": "17.1059577020", "ObjectId": 65}
+{"ID_Stanice": "79", "Názov": "Námestie slobody", "GPSlat": "48.1514468910", "GPSlon": "17.1118509740", "ObjectId": 66}
+{"ID_Stanice": "80", "Názov": "29. Augusta", "GPSlat": "48.1467946650", "GPSlon": "17.1221965440", "ObjectId": 67}
+{"ID_Stanice": "81", "Názov": "Landererova/Dostojevského rad", "GPSlat": "48.1433304440", "GPSlon": "17.1224463780", "ObjectId": 68}
+{"ID_Stanice": "82", "Názov": "Šancová/Štefanovièova", "GPSlat": "48.1551974890", "GPSlon": "17.1083848800", "ObjectId": 69}
+{"ID_Stanice": "83", "Názov": "Ružinovská/Herlianska", "GPSlat": "48.1573327230", "GPSlon": "17.1563418050", "ObjectId": 70}
+{"ID_Stanice": "86", "Názov": "Námestie SNP", "GPSlat": "48.1456020000", "GPSlon": "17.1106140000", "ObjectId": 71}
+{"ID_Stanice": "87", "Názov": "Šafárikovo námestie", "GPSlat": "48.1418564870", "GPSlon": "17.1156368930", "ObjectId": 72}
+{"ID_Stanice": "88", "Názov": "Dunajská", "GPSlat": "48.1455070000", "GPSlon": "17.1185400000", "ObjectId": 73}
+{"ID_Stanice": "89", "Názov": "Nobelovo námestie", "GPSlat": "48.1297270000", "GPSlon": "17.0996550000", "ObjectId": 74}
+{"ID_Stanice": "90", "Názov": "Antolská", "GPSlat": "48.0992470000", "GPSlon": "17.1148510000", "ObjectId": 75}
+{"ID_Stanice": "91", "Názov": "Sad Janka Krá¾a", "GPSlat": "48.1335820000", "GPSlon": "17.1086300000", "ObjectId": 76}
+{"ID_Stanice": "92", "Názov": "Ursínyho", "GPSlat": "48.1622240000", "GPSlon": "17.1251560000", "ObjectId": 77}
+{"ID_Stanice": "94", "Názov": "DXC Technology", "GPSlat": "48.1654910000", "GPSlon": "17.1770150000", "ObjectId": 78}
+{"ID_Stanice": "95", "Názov": "GBC4", "GPSlat": "48.1635530000", "GPSlon": "17.1781470000", "ObjectId": 79}
+{"ID_Stanice": "96", "Názov": "GBC3", "GPSlat": "48.1639490000", "GPSlon": "17.1766830000", "ObjectId": 80}
+{"ID_Stanice": "97", "Názov": "Modrý most", "GPSlat": "48.1441780000", "GPSlon": "17.1995960000", "ObjectId": 81}
+{"ID_Stanice": "98", "Názov": "Toryská", "GPSlat": "48.1364090000", "GPSlon": "17.2054030000", "ObjectId": 82}
+{"ID_Stanice": "99", "Názov": "Dudvážska", "GPSlat": "48.1378830000", "GPSlon": "17.2134830000", "ObjectId": 83}
+{"ID_Stanice": "100", "Názov": "Buèinová - Miestny úrad Vrakuòa", "GPSlat": "48.1444630000", "GPSlon": "17.2069040000", "ObjectId": 84}
+{"ID_Stanice": "105", "Názov": "BC Einsteinova", "GPSlat": "48.1322100000", "GPSlon": "17.1158200000", "ObjectId": 85}
+{"ID_Stanice": "108", "Názov": "VIVO! Junácka", "GPSlat": "48.1675700000", "GPSlon": "17.1408400000", "ObjectId": 86}
+{"ID_Stanice": "110", "Názov": "Kamenné námestie", "GPSlat": "48.1446100000", "GPSlon": "17.1132300000", "ObjectId": 87}
+{"ID_Stanice": "112", "Názov": "Biely kríž", "GPSlat": "48.1823200000", "GPSlon": "17.1296100000", "ObjectId": 88}
+{"ID_Stanice": "113", "Názov": "Pekná cesta", "GPSlat": "48.1953600000", "GPSlon": "17.1433200000", "ObjectId": 89}
+{"ID_Stanice": "115", "Názov": "Barónka", "GPSlat": "48.2084210000", "GPSlon": "17.1503140000", "ObjectId": 90}
+{"ID_Stanice": "116", "Názov": "Detvianska", "GPSlat": "48.2106300000", "GPSlon": "17.1567900000", "ObjectId": 91}
+{"ID_Stanice": "117", "Názov": "Seberíniho", "GPSlat": "48.1536900000", "GPSlon": "17.1711500000", "ObjectId": 92}
+{"ID_Stanice": "118", "Názov": "Datelinová", "GPSlat": "48.1524100000", "GPSlon": "17.1603400000", "ObjectId": 93}
+{"ID_Stanice": "119", "Názov": "Dr. Vladimíra Clementisa", "GPSlat": "48.1611600000", "GPSlon": "17.1652700000", "ObjectId": 94}
+{"ID_Stanice": "120", "Názov": "Rustaveliho", "GPSlat": "48.2140400000", "GPSlon": "17.1573300000", "ObjectId": 95}
+{"ID_Stanice": "121", "Názov": "Trojièné námesite", "GPSlat": "48.1255470000", "GPSlon": "17.2100490000", "ObjectId": 96}
+{"ID_Stanice": "122", "Názov": "Molecova", "GPSlat": "48.1501260000", "GPSlon": "17.0634110000", "ObjectId": 97}
+{"ID_Stanice": "123", "Názov": "Borská", "GPSlat": "48.1621420000", "GPSlon": "17.0491220000", "ObjectId": 98}
+{"ID_Stanice": "124", "Názov": "Hronská", "GPSlat": "48.1356550000", "GPSlon": "17.2093170000", "ObjectId": 99}
+{"ID_Stanice": "125", "Názov": "Stavbárska", "GPSlat": "48.1395090000", "GPSlon": "17.2021860000", "ObjectId": 100}
+{"ID_Stanice": "126", "Názov": "Ekonomická univerzita", "GPSlat": "48.1261650000", "GPSlon": "17.1313720000", "ObjectId": 101}
+{"ID_Stanice": "127", "Názov": "Zuzany Chalupovej", "GPSlat": "48.0928700000", "GPSlon": "17.1185330000", "ObjectId": 102}
+{"ID_Stanice": "128", "Názov": "Béžová", "GPSlat": "48.0893350000", "GPSlon": "17.1266050000", "ObjectId": 103}

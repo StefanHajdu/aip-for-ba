@@ -1,0 +1,11 @@
+{"OBJECTID": 2, "ID": 2813, "NAME": "Starý most", "NAME_ID": "#2 - Starý most 2", "LAT": 48.140042, "LON": 17.117292, "IN_": "Petržalka", "OUT": "Centrum"}
+{"OBJECTID": 3, "ID": 5718, "NAME": "River Park", "NAME_ID": "#3 - River Park", "LAT": 48.140617, "LON": 17.092472, "IN_": "Centrum", "OUT": "Most Lanfranconi"}
+{"OBJECTID": 4, "ID": 9341, "NAME": "Dolnozemská", "NAME_ID": "#4 - Dolnozemská", "LAT": 48.112534, "LON": 17.128937, "IN_": "Dunajská hrázda", "OUT": "Petržalka"}
+{"OBJECTID": 5, "ID": 7548, "NAME": "Devínska cesta", "NAME_ID": "#5 - Devínska cesta", "LAT": 48.1632527, "LON": 16.9999581, "IN_": "Centrum", "OUT": "Devín"}
+{"OBJECTID": 6, "ID": 6712, "NAME": "Vajnorská", "NAME_ID": "#6 - Vajnorská", "LAT": 48.162144, "LON": 17.131644, "IN_": "Kuchajda", "OUT": "Trnavské mýto (Centrum)"}
+{"OBJECTID": 7, "ID": 5543, "NAME": "Vajnorská > NTC", "NAME_ID": "#7 - Vajnorská > NTC", "LAT": 48.162144, "LON": 17.131644, "IN_": "Trnavské mýto (Centrum)", "OUT": "Kuchajda"}
+{"OBJECTID": 8, "ID": 1394, "NAME": "Most SNP", "NAME_ID": "#8 - Most SNP", "LAT": 48.140495, "LON": 17.104856, "IN_": "Petržalka", "OUT": "Centrum"}
+{"OBJECTID": 9, "ID": 2571, "NAME": "Páričkova", "NAME_ID": "#9 - Páričkova", "LAT": 48.14807, "LON": 17.128182, "IN_": "Dulovo námestie", "OUT": "Mlynské nivy (Centrum)"}
+{"OBJECTID": 10, "ID": 4781, "NAME": "Dunajská", "NAME_ID": "#10 - Dunajská", "LAT": 48.144847, "LON": 17.116058, "IN_": "Centrum (Kamenné námestie)", "OUT": "Mlynské nivy"}
+{"OBJECTID": 11, "ID": 6123, "NAME": "Most Apollo", "NAME_ID": "#11 - Most Apollo", "LAT": 48.1346613, "LON": 17.1279278, "IN_": "Centrum", "OUT": "Petržalka"}
+{"OBJECTID": 12, "ID": 2410, "NAME": "Železná studnička", "NAME_ID": "#12 - Železná studnička", "LAT": 48.176254, "LON": 17.073272, "IN_": "Ku studničke", "OUT": "Od studničky"}

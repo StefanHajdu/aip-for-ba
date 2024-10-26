@@ -1,0 +1,218 @@
+<html lang="en">
+<head>
+  <title>Extract Changes : (BF_vyznamne_2020_09_17)</title>
+  <link href='/ESRI.ArcGIS.SDS.REST.css' rel='stylesheet' type='text/css'>
+  <link rel='SHORTCUT ICON' href='/favicon.ico'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> 
+  <meta name="keywords" content="ArcGIS REST Services Directory Root">
+</head>
+<body>
+<table width="100%" id="userTable" class="userTable">
+<tr>
+<td class="titlecell">ArcGIS REST Services Directory</td>
+</tr>
+</table>
+<table id="navTable" class="navTable" width="100%">
+<tbody>
+<tr valign="top">
+<td class="breadcrumbs">
+<span id="homeBreadcrumbs"><a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">Home</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services">services</a> </span>> <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/BF_vyznamne_2020_09_17/FeatureServer">BF_vyznamne_2020_09_17 (FeatureServer)</a> > <a href="/pRlN1m0su5BYaFAS/ArcGIS/rest/services/BF_vyznamne_2020_09_17/FeatureServer/extractChanges"><i>extractChanges</i></a> </td>
+<td align="right">
+ | <a href="http://resources.arcgis.com/en/help/arcgis-rest-api/" target="_blank">API Reference</a></td>
+</tr>
+</tbody>
+</table>
+<div class='restHeader'>
+<h2>Extract Changes : (BF_vyznamne_2020_09_17)</h2>
+</div>
+<div class='restBody'>
+<i>
+Note: This operation is only supported via POST
+</i>
+<form>
+<table class='formTable'>
+<tr>
+<td>
+Layers:
+</td>
+<td>
+<input type="text" name="layers" value="" size="75" />
+</td>
+</tr>
+<tr>
+<td>
+ServerGens:
+</td>
+<td>
+<input type="text" name="serverGens" value="" size="25" />
+</td>
+</tr>
+<tr>
+<td>LayerQueries:</td>
+<td><textarea name='layerQueries' rows='5' cols='55' ></textarea></td>
+</tr>
+<tr>
+<td>Geometry:</td>
+<td><textarea name='geometry' rows='5' cols='55' ></textarea></td>
+</tr>
+<tr>
+<td>Geometry Type:</td>
+<td>
+<select name="geometryType">
+<option value="esriGeometryEnvelope" selected='true'>Envelope</option>
+<option value="esriGeometryPoint">Point</option>
+<option value="esriGeometryPolyline">Polyline</option>
+<option value="esriGeometryPolygon">Polygon</option>
+<option value="esriGeometryMultipoint">Multipoint</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+Input Spatial Reference:
+</td>
+<td>
+<input type="text" name="inSR" value="" size="75" />
+</td>
+</tr>
+<tr>
+<td>
+Output Spatial Reference:
+</td>
+<td>
+<input type="text" name="outSR" value="" size="75" />
+</td>
+</tr>
+<tr>
+<td>Return Inserts:</td>
+<td>
+<input type="radio" name="returnInserts" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="returnInserts" value="false"/>False</td>
+</tr>
+<tr>
+<td>Return Updates:</td>
+<td>
+<input type="radio" name="returnUpdates" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="returnUpdates" value="false"/>False</td>
+</tr>
+<tr>
+<td>Return Deletes:</td>
+<td>
+<input type="radio" name="returnDeletes" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="returnDeletes" value="false"/>False</td>
+</tr>
+<tr>
+<td>Return Deleted Features:</td>
+<td>
+<input type="radio" name="returnDeletedFeatures" value="true"/>True&nbsp;
+<input type="radio" name="returnDeletedFeatures" value="false" checked='true'/>False</td>
+</tr>
+<tr>
+<td>Layer Server Gens:</td>
+<td><textarea name='layerServerGens' rows='5' cols='50' ></textarea></td>
+</tr>
+<tr>
+<td>Return IDs Only:</td>
+<td>
+<input type="radio" name="returnIdsOnly" value="true"/>True&nbsp;
+<input type="radio" name="returnIdsOnly" value="false" checked='true'/>False</td>
+</tr>
+<tr>
+<td>ReturnHasGeometryUpdates : </td>
+<td>
+<input type="radio" name="returnHasGeometryUpdates" value="true"/>True&nbsp;
+<input type="radio" name="returnHasGeometryUpdates" value="false" checked='true'/>False</td>
+</tr>
+<tr>
+<td>Fields To Compare:</td>
+<td><textarea name='fieldsToCompare' rows='5' cols='50' ></textarea></td>
+</tr>
+<tr>
+<td>Return Extent Only:</td>
+<td>
+<input type="radio" name="returnExtentOnly" value="true"/>True&nbsp;
+<input type="radio" name="returnExtentOnly" value="false" checked='true'/>False</td>
+</tr>
+<tr>
+<td>Return Attachments:</td>
+<td>
+<input type="radio" name="returnAttachments" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="returnAttachments" value="false"/>False</td>
+</tr>
+<tr>
+<td>Extract Changes Asynchronously:</td>
+<td>
+<input type="radio" name="async" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="async" value="false"/>False</td>
+</tr>
+<tr>
+<td>Return Attachments Data By Url:</td>
+<td>
+<input type="radio" name="returnAttachmentsDataByUrl" value="true" checked='true'/>True&nbsp;
+<input type="radio" name="returnAttachmentsDataByUrl" value="false"/>False</td>
+</tr>
+<tr>
+<td>Transport Type:</td>
+<td>
+<select name="transportType">
+<option value="esriTransportTypeUrl" selected="true">Url</option>
+<option value="esriTransportTypeEmbedded" >Embedded</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>Data Format:</td>
+<td>
+<select name="dataFormat">
+<option value="sqlite">SQLITE</option>
+<option value="json" selected="true">JSON</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>Changes Extent Grid Cell:</td>
+<td>
+<select name="changesExtentGridCell">
+<option value="none" selected ="true">None</option>
+<option value="large" >Large</option>
+<option value="medium" >Medium</option>
+<option value="small" >Small</option>
+</select>
+</td>
+</tr>
+<tr id="formatComboRow">
+<td>Format: </td>
+<td>
+<select name="f">
+<option value="html" selected='true'>HTML</option>
+<option value="pjson">JSON</option>
+</select>
+</td>
+</tr>
+<tr><td colspan='2' align='left'>
+<input type='submit' value='Extract Changes' />
+</td></tr>
+</table>
+<input type="hidden" id="token" name="token" value="" />
+</form>
+<table class='formTable'><tr><td><pre>statusURL : <a href="https://services8.arcgis.com/pRlN1m0su5BYaFAS/ArcGIS/rest/services/BF_vyznamne_2020_09_17/FeatureServer/jobs/35198aec-363e-4c77-a9d2-68ada6329599">https://services8.arcgis.com/pRlN1m0su5BYaFAS/ArcGIS/rest/services/BF_vyznamne_2020_09_17/FeatureServer/jobs/35198aec-363e-4c77-a9d2-68ada6329599</a></pre></td></tr></table>
+<script>
+function removeElement(id) {
+element = document.getElementById(id);
+if (element != null) {
+element.parentNode.removeChild(element);
+}}
+if ( window.location !== window.parent.location ){
+removeElement('homeBreadcrumbs');
+removeElement('servicesBreadcrumb');
+removeElement('viewInSection');
+jsonLinkTable = document.getElementById('jsonLinkTable'); 
+if (jsonLinkTable != null) {
+jsonLinkTable.innerHTML = '<table><tr><td class="apiref"><a href="?f=pjson&token=" target="_self">JSON</a></td></tr></table>'; 
+}
+removeElement('userTable');
+}
+</script>
+</div>
+</body>
+</html>

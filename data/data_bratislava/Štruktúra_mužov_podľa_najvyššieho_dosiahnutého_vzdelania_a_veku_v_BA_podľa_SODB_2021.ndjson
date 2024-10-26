@@ -1,0 +1,75 @@
+{"VZDELANIE": "základná škola", "VEK": "15 – 19", "PODIEL": "84,867", "ObjectId": 1}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "15 – 19", "PODIEL": "2,728", "ObjectId": 2}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "15 – 19", "PODIEL": "11,257", "ObjectId": 3}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "15 – 19", "PODIEL": "0,599", "ObjectId": 4}
+{"VZDELANIE": "vysoká škola", "VEK": "15 – 19", "PODIEL": "0,115", "ObjectId": 5}
+{"VZDELANIE": "základná škola", "VEK": "20 – 24", "PODIEL": "7,662", "ObjectId": 6}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "20 – 24", "PODIEL": "7,416", "ObjectId": 7}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "20 – 24", "PODIEL": "63,422", "ObjectId": 8}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "20 – 24", "PODIEL": "3,531", "ObjectId": 9}
+{"VZDELANIE": "vysoká škola", "VEK": "20 – 24", "PODIEL": "17,751", "ObjectId": 10}
+{"VZDELANIE": "základná škola", "VEK": "25 – 29", "PODIEL": "4,450", "ObjectId": 11}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "25 – 29", "PODIEL": "7,660", "ObjectId": 12}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "25 – 29", "PODIEL": "33,830", "ObjectId": 13}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "25 – 29", "PODIEL": "4,220", "ObjectId": 14}
+{"VZDELANIE": "vysoká škola", "VEK": "25 – 29", "PODIEL": "49,619", "ObjectId": 15}
+{"VZDELANIE": "základná škola", "VEK": "30 – 34", "PODIEL": "3,194", "ObjectId": 16}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "30 – 34", "PODIEL": "8,105", "ObjectId": 17}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "30 – 34", "PODIEL": "26,284", "ObjectId": 18}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "30 – 34", "PODIEL": "4,251", "ObjectId": 19}
+{"VZDELANIE": "vysoká škola", "VEK": "30 – 34", "PODIEL": "57,943", "ObjectId": 20}
+{"VZDELANIE": "základná škola", "VEK": "35 – 39", "PODIEL": "2,628", "ObjectId": 21}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "35 – 39", "PODIEL": "9,443", "ObjectId": 22}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "35 – 39", "PODIEL": "26,193", "ObjectId": 23}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "35 – 39", "PODIEL": "5,806", "ObjectId": 24}
+{"VZDELANIE": "vysoká škola", "VEK": "35 – 39", "PODIEL": "55,702", "ObjectId": 25}
+{"VZDELANIE": "základná škola", "VEK": "40 – 44", "PODIEL": "3,078", "ObjectId": 26}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "40 – 44", "PODIEL": "12,574", "ObjectId": 27}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "40 – 44", "PODIEL": "25,967", "ObjectId": 28}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "40 – 44", "PODIEL": "7,144", "ObjectId": 29}
+{"VZDELANIE": "vysoká škola", "VEK": "40 – 44", "PODIEL": "50,998", "ObjectId": 30}
+{"VZDELANIE": "základná škola", "VEK": "45 – 49", "PODIEL": "3,193", "ObjectId": 31}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "45 – 49", "PODIEL": "18,175", "ObjectId": 32}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "45 – 49", "PODIEL": "26,705", "ObjectId": 33}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "45 – 49", "PODIEL": "6,513", "ObjectId": 34}
+{"VZDELANIE": "vysoká škola", "VEK": "45 – 49", "PODIEL": "45,204", "ObjectId": 35}
+{"VZDELANIE": "základná škola", "VEK": "50 – 54", "PODIEL": "3,765", "ObjectId": 36}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "50 – 54", "PODIEL": "18,705", "ObjectId": 37}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "50 – 54", "PODIEL": "27,249", "ObjectId": 38}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "50 – 54", "PODIEL": "7,085", "ObjectId": 39}
+{"VZDELANIE": "vysoká škola", "VEK": "50 – 54", "PODIEL": "43,028", "ObjectId": 40}
+{"VZDELANIE": "základná škola", "VEK": "55 – 59", "PODIEL": "3,997", "ObjectId": 41}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "55 – 59", "PODIEL": "19,736", "ObjectId": 42}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "55 – 59", "PODIEL": "26,259", "ObjectId": 43}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "55 – 59", "PODIEL": "7,313", "ObjectId": 44}
+{"VZDELANIE": "vysoká škola", "VEK": "55 – 59", "PODIEL": "42,588", "ObjectId": 45}
+{"VZDELANIE": "základná škola", "VEK": "60 – 64", "PODIEL": "4,250", "ObjectId": 46}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "60 – 64", "PODIEL": "22,676", "ObjectId": 47}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "60 – 64", "PODIEL": "22,999", "ObjectId": 48}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "60 – 64", "PODIEL": "6,804", "ObjectId": 49}
+{"VZDELANIE": "vysoká škola", "VEK": "60 – 64", "PODIEL": "43,168", "ObjectId": 50}
+{"VZDELANIE": "základná škola", "VEK": "65 – 69", "PODIEL": "4,726", "ObjectId": 51}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "65 – 69", "PODIEL": "21,940", "ObjectId": 52}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "65 – 69", "PODIEL": "23,215", "ObjectId": 53}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "65 – 69", "PODIEL": "6,478", "ObjectId": 54}
+{"VZDELANIE": "vysoká škola", "VEK": "65 – 69", "PODIEL": "43,566", "ObjectId": 55}
+{"VZDELANIE": "základná škola", "VEK": "70 – 74", "PODIEL": "3,787", "ObjectId": 56}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "70 – 74", "PODIEL": "20,937", "ObjectId": 57}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "70 – 74", "PODIEL": "23,236", "ObjectId": 58}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "70 – 74", "PODIEL": "6,877", "ObjectId": 59}
+{"VZDELANIE": "vysoká škola", "VEK": "70 – 74", "PODIEL": "45,122", "ObjectId": 60}
+{"VZDELANIE": "základná škola", "VEK": "75 – 79", "PODIEL": "3,502", "ObjectId": 61}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "75 – 79", "PODIEL": "19,351", "ObjectId": 62}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "75 – 79", "PODIEL": "21,302", "ObjectId": 63}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "75 – 79", "PODIEL": "6,329", "ObjectId": 64}
+{"VZDELANIE": "vysoká škola", "VEK": "75 – 79", "PODIEL": "49,517", "ObjectId": 65}
+{"VZDELANIE": "základná škola", "VEK": "80 – 84", "PODIEL": "3,976", "ObjectId": 66}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "80 – 84", "PODIEL": "19,416", "ObjectId": 67}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "80 – 84", "PODIEL": "21,404", "ObjectId": 68}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "80 – 84", "PODIEL": "6,524", "ObjectId": 69}
+{"VZDELANIE": "vysoká škola", "VEK": "80 – 84", "PODIEL": "48,587", "ObjectId": 70}
+{"VZDELANIE": "základná škola", "VEK": "85+", "PODIEL": "4,190", "ObjectId": 71}
+{"VZDELANIE": "stredná škola bez maturity", "VEK": "85+", "PODIEL": "17,774", "ObjectId": 72}
+{"VZDELANIE": "stredná škola s maturitou", "VEK": "85+", "PODIEL": "17,943", "ObjectId": 73}
+{"VZDELANIE": "vyššia odborná škola", "VEK": "85+", "PODIEL": "5,798", "ObjectId": 74}
+{"VZDELANIE": "vysoká škola", "VEK": "85+", "PODIEL": "54,295", "ObjectId": 75}

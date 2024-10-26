@@ -1,0 +1,110 @@
+{"VZDELANIE": "bez vzdelania", "ROK": "2000", "PODIEL": "4,3408", "ObjectId": 1}
+{"VZDELANIE": "bez vzdelania", "ROK": "2011", "PODIEL": "11,5268", "ObjectId": 2}
+{"VZDELANIE": "základná škola", "ROK": "2000", "PODIEL": "7,8778", "ObjectId": 3}
+{"VZDELANIE": "základná škola", "ROK": "2011", "PODIEL": "2,6289", "ObjectId": 4}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2000", "PODIEL": "19,6141", "ObjectId": 5}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2000", "PODIEL": "27,0096", "ObjectId": 6}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2011", "PODIEL": "5,2578", "ObjectId": 7}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2011", "PODIEL": "36,6026", "ObjectId": 8}
+{"VZDELANIE": "vysoká škola", "ROK": "2000", "PODIEL": "41,1576", "ObjectId": 9}
+{"VZDELANIE": "bez vzdelania", "ROK": "2001", "PODIEL": "6,4795", "ObjectId": 10}
+{"VZDELANIE": "vysoká škola", "ROK": "2011", "PODIEL": "43,9838", "ObjectId": 11}
+{"VZDELANIE": "bez vzdelania", "ROK": "2012", "PODIEL": "30,1471", "ObjectId": 12}
+{"VZDELANIE": "základná škola", "ROK": "2001", "PODIEL": "11,2311", "ObjectId": 13}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2001", "PODIEL": "15,3348", "ObjectId": 14}
+{"VZDELANIE": "základná škola", "ROK": "2012", "PODIEL": "2,9412", "ObjectId": 15}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2012", "PODIEL": "5,1471", "ObjectId": 16}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2001", "PODIEL": "31,5335", "ObjectId": 17}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2012", "PODIEL": "40,1471", "ObjectId": 18}
+{"VZDELANIE": "vysoká škola", "ROK": "2001", "PODIEL": "35,4212", "ObjectId": 19}
+{"VZDELANIE": "vysoká škola", "ROK": "2012", "PODIEL": "21,6176", "ObjectId": 20}
+{"VZDELANIE": "bez vzdelania", "ROK": "2013", "PODIEL": "37,2937", "ObjectId": 21}
+{"VZDELANIE": "bez vzdelania", "ROK": "2002", "PODIEL": "14,4681", "ObjectId": 22}
+{"VZDELANIE": "základná škola", "ROK": "2002", "PODIEL": "5,5319", "ObjectId": 23}
+{"VZDELANIE": "základná škola", "ROK": "2013", "PODIEL": "3,6304", "ObjectId": 24}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2013", "PODIEL": "9,5710", "ObjectId": 25}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2002", "PODIEL": "13,7589", "ObjectId": 26}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2002", "PODIEL": "30,2128", "ObjectId": 27}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2013", "PODIEL": "28,0528", "ObjectId": 28}
+{"VZDELANIE": "vysoká škola", "ROK": "2013", "PODIEL": "21,4521", "ObjectId": 29}
+{"VZDELANIE": "vysoká škola", "ROK": "2002", "PODIEL": "36,0284", "ObjectId": 30}
+{"VZDELANIE": "bez vzdelania", "ROK": "2003", "PODIEL": "12,5616", "ObjectId": 31}
+{"VZDELANIE": "bez vzdelania", "ROK": "2014", "PODIEL": "61,4815", "ObjectId": 32}
+{"VZDELANIE": "základná škola", "ROK": "2014", "PODIEL": "1,7284", "ObjectId": 33}
+{"VZDELANIE": "základná škola", "ROK": "2003", "PODIEL": "8,1281", "ObjectId": 34}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2003", "PODIEL": "17,9803", "ObjectId": 35}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2014", "PODIEL": "3,7037", "ObjectId": 36}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2014", "PODIEL": "17,2840", "ObjectId": 37}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2003", "PODIEL": "26,8473", "ObjectId": 38}
+{"VZDELANIE": "vysoká škola", "ROK": "2003", "PODIEL": "34,4828", "ObjectId": 39}
+{"VZDELANIE": "vysoká škola", "ROK": "2014", "PODIEL": "15,5556", "ObjectId": 40}
+{"VZDELANIE": "bez vzdelania", "ROK": "2015", "PODIEL": "19,8966", "ObjectId": 41}
+{"VZDELANIE": "bez vzdelania", "ROK": "2004", "PODIEL": "7,7457", "ObjectId": 42}
+{"VZDELANIE": "základná škola", "ROK": "2004", "PODIEL": "8,2081", "ObjectId": 43}
+{"VZDELANIE": "základná škola", "ROK": "2015", "PODIEL": "6,1370", "ObjectId": 44}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2015", "PODIEL": "6,1370", "ObjectId": 45}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2004", "PODIEL": "15,2601", "ObjectId": 46}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2004", "PODIEL": "29,1329", "ObjectId": 47}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2015", "PODIEL": "41,3437", "ObjectId": 48}
+{"VZDELANIE": "vysoká škola", "ROK": "2015", "PODIEL": "26,4858", "ObjectId": 49}
+{"VZDELANIE": "vysoká škola", "ROK": "2004", "PODIEL": "39,6532", "ObjectId": 50}
+{"VZDELANIE": "bez vzdelania", "ROK": "2005", "PODIEL": "5,9512", "ObjectId": 51}
+{"VZDELANIE": "bez vzdelania", "ROK": "2016", "PODIEL": "43,7806", "ObjectId": 52}
+{"VZDELANIE": "základná škola", "ROK": "2016", "PODIEL": "2,8404", "ObjectId": 53}
+{"VZDELANIE": "základná škola", "ROK": "2005", "PODIEL": "5,7561", "ObjectId": 54}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2005", "PODIEL": "10,1463", "ObjectId": 55}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2016", "PODIEL": "4,1136", "ObjectId": 56}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2016", "PODIEL": "17,9236", "ObjectId": 57}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2005", "PODIEL": "29,3659", "ObjectId": 58}
+{"VZDELANIE": "vysoká škola", "ROK": "2005", "PODIEL": "48,7805", "ObjectId": 59}
+{"VZDELANIE": "vysoká škola", "ROK": "2016", "PODIEL": "31,3418", "ObjectId": 60}
+{"VZDELANIE": "bez vzdelania", "ROK": "2017", "PODIEL": "34,9155", "ObjectId": 61}
+{"VZDELANIE": "bez vzdelania", "ROK": "2006", "PODIEL": "8,7719", "ObjectId": 62}
+{"VZDELANIE": "základná škola", "ROK": "2006", "PODIEL": "4,8246", "ObjectId": 63}
+{"VZDELANIE": "základná škola", "ROK": "2017", "PODIEL": "3,5398", "ObjectId": 64}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2017", "PODIEL": "5,3902", "ObjectId": 65}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2006", "PODIEL": "6,6886", "ObjectId": 66}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2006", "PODIEL": "35,5263", "ObjectId": 67}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2017", "PODIEL": "21,0780", "ObjectId": 68}
+{"VZDELANIE": "vysoká škola", "ROK": "2017", "PODIEL": "35,0764", "ObjectId": 69}
+{"VZDELANIE": "vysoká škola", "ROK": "2006", "PODIEL": "44,1886", "ObjectId": 70}
+{"VZDELANIE": "bez vzdelania", "ROK": "2007", "PODIEL": "9,4604", "ObjectId": 71}
+{"VZDELANIE": "bez vzdelania", "ROK": "2018", "PODIEL": "50,6631", "ObjectId": 72}
+{"VZDELANIE": "základná škola", "ROK": "2018", "PODIEL": "2,7851", "ObjectId": 73}
+{"VZDELANIE": "základná škola", "ROK": "2007", "PODIEL": "5,5963", "ObjectId": 74}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2007", "PODIEL": "8,3944", "ObjectId": 75}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2018", "PODIEL": "2,3873", "ObjectId": 76}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2018", "PODIEL": "15,6499", "ObjectId": 77}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2007", "PODIEL": "35,7761", "ObjectId": 78}
+{"VZDELANIE": "vysoká škola", "ROK": "2007", "PODIEL": "40,7728", "ObjectId": 79}
+{"VZDELANIE": "vysoká škola", "ROK": "2018", "PODIEL": "28,5146", "ObjectId": 80}
+{"VZDELANIE": "bez vzdelania", "ROK": "2019", "PODIEL": "36,0097", "ObjectId": 81}
+{"VZDELANIE": "bez vzdelania", "ROK": "2008", "PODIEL": "9,4749", "ObjectId": 82}
+{"VZDELANIE": "základná škola", "ROK": "2008", "PODIEL": "7,7055", "ObjectId": 83}
+{"VZDELANIE": "základná škola", "ROK": "2019", "PODIEL": "3,1630", "ObjectId": 84}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2019", "PODIEL": "5,1095", "ObjectId": 85}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2008", "PODIEL": "9,3607", "ObjectId": 86}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2008", "PODIEL": "36,5297", "ObjectId": 87}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2019", "PODIEL": "19,4647", "ObjectId": 88}
+{"VZDELANIE": "vysoká škola", "ROK": "2019", "PODIEL": "36,2530", "ObjectId": 89}
+{"VZDELANIE": "vysoká škola", "ROK": "2008", "PODIEL": "36,9292", "ObjectId": 90}
+{"VZDELANIE": "bez vzdelania", "ROK": "2020", "PODIEL": "29,1444", "ObjectId": 91}
+{"VZDELANIE": "bez vzdelania", "ROK": "2009", "PODIEL": "10,8284", "ObjectId": 92}
+{"VZDELANIE": "základná škola", "ROK": "2020", "PODIEL": "5,3476", "ObjectId": 93}
+{"VZDELANIE": "základná škola", "ROK": "2009", "PODIEL": "5,6099", "ObjectId": 94}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2020", "PODIEL": "5,2585", "ObjectId": 95}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2009", "PODIEL": "11,3503", "ObjectId": 96}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2020", "PODIEL": "23,1729", "ObjectId": 97}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2009", "PODIEL": "34,7684", "ObjectId": 98}
+{"VZDELANIE": "vysoká škola", "ROK": "2020", "PODIEL": "37,0766", "ObjectId": 99}
+{"VZDELANIE": "vysoká škola", "ROK": "2009", "PODIEL": "37,4429", "ObjectId": 100}
+{"VZDELANIE": "bez vzdelania", "ROK": "2021", "PODIEL": "42,2452", "ObjectId": 101}
+{"VZDELANIE": "bez vzdelania", "ROK": "2010", "PODIEL": "10,9179", "ObjectId": 102}
+{"VZDELANIE": "základná škola", "ROK": "2021", "PODIEL": "4,1359", "ObjectId": 103}
+{"VZDELANIE": "základná škola", "ROK": "2010", "PODIEL": "3,8647", "ObjectId": 104}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2021", "PODIEL": "3,9882", "ObjectId": 105}
+{"VZDELANIE": "stredná škola bez maturity", "ROK": "2010", "PODIEL": "6,8599", "ObjectId": 106}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2021", "PODIEL": "19,3501", "ObjectId": 107}
+{"VZDELANIE": "stredná škola s maturitou", "ROK": "2010", "PODIEL": "36,9082", "ObjectId": 108}
+{"VZDELANIE": "vysoká škola", "ROK": "2021", "PODIEL": "30,1329", "ObjectId": 109}
+{"VZDELANIE": "vysoká škola", "ROK": "2010", "PODIEL": "41,4493", "ObjectId": 110}
