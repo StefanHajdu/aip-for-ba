@@ -4,9 +4,12 @@ from bs4 import BeautifulSoup
 from urllib.parse import urljoin, urlparse
 from time import sleep
 
+
+DATA_PATH = "/workspace/aip-for-ba/data"
+
 # Global variables
 visited = set()
-domain = "https://services8.arcgis.com/pRlN1m0su5BYaFAS/ArcGIS/rest/services"
+domain = "https://www.bkis.sk/podujatia/"
 
 # Function to download and save a webpage
 def save_page(url, content):
@@ -17,7 +20,7 @@ def save_page(url, content):
     if not path.endswith(".html"):
         path = os.path.join(path, "index.html")
     
-    local_path = os.path.join("./data", parsed_url.netloc, path.strip("/"))
+    local_path = os.path.join(f"{DATA_PATH}/domains", parsed_url.netloc, path.strip("/"))
     os.makedirs(os.path.dirname(local_path), exist_ok=True)
     
     # Save the HTML content
